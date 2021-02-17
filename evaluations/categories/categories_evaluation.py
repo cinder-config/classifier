@@ -45,7 +45,7 @@ AVAILABLE_FEATURES = [
     'ch.uzh.ciclassifier.features.travisci.TimeToFixLatestAverage',
 ]
 
-FEATURES_FILE = 'data/export-new.csv'
+FEATURES_FILE = 'data/truth.csv'
 TYPES = ['configuration','repository','travisci']
 results = []
 for i in range(len(TYPES)):

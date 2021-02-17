@@ -11,7 +11,7 @@ from sklearn.metrics import accuracy_score, precision_recall_curve, average_prec
 from parameters import get_rf_parameters, get_features
 import random
 
-FEATURES_FILE = 'data/export-new.csv'
+FEATURES_FILE = 'data/truth.csv'
 
 raw_data = pd.read_csv(FEATURES_FILE)
 labels = raw_data['actual']

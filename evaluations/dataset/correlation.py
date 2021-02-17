@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from helper import short_name
 from parameters import beautify_feature_names, get_features
 
-FEATURES_FILE = '../data/export-new.csv'
+FEATURES_FILE = '../data/truth.csv'
 
 raw_data = pd.read_csv(FEATURES_FILE)
 features = raw_data[get_features()]

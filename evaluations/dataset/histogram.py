@@ -9,7 +9,7 @@ from scipy.stats import stats
 from helper import short_name
 from parameters import get_features, beautify_feature_name
 
-DATA = '../data/export-new.csv'
+DATA = '../data/truth.csv'
 raw_data = pd.read_csv(DATA)
 good = raw_data.loc[raw_data['actual'] == 1]
 bad = raw_data.loc[raw_data['actual'] == 0]

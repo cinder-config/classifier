@@ -6,7 +6,7 @@ from sklearn.model_selection import LeaveOneOut
 
 from parameters import get_rf_parameters, beautify_feature_names, get_features
 
-FEATURES_FILE = '../data/export-new.csv'
+FEATURES_FILE = '../data/truth.csv'
 
 raw_data = pd.read_csv(FEATURES_FILE)
 

@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score, precision_recall_curve, average_prec
 from parameters import get_rf_parameters, get_features, beautify_feature_names
 import matplotlib.pyplot as plt
 
-FEATURES_FILE = '../data/export-new.csv'
+FEATURES_FILE = '../data/truth.csv'
 
 raw_data = pd.read_csv(FEATURES_FILE)
 feature_labels = get_features()

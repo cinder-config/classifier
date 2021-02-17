@@ -8,7 +8,7 @@ import prepare as prep
 from parameters import get_rf_parameters, get_threshold, get_features
 import matplotlib.pyplot as plt
 
-FEATURES_FILE = '../data/export-new.csv'
+FEATURES_FILE = '../data/truth.csv'
 
 raw_data = pd.read_csv(FEATURES_FILE)
 labels = raw_data['actual']
