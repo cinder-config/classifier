@@ -1,0 +1,1253 @@
+﻿project,language,description,watchers,pull_requests,commits,members,issues,bucket,ch.uzh.ciclassifier.features.configuration.EnvSize,ch.uzh.ciclassifier.features.configuration.NumberOfComments,ch.uzh.ciclassifier.features.configuration.NumberOfConfigurationLines,ch.uzh.ciclassifier.features.configuration.NumberOfJobs,ch.uzh.ciclassifier.features.configuration.NumberOfNotifications,ch.uzh.ciclassifier.features.configuration.NumberOfStages,ch.uzh.ciclassifier.features.configuration.ParseScore,ch.uzh.ciclassifier.features.configuration.TemplateSimilarity,ch.uzh.ciclassifier.features.configuration.UniqueInstructions,ch.uzh.ciclassifier.features.configuration.UseBranches,ch.uzh.ciclassifier.features.configuration.UseCache,ch.uzh.ciclassifier.features.configuration.UseDeploy,score
+BhallaLab_moose-examples,Python,Example scripts in MOOSE,2,39,599,10,65,medium,0,0,26,1,1,1,12,6,8,0,0,0,1
+spring-guides_gs-accessing-data-mongodb,Java,Accessing Data with MongoDB :: Learn how to persist data in MongoDB.,70,10,155,4,24,small,0,0,12,1,1,1,12,6,1,0,0,0,0
+libbitcoin_libbitcoin-server,C++,Bitcoin Full Node and Query Server,115,333,502,11,505,medium,1,15,111,6,0,1,43,7,20,0,0,0,1
+cisco_openh264,C++,Open Source H.264 Codec,3563,2518,2796,20,3109,medium,2,0,43,5,0,1,2,7,15,0,0,0,1
+wilr_silverstripe-googlesitemaps,PHP,Google Sitemaps module for the SilverStripe CMS,13,18,47,1,58,small,5,1,33,2,0,1,2,19,10,0,0,0,1
+playframework_play1,Python,Play framework,1758,1168,2626,18,1300,medium,0,0,28,1,2,1,11,10,2,0,0,0,0
+cncf_devstats,Ruby,Convert GitHub Archive files to a Postgres or MySQL database,4,3,425,0,8,small,1,6,46,1,3,1,2,6,19,0,0,0,1
+collinmutembei_III,Python,Bucketlist API service built in Django,2,3,43,1,4,small,0,0,25,1,0,1,11,11,5,1,0,0,1
+TakWolf_Android-AspectRatioLayout,Java,A simple aspect ratio layout for Android.,12,1,70,0,1,small,0,0,21,1,0,1,2,5,3,0,1,0,1
+microsoft_pxt,JavaScript,A kinder JavaScript experience,813,3217,18672,0,5574,big,2,0,30,1,1,1,10,12,5,0,1,0,1
+cburgmer_xmlserializer,JavaScript,xmlserializer serializes a DOM subtree or DOM document into XML/XHTML,25,4,75,0,14,small,0,0,4,1,0,1,2,3,0,0,0,0,0
+ai_autoprefixer-rails,Ruby,Autoprefixer for Ruby and Ruby on Rails,1101,46,837,2,157,small,1,0,15,4,0,1,3,7,2,0,1,0,0
+spryker_product-image,PHP,[READ ONLY] Subtree split of the ProductImage module.,0,0,34,0,0,small,3,0,38,3,0,1,3,21,6,0,1,0,1
+mahmoud-birdsol_laravel-api-responses,PHP,Laravel api response classes implementing the responsible interface,0,3,27,0,3,small,0,0,17,4,0,1,2,15,2,0,1,0,0
+symfony-cmf_block-bundle,PHP,Extends the SonataBlockBundle to integrate with PHPCR ODM,20,171,514,33,251,medium,8,13,67,4,1,1,14,23,10,0,1,0,1
+phax_as2-lib,Java,Library part of my OpenAS2 fork,45,12,998,2,88,small,2,1,56,3,0,1,11,9,3,1,1,0,1
+firegento_firegento-pdf,PHP,"Generates nicer and configurable PDF for invoices, creditmemos and shippings in Magento",100,139,361,0,379,small,1,0,23,5,0,1,13,18,1,0,0,0,1
+moimikey_stripquotes,JavaScript,strip leading/trailing single or double quotes from a string,2,82,163,0,84,small,0,0,6,3,0,1,2,4,0,0,0,0,0
+sergeyklay_php-orm-benchmark,PHP,PHP ORM Benchmark,76,15,142,0,29,small,4,2,97,42,1,1,3,56,28,0,1,0,1
+hellige_ccs-cpp,C++,CCS in C++,17,5,74,1,6,small,5,0,84,8,0,1,3,3,8,0,0,0,1
+apache_druid,Java,Column oriented distributed data store ideal for powering interactive applications,5659,3270,5811,0,5110,big,14,58,637,77,1,3,1,9,42,0,1,0,1
+ccnmtl_mediathread,JavaScript,Django site for multimedia annotations facilitating collaboration on video and image analysis. Developed at the Columbia Center for New Media Teaching and Learning,70,1958,5997,3,1967,big,1,2,28,4,0,1,1,10,2,0,1,0,0
+ArpNetworking_metrics-jvm-extra,Java,0,1,11,73,0,13,small,2,0,18,1,0,1,13,6,4,0,1,0,1
+Cadasta_cadasta-platform,JavaScript,0,58,836,9161,0,1932,big,4,0,75,3,1,1,12,13,25,0,0,0,1
+rapid7_nexpose-client,Ruby,Rapid7 Nexpose API client library written in Ruby,150,187,1097,42,322,popular,2,0,24,4,0,1,113,8,1,1,1,0,1
+thinkshout_feeding-texas,JavaScript,Home of the Feeding Texas website. Development by ThinkShout.,4,257,2316,17,394,medium,1,0,23,1,0,1,12,7,6,1,0,0,1
+concrete5_concrete5,PHP,Official repository for concrete5 development,1235,5051,13734,27,7453,big,0,2,85,8,0,1,12,16,8,0,1,0,1
+galaxyproject_bioblend,Python,A Python library for interacting with CloudMan and Galaxy API,32,93,280,0,193,small,3,11,120,16,0,3,2,15,28,0,0,0,1
+wantedly_dockerfile-terraform,Ruby,Docker image packaging for Terraform,3,19,62,0,21,small,0,0,11,1,1,1,13,6,2,0,0,0,0
+react-boilerplate_react-boilerplate,JavaScript,":fire: Quick setup for performance orientated, offline-first React.js applications featuring Redux, hot-reloading, PostCSS, react-router, ServiceWorker, AppCache, FontFaceObserver and Mocha.",12018,582,1319,23,1482,popular,0,0,26,2,1,1,2,6,6,0,1,0,1
+apigee-internal_microgateway,JavaScript,Microgateway: A lightweight Node.js based API gateway,35,145,694,16,205,medium,0,3,42,6,1,4,83,4,2,0,0,0,0
+inspirehep_inspire-next,Python,INSPIRE overlay repository to be used with https://github.com/inspirehep/invenio@labs branch,39,2636,5870,16,3766,big,7,27,100,4,0,1,33,13,9,0,0,1,1
+UB-Mannheim_PalMA,PHP,PalMA Team Monitor,21,92,749,0,167,small,0,12,26,1,0,1,13,4,6,0,0,0,1
+unepwcmc_ORS-API,Ruby,Online Reporting System API,1,13,252,0,13,small,0,1,14,1,1,1,102,8,3,0,0,0,0
+alibaba_transmittable-thread-local,Java,":octopus: multi-thread context(MTC), a simple 0-dependency java lib for transmitting context between threads even using thread pool.",183,1,299,0,50,small,0,22,64,1,0,1,1,10,10,1,1,0,1
+lightswitch05_table-to-json,JavaScript,Serializes HTML tables into JSON objects.,399,19,127,2,50,small,0,0,5,3,0,1,2,4,0,0,0,0,0
+chef-cookbooks_chef-client,Ruby,Development repository for Chef Client cookbook,126,268,476,31,345,popular,2,0,94,66,0,1,104,9,5,1,0,0,1
+pyromoney_pyromoney-api,JavaScript,0,0,4,30,0,4,small,0,0,17,1,0,1,2,0,5,0,0,0,1
+cosmicradiotv_livehub,PHP,Site that brings you live video from variety of sources,0,0,28,0,10,small,0,0,13,2,0,1,2,15,4,0,0,0,1
+fenix-framework_fenix-framework,Java,"A framework to develop enterprise applications that need transactions, persistence, and a rich domain model.",39,84,742,13,226,medium,0,0,6,2,0,1,2,1,0,0,0,0,0
+alphagov_digitalmarketplace-buyer-frontend,Python,Frontend buyer application for the digital marketplace,3,856,6862,0,866,big,0,0,17,4,0,1,2,10,3,0,0,0,0
+fenos_Notifynder,PHP,Easy Internal Notification management for laravel 4.* / 5.*,461,137,608,2,281,small,2,16,82,19,1,1,113,31,8,0,1,0,1
+wavefrontHQ_wavefront-sdk-python,Python,Wavefront Core Python SDK,1,30,88,0,30,small,0,0,41,4,0,1,3,11,12,0,0,1,1
+HofSpannungMotorsport_CarSoftware,C++,0,1,47,270,0,47,small,0,46,68,1,0,1,12,4,3,0,1,0,1
+puppetlabs_puppetlabs-postgresql,Ruby,Puppet module for managing PostgreSQL,235,953,1105,173,1096,popular,4,0,125,9,1,3,0,13,16,1,1,1,1
+neu-rah_ArduinoMenu,C++,AVR generic menu/interactivity system,259,41,1113,14,241,medium,1,35,74,4,0,1,12,5,10,0,1,0,1
+mehrmann_raytracing,C++,A simple ray tracer,0,2,31,0,2,small,0,0,17,2,0,1,3,2,4,0,0,0,0
+controlshift_nation_builder,Ruby,a ruby gem for the NationBuilder API.,3,4,53,0,5,small,0,0,4,1,0,1,2,3,0,0,0,0,0
+Starou_django-stachoutils,Python,Stachou's Django utils,6,17,511,0,30,small,1,0,33,5,0,1,12,7,9,0,0,0,0
+js-kyle_mincer,JavaScript,Sprockets inspired web assets compiler for Node.JS,440,87,708,2,241,small,0,0,6,2,0,1,12,4,0,0,0,0,0
+skandragon_gryphon_sitemap,Ruby,Generate Rails sitemaps and sitemap indexes for well-behaved models quickly,1,0,34,0,0,small,0,0,15,5,1,1,3,5,2,0,0,0,0
+microfocus-idol_java-idol-types,Java,0,0,0,31,0,0,small,2,5,20,1,0,1,2,5,2,0,0,0,0
+joshuaalpuerto_one-piece-skills,JavaScript,One piece skills manager :sparkles:,0,14,108,0,14,small,0,0,18,1,0,1,2,7,3,0,1,0,1
+DAVKronos_Kronos-Website,Ruby,Repository voor de nieuwe Kronos Website,5,6,740,0,11,small,0,0,16,1,1,1,2,8,5,0,1,0,1
+talenfisher_x3p.js,JavaScript,JavaScript library for working with X3P files,2,0,244,1,2,small,0,0,37,3,1,1,25,8,10,0,0,1,1
+lets-blade_blade,Java,":rocket: A Simple, Elegant Java Web Framework! website ‚Üí",3295,58,1237,57,170,medium,0,0,18,1,0,1,12,5,3,0,0,0,0
+janbar_noson,C++,C++ library to control Sonos player,12,2,339,0,7,small,0,2,39,2,0,1,11,6,7,0,0,0,1
+litl_rauth,Python,"A Python library for OAuth 1.0/a, 2.0, and Ofly.",1051,93,300,29,209,popular,0,0,12,3,0,1,2,6,5,0,0,0,1
+leafty_node-yaml-config,JavaScript,Write your configuration files for node.js in yaml,25,5,27,0,10,small,0,0,9,4,0,1,2,6,1,0,0,0,0
+HonoluluHenk_gcmonitor,Java,Help detect memory leaks and predict OutOfMemory situations,0,0,92,0,0,small,0,8,48,4,0,3,1,11,7,0,1,0,1
+puppetlabs_puppetlabs-apache,Ruby,"Puppet module for the Apache httpd server, maintained by Puppet, Inc.",404,1722,2239,187,1922,popular,4,0,138,11,1,3,0,12,17,1,1,0,1
+intel_libyami-utils,C++,Libyami Utilities,11,95,140,0,119,small,0,16,97,1,1,1,11,7,38,0,0,0,1
+propertyshelf_plone.mls.listing,Python,Plone support for MLS Listings.,0,9,651,0,11,small,1,1,65,5,2,1,12,14,14,0,1,0,1
+Infineon_BlockchainSecurity2Go-Android,Java,Android Demo App for Infineon's Blockchain Security 2Go Starter Kit,4,0,201,0,0,small,2,6,33,1,0,1,2,7,3,0,0,0,1
+VerizonAdPlatforms_OneMobileSDK-controls-android,Java,Public Android implementation of the OneMobileSDK default custom controls interface... demonstrating how customers can implement their own custom video player controls.,0,9,22,0,10,small,0,6,54,1,1,1,32,9,3,0,1,1,1
+CocoaPods_Cork,Ruby,A delightful CLI UI module.,22,8,53,0,15,small,0,0,11,1,0,1,1,5,0,1,1,0,0
+eXolnet_laravel-module,PHP,eXolnet take on some of Laravel implementation,0,1,60,0,12,small,0,0,21,2,0,1,12,15,3,0,0,0,1
+algolia_algoliasearch-client-javascript,JavaScript,???? Algolia Search API Client for JavaScript platforms,374,267,981,0,411,small,0,0,8,1,0,1,3,4,1,1,0,0,0
+ciudadanointeligente_write-it,Python,App to create and send messages to public persons. It's a component of POPLUS project.,34,610,3689,28,1225,medium,1,4,28,2,0,1,12,8,6,0,0,0,0
+shubhra11mishra_pal-tracker,Java,0,0,0,21,0,0,small,1,0,40,2,0,2,24,4,4,0,0,0,1
+armada-ths_ais,Python,Python/Django AIS,13,542,2999,13,568,medium,1,0,27,2,1,1,2,10,5,0,1,0,1
+adhearsion_adhearsion,Ruby,A Ruby framework for building telephony applications,599,225,2386,10,638,medium,3,2,32,7,1,1,3,7,3,0,0,0,1
+HeliumProject_Engine,C++,C++ Frameworks and Game Engine,339,5,2605,11,92,medium,2,0,68,8,1,1,12,8,7,0,0,0,1
+mapbox_mapbox-gl-styles,JavaScript,Prebuilt Mapbox GL styles for use in Mapbox GL JS or the Mapbox Mobile SDKs and as a starting point for custom maps built with Mapbox Studio,185,115,1039,59,331,popular,0,0,12,2,1,1,12,6,2,0,0,0,0
+TrestleAdmin_trestle,Ruby,0,1135,29,483,1,205,small,0,0,28,11,0,1,2,8,3,0,1,0,1
+RestComm_jdiameter,Java,RestComm Diameter Stack and Services,58,37,230,2,133,small,0,1,9,1,0,1,12,4,0,0,0,0,0
+jredmondson_gams,C++,"Home of the Group Autonomy for Mobile Systems project, based at CMU",15,82,1395,16,83,medium,19,16,164,13,0,1,1,9,28,1,0,0,1
+OpenSOC_opensoc-streaming,Java,"Extensible set of Storm topologies and topology attributes for streaming, enriching, indexing, and storing telemetry in Hadoop.",129,7,587,23,15,medium,0,0,15,1,2,1,2,4,1,0,0,0,0
+kostopoulos_todo_mvc,Ruby,0,0,0,35,0,6,small,0,0,7,1,0,1,2,5,2,0,0,0,0
+jenkinsci_warnings-plugin,Java,Jenkins warnings plugin,76,148,1437,301,148,medium,0,0,7,1,0,1,2,4,2,0,0,0,0
+BhallaLab_moose-core,C++,C++ basecode and python scripting interface,14,235,4112,10,370,medium,0,0,36,2,1,1,23,6,5,0,0,0,1
+bpmn-io_diagram-js,JavaScript,A toolbox for displaying and modifying diagrams on the web,458,112,2667,11,322,medium,0,0,6,1,0,1,2,4,2,0,0,0,0
+masneyb_cavedbmanager,Python,"A web interface for the management of cave data. Dynamtically creates PDFs, GIS maps, and other files based on the data that you upload.",3,1,458,1,2,small,0,0,17,1,0,1,13,6,5,0,0,0,1
+NYPL-Simplified_server_core,Python,Shared data model and utilities for Library Simplified server applications,4,818,5574,4,978,big,7,0,53,1,0,1,11,11,15,0,1,0,1
+liip_LiipThemeBundle,PHP,Provides theming support for #Symfony2 Bundles,251,116,245,52,206,popular,2,0,47,11,0,1,13,22,7,0,1,0,1
+tinymce_tinymce,JavaScript,TinyMCE is a JavaScript library for platform independent 'WYSIWYG' or rich text editing. It is released as open source under the LGPL.,5526,844,5518,0,5168,big,0,0,21,1,0,1,1,6,5,0,1,0,1
+mixpanel_mixpanel-js,JavaScript,Official Mixpanel JavaScript Client Library,488,87,815,11,211,medium,0,0,7,2,0,1,2,4,1,0,0,0,0
+brwyatt_puppet-flatpak,Ruby,Puppet module for installing and managing Flatpak packages,4,4,98,0,7,small,3,0,55,4,0,3,103,11,5,1,1,1,1
+77web_DependencyAnalyzerUsage,PHP,0,0,7,36,0,7,small,0,0,34,2,0,1,113,18,4,0,1,0,0
+yarynakorduba_public-transport-networks,JavaScript,This is the repository for the web development Public Transport Networks project,0,0,248,3,0,small,0,0,16,1,0,1,13,7,3,0,1,1,0
+Lartu_ldpl,C++,LDPL 19 Compiler,36,48,282,2,103,small,1,0,15,1,0,1,0,4,3,0,0,0,1
+rcannood_incgraph,C++,0,1,0,33,0,0,small,0,0,3,1,0,1,12,1,0,0,0,0,0
+zuixjs_zuix,JavaScript,"jUIce, Javascript UI Components Enhancer: a lite MVC library.",0,0,44,0,0,small,0,2,13,1,0,1,2,8,2,0,0,0,0
+ULYSSIS-KUL_ipp,Java,i++: a relay run counting system,13,6,164,0,33,small,0,0,14,1,0,1,2,7,5,0,0,0,0
+mapbox_cardboard,JavaScript,tile indexed geo database interface.,46,95,641,52,191,medium,1,0,12,2,0,1,12,6,1,0,0,0,0
+doorkeeper-gem_doorkeeper-jwt,Ruby,JWT Token support for Doorkeeper,126,19,40,2,28,small,0,0,6,3,0,1,2,3,0,0,0,0,0
+sensu_sensu-chef,Ruby,Sensu Chef cookbook.,232,427,535,16,631,medium,0,2,25,1,0,1,12,5,7,0,0,0,0
+fastdlabs_container,PHP,Dobee php simple framework container component.,3,0,61,0,1,small,0,0,8,1,0,1,2,13,2,0,0,0,0
+ianstormtaylor_slate,JavaScript,A completely customizable framework for building rich text editors in the browser.,13992,1121,3659,12,2802,medium,1,4,32,3,0,1,3,6,3,0,1,0,1
+gluehbirnenkopf_gradle-jib,Java,Gradle project to show various integrations.,0,1,41,0,1,small,0,0,14,1,0,1,2,6,5,0,1,0,1
+jubatus_jubatus,C++,Framework and Library for Distributed Online Machine Learning,578,536,3012,14,1245,medium,0,14,66,1,0,1,2,6,25,1,0,0,1
+twaugh_journal-brief,Python,Show interesting new systemd journal entries since last run,19,28,184,0,40,small,0,0,15,2,0,1,12,6,5,0,0,0,1
+JNRowe_versionah,Python,Simple version number mangler,4,11,570,1,16,small,2,0,39,5,0,1,12,13,10,1,0,0,1
+moneyadviceservice_publify,Ruby,Money Advice Service's Marketing Blog,2,237,2244,11,242,medium,1,0,12,1,0,1,2,6,4,0,1,0,1
+sympy_sympy-bot,Python,SymPy pull request helper,38,102,501,17,191,medium,0,0,13,1,0,1,12,5,3,0,0,0,0
+PR2_pr2_calibration,C++,0,2,13,328,0,17,small,6,17,47,4,0,1,12,8,8,0,0,0,1
+excamera_alfalfa,C++,Alfalfa: streaming video done right,919,1,277,0,14,small,0,0,37,1,1,1,112,6,7,0,0,0,1
+olssonm_l5-very-basic-auth,PHP,Stateless HTTP basic auth without the need for a database. For Laravel 5.,98,24,75,0,35,small,2,0,44,7,0,1,0,10,3,0,0,0,1
+reactjs_react-docgen,JavaScript,A CLI and toolbox to extract information from React component files for documentation generation purposes.,2348,157,470,1,362,small,0,1,26,4,0,1,15,9,2,0,1,1,0
+gds-operations_puppet-auditd,Ruby,Puppet module for Auditd,30,47,177,0,48,small,1,0,16,2,0,1,3,6,2,0,0,0,0
+lsphillips_RuntimeError,JavaScript,A better error that is inspired by the Java exception that is also serializable to JSON.,0,0,46,0,0,small,0,0,4,1,0,1,2,3,0,0,0,0,0
+hakan42_chronos,Java,a LED clock controller with REST API,1,0,237,0,5,small,0,0,22,1,0,1,2,4,16,0,0,0,1
+apache_jena,Java,Mirror of Apache Jena,559,571,5186,0,578,big,1,0,10,2,0,1,1,4,2,0,0,0,0
+Sage-Bionetworks_BridgeJavaSDK,Java,Java SDK for the BridgePF server,1,539,892,15,541,medium,0,0,12,1,0,1,12,5,1,0,0,1,0
+azkaban_azkaban,Java,Azkaban workflow manager.,2520,1254,1455,14,2057,medium,1,2,37,1,1,1,10,9,5,0,1,0,1
+popphp_pop-loader,PHP,Pop Loader Component,3,0,38,1,0,small,0,0,14,1,0,1,2,16,3,1,0,0,1
+luoqii_android_common_lib,Java,0,1,0,264,0,0,small,2,10,49,1,0,1,13,8,10,0,0,0,1
+celery_celery,Python,Distributed Task Queue (development branch),12896,1679,9581,10,5966,big,4,0,141,14,1,4,0,16,13,0,1,0,1
+culqi_culqi-java,Java,Guia r√°pida de como usar las librer√≠as del Bot√≥n de Pago WEB en JAVA.,6,8,128,0,13,small,0,0,15,2,1,1,11,7,1,0,0,0,0
+demianmnave_CML,C++,The Configurable Math Library,84,2,551,1,19,small,1,0,53,6,0,1,3,5,8,1,0,0,1
+thoughtbot_suspenders,Ruby,"A Rails template with our standard defaults, ready to deploy to Heroku.",3382,653,1917,81,999,popular,0,0,16,1,0,1,2,8,7,0,1,0,1
+Integreat_cms,PHP,0,16,427,1695,11,863,medium,0,7,44,1,0,1,12,39,26,0,0,0,1
+hyperflow-wms_hyperflow,JavaScript,HyperFlow: a distributed workflow engine,7,3,70,0,8,small,1,0,26,1,0,1,12,9,1,0,0,1,0
+siddharthkp_bundlesize,JavaScript,Keep your bundle size in check,3413,129,464,34,265,popular,0,0,9,1,0,1,2,5,0,0,1,0,0
+gmontard_dockrails,Ruby,Simple CLI to Generate and Run a Rails environment with Docker!,290,3,24,0,7,small,0,0,7,2,0,1,2,5,1,0,1,0,0
+jjYBdx4IL_example-maven-project-setups,Java,0,5,0,249,1,1,small,0,1,27,1,0,1,1,8,10,0,0,0,1
+wmde_FundraisingFrontend,PHP,Fundraising Frontend backend code v2 alpha,124,1413,7171,1,1429,big,1,5,42,1,1,1,2,24,9,0,1,0,1
+roschaefer_story.board,Ruby,0,5,242,1739,10,724,medium,0,0,31,1,1,1,22,10,4,0,0,1,1
+olivierHa_puppet-influxdb,Ruby,Manage Influxdb server using Puppet,6,18,75,0,30,small,2,0,21,4,1,1,13,6,4,0,1,0,1
+SuperdeskWebPublisher_SWPMultiTenancyBundle,PHP,[READ-ONLY] Subtree split of the Superdesk Web Publisher MultiTenancy Bundle,19,2,122,0,6,small,1,0,33,4,0,1,13,24,6,0,1,0,1
+dimazest_poultry,Python,A tweet collection manager,2,5,102,0,6,small,0,0,14,1,0,1,2,6,4,0,0,0,1
+yegor256_hoc,Ruby,"Hits Of Code, an alternative metric for programming efforts measurement",19,1,138,0,14,small,0,0,29,1,0,1,2,9,11,1,1,0,1
+madhephaestus_ESP32Encoder,C++,A Quadrature and half quadrature interrupt driven encoder library supporting 10 encoders,5,0,24,0,0,small,1,21,42,1,0,1,12,5,3,0,1,0,1
+travis-ci_travis-api,Ruby,The public Travis API,287,793,6256,45,887,big,5,0,42,4,0,2,14,11,4,0,1,0,1
+lttb_reselector,JavaScript,Use React Components in css selectors,19,19,189,0,25,small,0,0,12,1,0,1,1,5,3,0,1,0,1
+glut23_webvtt-py,Python,0,28,6,153,0,17,small,0,0,13,6,0,1,2,9,2,0,0,0,0
+spotify_annoy,C++,Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk,5453,176,692,12,374,medium,2,0,34,10,0,1,4,6,2,0,0,0,1
+mate-desktop_caja-dropbox,Python,Dropbox extension for Caja file manager,29,25,128,0,42,small,1,1,76,4,1,1,0,11,6,1,0,1,1
+metamx_java-util,Java,Utility code for java and jvm-based languages,47,71,632,15,76,medium,0,0,11,1,0,1,11,6,0,0,1,0,0
+epics-base_pvDatabaseCPP,C++,0,0,32,205,0,38,small,7,0,32,11,0,1,12,7,2,0,0,0,0
+openknowledge_reactive-jaxrs,Java,An extension to JAX-RS for reactive programming,2,16,176,0,44,small,1,5,27,1,0,1,12,8,2,0,1,0,0
+spree-contrib_spree_i18n,Ruby,I18n translation files for Spree Commerce.,251,358,716,34,495,popular,1,0,50,14,0,1,0,11,7,0,0,0,1
+cakephp_acl,PHP,Plugin for managing ACL in CakePHP applications.,102,97,2905,17,157,medium,5,0,57,13,0,1,3,30,11,0,0,0,1
+rspec_rspec-core,Ruby,RSpec runner and formatters,1032,1351,6560,9,2624,big,1,3,36,7,0,1,12,9,4,1,1,0,1
+enkessler_childprocess,Ruby,Cross-platform Ruby library for managing child processes.,115,28,142,2,63,small,3,0,38,21,0,1,14,8,3,0,1,0,1
+frappe_erpnext,Python,"Open Source ERP built for the Web. Uses Python, MariaDB.",5068,7729,16393,4,17663,big,0,0,70,2,0,1,1,10,31,0,1,0,1
+europeana_Europeana-Patternlab,Java,Source code for the Europeana Web Style Guide.,7,544,5496,0,551,big,0,0,5,1,0,1,2,3,0,0,0,0,0
+rapid7_recog,Ruby,"Pattern recognition for hosts, services, and content",225,205,754,24,236,popular,2,0,26,3,0,1,13,10,4,1,1,0,1
+yeoman_generator,JavaScript,Rails-inspired generator system that provides scaffolding for your apps,955,387,935,25,1116,popular,9,0,21,2,0,1,12,6,0,0,0,0,1
+amadeus4dev_amadeus-java,Java,Java library for the Amadeus travel APIs,25,14,63,0,24,small,0,3,40,1,0,1,27,9,3,0,0,1,1
+nguyentu1602_algorithm-tdd,C++,Implement classical algorithms and data structures under test-driven development.,0,0,121,0,3,small,0,0,4,1,0,1,2,1,1,0,0,0,0
+elopez17_Soundwave,Ruby,"Fullstack app, frontend: react-redux, backend: ruby on rails",0,0,23,1,2,small,0,0,12,1,0,1,2,6,4,0,0,0,1
+agateblue_django-navutils,Python,A lightweight package for handling menus and breadcrumbs in your django project,31,9,138,0,14,small,1,3,45,12,0,1,3,6,2,0,0,0,0
+ultraq_redhorizon,Java,Recreating the original 2D Command & Conquer games for a modern programming community.  Currently used as a file converter for the old C&C filetypes.,3,1,52,0,11,small,0,1,7,1,0,1,2,2,1,0,0,0,0
+OCA_report-print-send,Python,Odoo Printing Services and Printer related addons,52,122,839,22,175,medium,6,2,45,3,0,1,13,8,5,0,1,0,1
+naparuba_shinken,Python,Flexible and scalable monitoring framework,1192,734,5474,23,2024,big,1,12,39,12,0,1,2,9,3,0,1,0,1
+butcherless_gradle-and-java8,Java,Research and POC with Gradle and Java 8,0,0,222,1,5,small,0,0,13,1,0,1,2,4,2,0,0,0,0
+telerik_kendo-ui-core,JavaScript,"An HTML5, jQuery-based widget library for building modern web apps.",2868,581,12842,0,5074,big,0,0,17,1,0,1,11,7,0,0,1,0,0
+arches_table_print,Ruby,The best data slicer! Watch a 3 minute screencast at http://tableprintgem.com,586,19,188,1,59,small,0,0,10,6,0,1,2,3,0,0,0,0,0
+gbmhunter_MFixedPoint,C++,"32-bit and 64-bit fixed-point library for fast arithmetic operations. Suitable for performing computationally intensive operations on a computing platform that does not have a floating-point unit (like most smaller embedded systems, such as Cortex-M3, Co",74,0,92,0,46,small,0,9,34,1,0,1,11,7,3,0,0,0,0
+envato_event_sourcery_todo_app,Ruby,Example event_sourcery app,11,17,103,0,17,small,0,0,10,1,0,1,12,5,2,0,0,0,0
+scrapinghub_scrapinghub-entrypoint-scrapy,Python,Scrapy entrypoint for Scrapinghub job runner,15,47,349,0,53,small,1,0,36,4,0,1,4,9,3,1,1,1,1
+AaronRobson_py-elementary-cellular-automaton,Python,To demonstrate the patterns available in Wolfram's Rule30 and related patterns.,0,0,22,0,0,small,0,0,21,4,0,1,2,10,6,0,0,0,1
+phoet_on_ruby,Ruby,:gem: :diamonds: Whitelabel Site for Ruby Communities,156,197,1822,16,338,medium,0,0,13,1,0,1,12,8,2,0,1,0,0
+aodn_aodn-portal,JavaScript,AODN Open Geospatial Portal,12,1495,11997,24,2770,big,3,0,11,1,0,1,12,3,0,0,0,0,0
+alexloboda_SVDFunctions,C++,0,1,2,144,0,2,small,0,0,13,1,0,1,11,4,0,0,1,0,0
+tarantool_test-run,Python,Tarantool functional testing framework,12,67,532,12,172,medium,0,0,15,1,0,1,2,5,6,0,0,0,1
+doctrineum_doctrineum-string,PHP,String-only enumeration type and value dependent sub-type for Doctrine,0,0,25,0,0,small,0,0,19,3,0,1,3,17,4,0,0,0,1
+browserify_browserify,JavaScript,browser-side require() the node.js way,12059,479,1362,11,1788,medium,0,1,24,10,0,1,13,15,3,0,0,0,1
+akamai_AkamaiOPEN-edgegrid-java,Java,Java library for Akamai OPEN EdgeGrid Client Authentication,6,11,112,0,23,small,0,0,6,1,0,1,11,5,0,0,0,0,0
+bitcoin-computer_bitcoin-source,JavaScript,"BitcoinCash.js: The simple, safe, and powerful JavaScript library for Bitcoin Cash.",3,13,28,0,16,small,0,1,18,1,0,1,2,3,5,0,1,0,1
+thephpleague_flysystem-sftp,PHP,Flysystem Adapter for SFTP,172,38,75,0,81,small,1,0,34,12,0,1,14,21,2,0,1,0,1
+WGBH_wagtail-streamfieldtools,Python,A suite of tools that extends Wagtail's already-awesome StreamField to make it even more flexible/versatile/useful!,6,1,28,2,1,small,1,9,31,9,0,1,12,7,7,0,0,0,1
+ThaDafinser_UserAgentParser,PHP,UserAgent parsing done right,210,62,376,0,109,small,1,1,32,8,0,1,14,22,4,0,0,0,1
+yildiz-online_common-logging-logback,Java,0,0,0,61,0,0,small,0,0,21,1,0,1,11,6,2,0,1,0,0
+LucaCappelletti94_dictances,Python,Distances and divergences between distributions implemented in the best way I found in python.,7,0,39,0,0,small,1,1,34,1,0,1,2,13,6,0,1,0,1
+Dash-Labs_octo-receiver,Java,Github web hook router (so nothing really),0,5,35,0,5,small,2,0,23,2,2,1,2,7,8,0,0,0,1
+I2PC_scipion,C++,Scipion is an image processing framework to obtain 3D models of macromolecular complexes using Electron Microscopy (3DEM),7,16,2615,18,193,medium,1,1,13,1,0,1,21,6,1,0,0,0,0
+enthought_traitsui,Python,TraitsUI: Traits-capable windowing framework,177,323,2123,74,562,popular,4,4,62,3,1,1,2,9,10,0,1,0,1
+LabSEC_libcryptosec,C++,0,15,23,246,0,31,small,1,0,28,1,0,1,13,6,7,0,0,0,0
+ipfs-shipyard_ipscend,JavaScript,Quick and simple deploy tool to host Native Web Applications and Static Web Pages in IPFS,209,97,191,0,108,small,1,1,33,3,0,1,13,9,6,0,0,0,1
+riesenia_kendo,PHP,PHP wrapper for Kendo UI widgets,11,1,35,0,1,small,0,0,18,3,0,1,2,17,4,0,1,0,1
+collective_collective.nitf,Python,A Dexterity-based content type inspired on the News Industry Text Format specification,11,99,1365,256,227,medium,2,3,47,3,1,1,3,14,10,0,1,0,1
+jejacks0n_teaspoon,JavaScript,"Teaspoon: Javascript test runner for Rails. Run tests in the browser or headless with PhantomJS, Selenium WebDriver or Capybara Webkit.",594,163,860,0,444,small,3,0,30,4,0,1,12,9,8,0,1,0,1
+fluent_fluentd,Ruby,Fluentd data collector,7926,1192,5576,11,2382,big,1,6,78,11,0,1,12,5,1,1,1,0,0
+NUBIC_surveyor,Ruby,"A Rails gem that lets you code surveys, questionnaires, quizzes, etc... and add them to your app.",808,120,738,11,711,medium,1,2,18,4,1,1,2,6,2,0,0,0,0
+chaoss_grimoirelab-perceval-puppet,Python,"GrimoireLab: Bundle of Perceval backends for Puppet, Inc. ecosystem.",1,13,31,0,15,small,0,0,28,3,0,1,12,9,10,0,0,0,1
+AraBlocks_did-document-public-key,JavaScript,Decentralized Identity (DID) Document (DDO) Public Key interface,0,2,22,2,2,small,0,0,12,1,0,1,2,6,3,0,1,0,1
+appserver-io_console,PHP,CLI implementation for appserver.io,0,19,26,0,20,small,0,0,27,2,2,1,103,18,9,0,0,0,0
+scikit-learn_scikit-learn,Python,scikit-learn: machine learning in Python,37285,7689,33504,22,14174,big,8,9,59,3,1,1,2,11,4,0,1,0,1
+OhadR_oAuth2-sample,Java,"oAuth2 sample: auth-server, resource server and client.",38,6,413,0,79,small,0,1,9,1,0,1,1,4,0,0,0,0,0
+tildeio_rsvp.js,JavaScript,A lightweight library that provides tools for organizing asynchronous code,2194,344,820,12,532,medium,1,0,18,3,0,1,2,7,4,0,0,0,0
+epistrephein_rarbg,Ruby,A ruby wrapper for RARBG torrentapi.,10,9,196,0,9,small,1,0,28,6,0,1,3,10,4,1,0,0,1
+icewind1991_SMB,PHP,PHP wrapper for smbclient,77,33,337,0,81,small,2,0,58,8,0,1,12,23,14,0,0,0,1
+DomRe_galaxy,C++,"Game programming library using Allegro, Lua and Modern C++.",7,0,217,0,0,small,0,1,36,1,0,1,24,6,14,1,0,1,1
+usemarkup_OEmbedBundle,PHP,A Symfony2 bundle that provides a way of easily setting up an oEmbed provider and rendering media in a template.,4,10,40,0,10,small,1,0,31,5,1,1,2,19,5,0,0,0,1
+watir_watir-rails,Ruby,Add support for Watir (http://github.com/watir/watir) in Rails.,38,15,92,0,25,small,0,0,16,8,1,1,4,6,0,0,0,0,0
+ElMassimo_mongoid_includes,Ruby,Improved eager loading support for Mongoid,34,5,47,0,14,small,4,0,35,2,0,1,3,9,7,0,0,0,1
+spiral_scaffolder,PHP,Set of declarations and commands used to scaffold parts of skeleton application,1,9,80,0,12,small,0,0,20,4,0,1,2,15,3,0,0,0,1
+ITDSystems_alvex-orgchart,JavaScript,Alvex orgchart component,3,10,43,0,42,small,0,0,44,1,1,1,12,10,12,0,1,0,1
+php-tmdb_laravel,PHP,Laravel Package for TMDB ( The Movie Database ) API. Provides easy access to the wtfzdotnet/php-tmdb-api library.,133,20,22,0,63,small,1,0,28,14,0,1,4,17,3,0,0,0,1
+bitchcraft_reactjs-boilerplate,JavaScript,"es6 reactjs, webpack w/ hmr, mui boilerplate (work in progress)",1,5,72,2,5,small,0,0,23,4,0,3,12,7,3,0,0,0,0
+juju-solutions_layer-basic,Python,Base layer for building charms using the reactive pattern,4,17,40,1,28,small,1,0,61,6,0,1,22,9,4,0,0,0,1
+guardian_scribe-plugin-noting,JavaScript,0,12,104,934,67,164,medium,4,0,29,8,0,1,103,7,1,0,1,0,1
+HubSpot_jinjava,Java,Jinja template engine for Java,345,240,1122,49,331,popular,0,4,27,1,1,1,11,9,1,0,1,0,0
+Erebot_Module_IrcTracker,PHP,Keeps track of everything that is user- or channel-related on IRC for Erebot,0,0,59,0,0,small,0,0,61,6,1,2,28,24,9,0,1,0,1
+gabynaiman_eternity,Ruby,0,0,0,162,2,0,small,0,0,28,12,0,1,4,6,2,0,0,0,0
+miguno_ksql-udf-examples,Java,Example implementations of KSQL UDFs and UDAFs,2,0,21,0,0,small,0,4,12,1,0,1,2,3,0,0,0,0,0
+yamamuteki_chi-bus.jp,Ruby,A simple bus stop and route information service for Chiba in Japan,6,1,235,0,1,small,0,0,10,1,0,1,2,5,4,0,0,0,0
+OCA_commission,Python,Odoo Commission Management,42,143,741,22,227,medium,5,1,50,3,0,2,2,11,6,0,1,0,1
+barnabycolby_MMM-Carousel,JavaScript,"Displays a single magic mirror module at a time, rotating through the list of configured modules in a carousel-like fashion.",43,5,27,0,23,small,0,0,7,2,0,1,2,5,2,0,0,0,0
+unepwcmc_SAPI,Ruby,"Management tool + public search interface for information on taxonomy, legislation, distribution and trade in MEA-listed species.",15,688,11968,15,706,big,2,1,26,1,1,1,213,10,4,0,1,0,1
+volcoma_itc,C++,0,4,0,148,0,0,small,3,2,120,7,0,1,12,4,5,0,0,0,1
+HdrHistogram_HdrHistogram,Java,A High Dynamic Range (HDR) Histogram,1416,59,554,0,144,small,0,0,6,3,0,1,2,2,0,0,0,0,0
+NetCommons3_Boxes,PHP,0,1,43,105,2,45,small,7,2,43,5,1,1,12,23,7,0,0,0,1
+unix-junkie_javafs,Java,0,0,0,32,0,0,small,0,0,8,1,0,1,2,2,0,0,0,0,0
+ncri_nested_form_fields,Ruby,Dynamically add and remove nested has_many association fields in a Ruby on Rails form,301,35,129,0,106,small,0,0,23,8,0,1,13,7,1,0,1,0,0
+Zeex_samp-plugin-profiler,C++,Profiler plugin for SA-MP server,39,2,291,0,30,small,0,0,28,1,0,1,13,5,6,0,0,1,0
+rajithaw_workflow-designer,JavaScript,A generic workflow designer using D3,0,0,111,0,0,small,0,0,18,1,0,1,22,7,2,0,1,1,0
+acquiropay_php-sdk,PHP,0,0,19,113,0,20,small,0,0,17,2,0,1,12,16,2,0,1,0,0
+locationtech_udig-platform,Java,uDig parent project containing all core components.  More plugins can be found in community repos: http://github.com/uDig-Community,65,187,2484,16,189,medium,2,2,52,3,1,1,12,14,15,0,1,0,1
+php-telegram-bot_telegram-bot-manager,PHP,PHP Telegram Bot Manager,8,9,62,0,12,small,1,0,52,4,1,1,1,26,5,0,1,0,1
+BladeRunnerJS_brjs,JavaScript,"BladeRunnerJS (BRJS) is an open source development toolkit and framework for modular construction of large single-page HTML5 apps. It consists of a set of conventions, supporting tools and micro-libraries that make it easy to develop, test, deploy and ma",255,759,6433,8,1800,big,0,0,17,1,1,1,112,9,5,0,0,0,1
+expectedbehavior_acts_as_archival,Ruby,An ActiveRecord plugin for atomic archiving and unarchiving of object trees. Inspired by ActsAsParanoid and PermanentRecord,59,25,162,1,35,small,0,0,24,15,0,1,3,7,1,0,1,0,0
+zeeguu-ecosystem_Zeeguu-Core,Python,0,1,49,736,1,107,small,0,0,22,1,0,1,2,8,4,0,1,0,1
+catamphetamine_libphonenumber-js,JavaScript,A simpler (and smaller) rewrite of Google Android's popular libphonenumber library,1038,76,580,0,230,small,0,4,16,1,0,1,12,7,3,0,0,0,0
+JeroenDeDauw_FileFetcher,PHP,Small library providing a simple FileFetcher interface,5,18,113,3,21,small,0,0,30,4,0,1,13,19,3,0,1,0,0
+sourcelair_castor,Python,Let your app know about Docker events by using web hooks.,18,13,95,1,18,small,4,1,28,2,0,1,4,9,3,0,0,0,1
+shoes_shoes4,Ruby,Shoes 4 : the next version of Shoes,1545,733,3627,21,1584,popular,0,4,53,10,2,1,113,11,8,0,1,0,1
+EliseJ_astroABC,Python,Approximate Bayesian Computation Sequential Monte Carlo sampler for parameter estimation.,27,5,48,0,10,small,0,1,20,2,0,1,2,6,7,0,0,0,1
+microsoft_pxt-common-packages,C++,Common pxt packages,25,824,5020,0,849,big,0,0,17,1,1,1,12,8,2,0,1,0,0
+NethServer_nethserver-lang,PHP,NethServer localization project,1,21,318,0,21,small,4,0,34,1,0,1,2,7,3,1,0,0,1
+letrunghieu_wordpress-xmlrpc-client,PHP,A PHP XML-RPC client for Wordpress websites,103,11,145,0,42,small,0,0,24,6,0,1,3,17,3,0,0,0,1
+asgrim_quality-tutorial,PHP,Sample code and exercises for my quality PHP workshop,11,0,36,0,2,small,0,0,31,4,0,4,2,9,8,0,0,0,1
+zinhart_ann,C++,my implementation of an artificial neural network,1,0,421,1,0,small,0,4,42,1,1,1,11,10,9,1,0,0,1
+ruby-grape_grape,Ruby,An opinionated framework for creating REST-like APIs in Ruby.,6155,552,855,14,1096,medium,0,2,65,21,0,1,13,5,5,0,0,0,1
+satya-das_cppparser,C++,A library to parse C/C++ source as DOM,4,0,330,0,0,small,2,0,38,2,0,1,3,3,9,0,0,0,1
+rburgst_okhttp-digest,Java,a digest authenticator for okhttp,101,14,119,0,55,small,0,0,13,1,0,1,1,7,3,0,1,0,1
+XadillaX_Toshihiko-Memcached,JavaScript,The memcached support for Toshihiko as an addon.,3,0,31,0,0,small,0,0,27,3,0,1,23,10,3,0,0,0,0
+BzCoder_SmartMediaPicker,Java,‰∏ÄÊ¨æÊñπ‰æøÂ•ΩÁî®ÁöÑ‰ªøÂæÆ‰ø°Â§öÂ™í‰ΩìÈÄâÊã©Âô®ÔºåÈõÜÂêàÂíåÂõæÁâáÈÄâÊã©ÔºåÊãçÁÖßÔºåÊãçÊëÑÁü≠ËßÜÈ¢ëÂäüËÉΩ„ÄÇ,24,0,43,0,2,small,0,0,23,1,0,1,12,6,5,0,0,0,1
+gatgui_gcore,C++,Core utility library,2,0,422,1,0,small,1,2,40,2,0,1,3,6,4,0,0,0,1
+AppDirect_service-integration-sdk,Java,0,8,95,273,0,116,small,0,0,22,1,1,1,12,6,1,0,0,1,0
+gephi_gephi,Java,Gephi - The Open Graph Viz Platform,3169,109,1042,10,2109,medium,0,8,66,2,0,1,13,12,14,1,1,0,1
+groupdocs-total_GroupDocs.Total-for-Java-Dropwizard,JavaScript,GroupDocs.Total for Java Dropwizard Example,0,53,303,0,54,small,0,1,40,8,0,4,12,9,9,0,0,0,1
+GeBeater_dozer-jdk8-support,Java,A library that provides the missing Java 8 type mappers for the Dozer Java Bean Mapper.,14,7,57,0,12,small,0,0,8,2,0,1,2,3,0,0,0,0,0
+narunlifescience_runcircos-gui,C++,:radio_button: GUI tool to run circos,1,1,38,0,3,small,0,0,11,1,0,1,1,3,5,0,0,0,1
+heroku_configerator,Ruby,"Simple web application extension for configuring applications from the environment, following the 12factor pattern.",6,12,90,0,15,small,0,0,10,5,0,1,13,4,1,0,0,0,0
+iesdonana_mueveme-barba,PHP,mueveme-barba created by GitHub Classroom,1,23,88,0,45,small,0,6,42,1,0,1,11,22,8,0,0,0,1
+horde_Url,PHP,Horde Url class,0,0,41,0,0,small,0,0,20,7,0,1,2,17,4,0,0,0,1
+puppetlabs_puppetlabs-mysql,Ruby,MySQL Puppet Module / Manifests + Types & Providers,457,1078,1410,171,1208,popular,4,0,138,11,1,3,0,12,17,1,1,0,1
+umple_umple,Java,Umple: Model-Oriented Programming - embed models in code and vice versa and generate complete systems,128,534,5573,0,958,big,5,27,139,2,0,1,3,9,23,0,1,0,1
+arturictus_easy_serializer,Ruby,Semantic way to serialize your objects,3,7,94,0,16,small,1,2,37,12,0,1,113,9,3,0,1,0,1
+glorpen_GlorpenPropelBundle,PHP,Better Propel and Symfony2 integration.,14,4,101,0,12,small,3,0,33,10,0,1,3,11,4,0,0,0,1
+ahartoto_booklib,Python,Offline item management system for a library.,0,9,39,0,15,small,0,4,37,1,1,1,11,10,8,0,1,0,1
+nfroidure_yerror,JavaScript,It helps to know Y you got an Error.,10,16,71,1,19,small,0,0,12,4,0,1,2,7,1,0,0,0,0
+vle-forge_vle,C++,Virtual Laboratory Environment,12,128,313,0,379,small,3,0,143,9,1,1,22,7,6,1,0,0,1
+hiqdev_omnipay-ecoin,PHP,eCoin driver for Omnipay PHP payment library,2,2,21,0,2,small,0,0,28,4,0,1,12,20,7,0,1,0,1
+objectiveweb_auth,PHP,Authentication Library,3,0,70,0,0,small,0,0,19,6,0,1,12,16,3,0,0,0,1
+telefonicaid_fiware-orion,C++,FIWARE Orion Context Broker,99,2008,10367,0,3363,big,2,0,21,3,0,1,13,8,6,0,0,0,0
+japzio_docker-registry-helpers,Python,docker image registry sync tools. Currently supports aws ecr,0,0,42,0,0,small,0,0,18,2,0,1,1,6,3,0,0,0,1
+davidmoten_logan,JavaScript,Java webapp for time series analysis of log files,2,1,279,0,2,small,0,0,4,1,0,1,2,2,0,0,0,0,0
+fosstp_fosstp,Python,0,1,0,90,0,3,small,0,2,19,2,0,1,2,8,7,0,0,0,0
+inthemill_istanbul-tolerant-merge,JavaScript,"Merges several istanbul coverage report JSON files into one. Thereby normalizes absolute path to relative ones, fixes a problem with karma-coverage-istanbul-reporter and aligns list of statements, that do not match 1:1 with some heuristics",1,2,24,0,2,small,0,0,3,1,0,1,2,3,0,0,0,0,0
+panterch_future_kids,Ruby,"Future Kids foÃàrdert PrimarschuÃàler/innen, welche zu Hause bei schulischen Aufgaben kaum oder keine UnterstuÃàtzung erhalten.",10,76,809,12,131,medium,0,0,16,1,0,1,1,7,4,0,1,0,1
+thedava_xspf-tools,PHP,A toolset for xspf playlists,1,0,97,0,7,small,0,4,22,2,1,1,2,16,3,0,0,0,1
+telemark_minelev-notifications,JavaScript,Notifications for MinElev,0,1,155,0,1,small,0,0,5,1,0,1,2,4,0,0,0,0,0
+OCA_geospatial,JavaScript,Odoo and GIS,86,109,1167,22,208,medium,5,8,50,3,0,1,13,11,9,0,1,0,1
+gottfrois_link_thumbnailer,Ruby,Ruby gem that generates thumbnail images from a given URL. Much like popular social website with link preview.,453,50,219,0,136,small,0,0,6,3,0,1,2,3,0,0,0,0,0
+ff4j_ff4j,Java,Feature Flipping for Java made easy,396,124,670,2,289,small,1,0,10,1,0,1,2,3,0,0,0,0,0
+aimalz_chippr,Python,Cosmological Hierarchical Inference with Probabilistic Photometric Redshifts,0,31,427,2,74,small,0,19,43,1,0,1,2,5,8,0,0,0,1
+amiroff157_smarthaus,C++,???? A home automation system with a RESTful API for building real-time dashboards for monitoring and controlling IoT devices.,15,0,88,0,1,small,0,0,14,1,0,1,3,5,2,0,0,1,0
+jeremyong_Selene,C++,Simple C++11 friendly header-only bindings to Lua,813,65,164,0,179,small,2,0,23,2,0,1,2,5,9,0,0,0,1
+OCA_product-attribute,Python,Odoo Product Attribute,67,405,1954,22,497,medium,5,1,50,3,0,2,2,11,6,0,1,0,1
+zzdhidden_wechat-next,JavaScript,0,0,0,43,0,0,small,0,0,16,1,0,1,2,5,1,0,1,0,0
+spot-next_core-next,Java,core-next microservice framework,2,0,24,0,1,small,1,16,67,1,2,1,22,11,7,0,1,1,1
+cibox_cibox,PHP,Continuous Integration toolbox,55,169,497,0,285,small,0,3,21,1,0,1,12,5,6,0,0,0,0
+miraheze_mw-config,PHP,MediaWiki production config,47,2331,6545,0,2525,big,0,1,20,2,1,1,1,16,1,0,0,0,0
+Kitware_kwiver,C++,0,91,736,5452,2,816,big,2,4,69,2,0,1,2,5,16,0,1,0,1
+nipy_nipype,Python,Workflows and interfaces for neuroimaging packages,461,1899,6379,8,2953,big,7,2,85,13,0,1,0,14,11,0,1,0,1
+neobrain_nihstro,C++,3DS shader assembler and disassembler,54,35,192,2,61,small,0,0,26,1,0,1,11,3,6,0,0,0,0
+austintoddj_zoom,PHP,A Laravel 5 Boilerplate Application,39,44,539,0,46,small,1,0,26,2,0,1,13,15,6,0,0,0,0
+smartdevicelink_sdl_core,C++,SmartDeviceLink In-Vehicle Software and Sample HMI,182,1872,7104,0,2867,big,3,0,33,1,0,1,21,6,8,0,0,0,1
+eymengunay_php-passbook,PHP,iOS passbook library for PHP 5.3+,226,19,148,3,76,small,0,0,12,4,0,1,2,14,2,0,0,0,0
+railsbridge_docs,Ruby,Curriculum for RailsBridge workshops,570,448,771,14,672,medium,0,0,6,1,0,1,12,3,0,0,1,0,0
+PluginsOCSInventory-NG_officepack,PHP,Retrieve microsoft office keys,6,7,22,0,52,small,0,0,21,3,0,1,2,17,5,1,0,0,1
+ReadyTalk_avian,C++,"Avian is a lightweight virtual machine and class library designed to provide a useful subset of Java's features, suitable for building self-contained applications.",1255,426,3758,23,573,popular,3,3,26,1,0,1,3,5,1,0,1,0,0
+leancloud_javascript-sdk,JavaScript,LeanCloud JavaScript SDK,304,283,1128,15,547,medium,0,0,21,1,0,1,12,7,4,0,0,0,0
+LaTruelle_Geac,C++,Gaussian ESI Automated Creator,1,4,213,1,7,small,1,0,35,2,0,1,13,3,3,0,0,0,1
+OCA_reporting-engine,Python,Odoo Alternative Reporting Engine,97,201,1035,22,300,medium,7,2,38,3,0,1,13,8,4,0,1,0,1
+kachick_abb,Ruby,Generate abbreviations from words,4,0,25,1,1,small,0,0,17,5,0,1,3,5,1,0,0,0,0
+nx-desktop_nx-simplemenu-applet,C++,Paged Start Menu,0,3,34,0,14,small,0,0,27,1,1,1,23,9,4,1,0,1,1
+OpenTOSCA_container,Java,OpenTOSCA container - TOSCA runtime environment,34,73,1824,13,101,medium,0,0,11,1,0,1,11,6,1,0,0,0,0
+Datamart_Komito,JavaScript,Komito Analytics is an enhancement for the most popular analytics software.,25,3,532,1,35,small,0,2,9,1,0,1,12,4,2,0,0,0,0
+liuxsen_date-api,JavaScript,Âø´Êç∑Ëé∑ÂèñÊó•ÊúüÊñπÊ≥ï,1,3,30,0,3,small,0,0,17,1,0,1,33,6,2,0,0,1,0
+concord-consortium_rigse,Ruby,Concord Consortium Portal somewhat like an LMS,10,582,7473,9,654,big,6,17,95,7,0,3,112,12,17,0,1,0,1
+spring-guides_gs-accessing-data-jpa,Java,Accessing Data with JPA :: Learn how to work with JPA data persistence using Spring Data JPA.,119,24,165,4,41,small,0,0,10,1,1,1,12,5,1,0,0,0,0
+BigRedEye_cpparg,C++,Yet another command line arguments parser,0,3,26,0,3,small,0,0,26,2,0,1,11,5,6,0,0,0,0
+psfs_nosql,PHP,NOSQL Module for PSFS,0,0,30,0,0,small,0,0,22,5,0,1,3,16,3,0,0,0,1
+PODEntender_estatista,PHP,Blog est√°tico PODEntender.com,1,0,311,0,10,small,0,0,31,1,0,1,17,22,9,0,1,1,0
+Azure_azure-sdk-for-node,JavaScript,Azure SDK for Node.js,400,506,918,41,1253,popular,0,0,6,2,0,1,12,4,0,0,0,0,0
+statickidz_php-google-translate-free,PHP,"PHP class to use the Google Translator API without pay, enjoy.",129,4,26,0,20,small,0,2,17,5,0,1,2,14,2,0,0,0,0
+webpack-contrib_npm-install-webpack-plugin,JavaScript,Speed up development by automatically installing & saving dependencies with Webpack.,113,9,146,0,19,small,0,0,21,3,0,1,12,10,4,1,1,0,1
+bulentv_js_zklib,JavaScript,Attendance Machine Library for NodeJS with a connection to the network using the UDP protocol and port 4370,36,37,82,1,61,small,0,0,16,1,0,1,3,4,1,0,1,1,0
+cms-sw_cms-bot,Python,A few scripts to automate approval / testing process,12,1060,6647,0,1117,big,0,2,16,2,1,1,2,7,4,0,0,0,1
+kimihito_minotake,Ruby,0,0,181,34,0,183,small,0,0,9,1,0,1,4,3,0,0,0,1,0
+abdes_asap_app_imgui,C++,"Starter project for portable app with optional GUI (GLFW/ImGui) and a rich builtin debug UI. Includes docked windows, log viewer, settings editor, configuration load/save, etc...",26,0,82,0,1,small,1,56,285,13,0,1,2,4,24,0,0,0,1
+Rubentxu_DreamsLibGdx,Java,"Nueva intento de juego de plataformas, en este caso con la libreria LibGdx en Java.",12,1,156,1,2,small,0,0,3,1,0,1,2,3,1,0,0,0,0
+samrap_acf-fluent,PHP,A fluent interface for the Advanced Custom Fields WordPress plugin,207,13,90,0,23,small,0,0,11,2,0,1,2,13,2,0,0,0,0
+construct-org_construct,Python,Construct Pipeline Core,3,11,139,1,29,small,0,0,16,5,0,1,2,6,4,0,0,0,1
+mootools_mootools-core,JavaScript,MooTools Core Repository,3132,384,1504,16,930,medium,3,0,56,31,0,1,14,7,0,0,1,0,1
+ITArray_automotion-java,Java,Simple library for complex problems,2,11,50,1,21,small,0,0,10,1,1,1,12,6,1,0,0,0,0
+NTIA_scos-sensor,Python,NTIA/ITS Spectrum Monitoring SCOS sensor reference implementation,11,24,505,0,62,small,0,4,32,1,0,1,11,10,10,0,0,0,1
+usharesoft_hammr,Python,Command-line tool for building conistent and repeatable machine images for multiple cloud platforms,28,365,1162,24,529,medium,0,0,10,1,0,1,2,5,4,0,0,0,0
+lschoe_mpyc,Python,MPyC for Secure Multiparty Computation in Python,26,1,72,1,2,small,0,0,11,5,0,1,2,9,2,0,0,0,0
+Eyescale_Equalizer,C++,"Equalizer is the standard middleware to create and deploy parallel OpenGL-based applications. It enables applications to benefit from multiple graphics cards, processors and computers to scale the rendering performance, visual quality and display size. A",181,354,1440,14,649,medium,6,1,60,4,1,1,33,7,10,0,0,0,1
+puppetlabs_hiera,Ruby,Lightweight Pluggable Hierarchical Database,323,408,597,184,414,popular,1,5,35,6,0,1,13,8,2,0,0,0,0
+royriojas_eslint-friendly-formatter,JavaScript,"A simple formatter/reporter for ESLint that's friendly with Sublime Text and iterm2 \""click to open file\"" functionality",182,14,106,0,38,small,0,0,4,1,0,1,2,3,0,0,0,0,0
+krishauser_KrisLibrary,C++,"Basic math, geometry, and robotics, and other routines used in projects from Kris Hauser's lab",23,9,815,1,11,small,0,4,24,2,0,1,1,4,1,0,0,0,0
+vluzrmos_laravel-language-detector,PHP,"Detect the language for your application using browser preferences, subdomains or route prefixes.",80,9,82,0,24,small,0,0,15,5,0,1,2,14,3,0,0,0,0
+marvinpinto_ansible-role-docker,Python,Ansible Galaxy role to install and manage Docker,8,6,63,0,7,small,0,0,34,1,2,1,11,10,8,0,0,0,1
+ichylinux_closer,Ruby,0,0,0,128,0,0,small,0,0,17,3,0,1,12,6,3,1,1,0,1
+okpy_ok,Python,"ok.py supports programming projects by running tests, tracking progress, and assisting in debugging.",126,635,6014,11,1277,big,4,0,34,2,1,1,12,12,5,0,1,0,1
+lessersunda_lexirumah-data,Python,Data for the lexirumah clld,0,0,54,2,11,small,0,0,23,1,0,1,111,10,9,0,0,1,1
+Dynatrace_openkit-java,Java,OpenKit Java Reference Implementation,14,152,269,0,154,small,3,33,131,5,0,1,33,9,2,0,0,1,1
+Kashomon_glift,JavaScript,Go Lightweight Frontend,106,8,627,0,164,small,0,0,6,1,0,1,2,5,2,0,0,0,0
+ruby-grape_grape-entity,Ruby,An API focused facade that sits on top of an object model.,255,63,137,0,143,small,0,0,27,7,0,1,3,6,1,0,0,0,0
+Tokimon_vanillajs-helpers,JavaScript,API that includes convenience methods for coding vanilla JS,2,10,391,0,30,small,0,0,13,1,0,1,2,6,4,0,0,0,1
+Aplyca_ansible-role-webapp,Ruby,Install a Web App on Linux,0,0,69,0,0,small,0,1,18,1,0,1,2,6,4,0,0,0,1
+voxpupuli_puppet-vault_lookup,Ruby,0,6,16,51,0,20,small,3,2,51,5,1,1,103,9,2,1,1,1,1
+qossmic_rich-model-forms-bundle,PHP,Provides additional data mappers that ease the use of the Symfony Form component with rich models.,118,17,43,0,28,small,4,0,42,7,0,1,3,14,7,0,1,0,1
+spryker_stock,PHP,[READ ONLY] Subtree split of the Stock bundle.,0,0,256,2,0,small,3,0,38,3,0,1,3,21,6,0,1,0,1
+hawaiidatascience_metaflowmics,Python,C-MAIKI ITS and 16S pipelines,0,1,44,0,1,small,1,0,28,1,0,1,1,6,11,0,0,0,1
+libbitcoin_libbitcoin-blockchain,C++,Bitcoin Blockchain Library,95,423,739,11,491,medium,1,15,105,6,0,1,43,7,19,0,0,0,1
+Adyen_adyen-mirakl,Java,Adyen Mirakl Connector,0,151,976,0,151,small,3,3,36,1,1,1,11,10,9,0,1,0,1
+DMKEBUSINESSGMBH_typo3-mksearch,PHP,"Generic highly adjustable and extendable search engine framework, using Zend Lucene, Apache Solr or ElasticSearch. But support for other search engines can be provided easily.",13,5,1423,14,47,medium,1,1,58,6,1,1,13,28,8,0,1,0,1
+tna0y_Python-random-module-cracker,Python,This script is able to predict python's random module random generated values.,31,0,21,0,1,small,0,0,13,5,0,1,13,4,1,0,0,0,0
+twitter_twitter-cldr-rb,Ruby,"Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.",517,152,1011,227,220,popular,1,0,23,36,0,1,13,6,1,0,1,0,0
+OSGeo_gdal,C++,GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats. This is a mirror of the GDAL Subversion repository.,1223,913,12231,0,1591,big,2,131,184,1,1,1,24,8,3,1,0,0,1
+shutterstock_rickshaw,JavaScript,JavaScript toolkit for creating interactive real-time graphs,6566,246,412,55,622,popular,1,0,18,2,0,1,2,6,1,0,0,0,0
+jpbonson_SBBFramework,Python,Python implementation of the SBB genetic programming algorithm for reinforcement learning tasks (framework).,1,0,140,0,0,small,0,0,33,1,0,1,12,8,3,1,1,0,0
+briancairl_twod,C++,Grid and grid view data structures and associated utilities,1,0,39,0,0,small,0,0,24,1,0,1,0,4,5,0,0,0,1
+sensu-plugins_sensu-plugins-sentry,Ruby,Sensu Sentry Plugins,4,0,25,0,1,small,0,0,36,5,1,1,102,8,4,0,1,1,1
+digidentity_libsaml,Ruby,A Ruby gem to easily create SAML 2.0 messages.,65,126,474,0,161,small,0,0,8,4,0,1,12,2,0,0,0,0,0
+TeleMidia_ginga,C++,The iTV middleware.,25,1,1141,17,110,medium,0,0,20,1,1,1,12,5,2,0,0,0,0
+NAL-i5K_tripal_eutils,PHP,ncbi loader via the eutils interface,0,103,526,0,211,small,3,6,35,1,0,1,2,28,12,0,0,0,1
+thenables_thenify,JavaScript,Promisify a callback-based function,115,21,44,0,30,small,0,0,10,4,0,1,2,6,1,0,0,0,0
+VestniK_portable_concurrency,C++,"C++ Extensions for Concurrency, ISO/IEC TS 19571:2016 portable implementation",0,0,48,0,0,small,3,0,26,5,0,1,13,6,2,0,0,0,0
+p-groarke_fea_benchmark,C++,Benchmarking framework for C++,3,1,23,0,1,small,1,0,104,8,1,1,3,5,12,0,0,0,1
+yadahan_laravel-cardcom,PHP,Laravel Cardcom,3,6,25,0,6,small,0,0,10,2,0,1,12,14,1,0,0,0,0
+GermaniaKG_Tracking,PHP,"Classes, interfaces and traits for dealing with shipment tracking information",0,0,28,0,0,small,0,1,25,4,0,1,2,16,5,0,0,0,1
+Hashfyre_ansimp_le,Python,An Ansible module wrapper over the simple Let's Encrypt Client simp_le,0,3,23,1,3,small,0,0,15,1,0,1,12,4,2,0,0,0,0
+remotestorage_remotestorage.js,JavaScript,JavaScript client library for integrating remoteStorage in apps,1911,451,4643,27,1199,popular,0,0,15,2,0,1,12,5,3,1,1,0,0
+PADL_CredUI,C++,0,8,0,436,0,0,small,0,0,18,1,1,1,1,5,4,0,0,0,1
+yitsushi_jenkins2-api,Ruby,0,2,4,55,0,8,small,0,0,6,3,0,1,2,3,0,0,0,0,0
+benedikt_mongoid-tree,Ruby,A tree structure for Mongoid documents using the materialized path pattern,133,30,78,0,52,small,1,0,23,7,0,1,3,6,2,0,0,0,0
+dennisss_tansa,C++,Dancing Drone Platform,24,9,249,0,66,small,0,0,21,1,0,1,12,6,2,1,0,0,0
+pytroll_trollsift,Python,Filtering modules used in Pytroll,0,0,68,3,2,small,9,0,38,2,0,1,4,8,4,0,0,1,1
+Paparoni_goatapp,JavaScript,0,0,0,66,0,0,small,0,0,27,1,0,1,22,8,6,1,0,0,0
+magic-modules_magic-modules.github.io,JavaScript,0,0,0,39,0,0,small,1,0,28,2,0,1,3,8,3,0,1,0,0
+silverstripe_silverstripe-cms,PHP,SilverStripe CMS - this is a module for SilverStripe Framework rather than a standalone app. Use https://github.com/silverstripe/silverstripe-installer/ to set this up.,541,1223,3979,12,2733,medium,17,9,100,8,0,1,2,38,25,0,1,0,1
+mavlink_qgroundcontrol,C++,QGroundControl Ground Control Station,1207,4000,9929,12,7314,big,8,36,325,6,1,2,206,12,25,0,0,1,1
+Jasig_WeatherPortlet,Java,Java Portlet for viewing weather.,3,35,91,0,37,small,0,0,16,2,0,1,13,4,2,0,0,0,0
+benbalter_site-inspector,Ruby,Ruby Gem to sniff information about a domain's technology and capabilities.,15,21,262,0,29,small,0,0,10,1,0,1,12,5,2,0,1,0,0
+h4tr3d_avcpp,C++,C++ wrapper for FFmpeg,115,14,203,0,52,small,1,49,137,7,0,1,1,7,9,0,1,0,1
+fusion-jena_JaroWinklerSimilarity,Java,"A Java implementation of the Jaro Winkler Similarity, which is optimized for the search of similar strings in a large set of strings.",0,0,29,0,0,small,0,0,2,1,0,1,2,3,1,0,0,0,0
+splunk_splunk-sdk-python,Python,Splunk Software Development Kit for Python,373,133,1178,58,254,popular,1,11,47,4,0,1,12,9,14,0,0,0,1
+wanze_SeoMaestro,PHP,A ProcessWire module helping you to manage SEO related tasks like a boss ????,20,0,37,0,9,small,0,4,29,3,0,1,2,14,8,0,0,0,1
+choury_sproxy,C++,http proxy over ssl,16,8,607,1,9,small,2,1,509,56,0,1,1,3,2,0,0,0,1
+kuzzleio_kuzzle,JavaScript,"Open-source Back-end as a Service - Real-time, storage, advanced search - Web, Apps, Mobile, IoT",700,859,6634,1,1308,big,11,98,455,24,1,5,15,8,26,0,0,0,1
+corphish_NightLight,Java,0,40,14,833,0,29,small,0,0,19,1,0,1,2,5,2,0,0,0,0
+protobuf-c_protobuf-c,C++,Protocol Buffers implementation in C,1242,114,509,0,513,small,2,0,33,1,0,1,21,6,8,0,0,0,1
+mrtrizer_mojito-reflection,C++,Autogenerated C++ reflection,0,0,47,0,0,small,0,0,26,1,0,1,10,6,13,0,0,0,1
+konuralp_myDemoApp,Java,0,0,0,22,0,0,small,0,0,3,1,0,1,2,3,0,0,0,0,0
+GMOD_jbrowse,JavaScript,A modern genome browser built with JavaScript and HTML5.,324,274,7957,22,1378,popular,1,10,126,2,0,1,58,14,27,0,1,1,1
+rubygems_rubygems.org,Ruby,The Ruby community's gem hosting service.,1948,1161,4598,35,1984,popular,1,0,58,4,0,1,3,13,10,0,1,0,1
+hoaproject_Dispatcher,PHP,The Hoa\\Dispatcher library.,8,28,52,1,37,small,3,0,54,6,1,1,12,18,5,1,1,0,1
+ingenesis_shopp,PHP,An ecommerce development framework plugin for WordPress,62,350,2699,12,1740,medium,2,23,68,1,0,1,13,33,18,0,0,0,1
+expertiza_expertiza,Ruby,"Expertiza is a web application where students can submit and peer-review learning objects (articles, code, web sites, etc).  The Expertiza project is supported by the National Science Foundation.",168,885,6248,18,1531,big,4,6,87,4,3,1,102,12,27,1,1,0,1
+eFaps_Data-Exporter,Java,"Data-Exporter is a Java library to export tabular data (like List of rows) into many output formats like Text-Table, CSV, Xml or Html.",1,0,68,0,6,small,0,0,23,1,0,1,2,6,4,0,1,0,1
+uclouvain_osis,Python,Open Student Information System,53,3946,20340,0,5159,big,1,0,31,1,0,1,2,11,6,0,1,0,1
+medialab-ufg_tainacan,PHP,0,8,1,1114,12,2,medium,1,1,51,3,1,1,53,24,9,0,1,0,1
+spotify_luigi,Python,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.",11733,1944,3737,104,2763,popular,12,5,106,14,0,1,82,13,6,1,1,0,1
+dina-web-nrm_dina-collections,JavaScript,0,4,512,11449,0,514,big,38,0,210,11,1,4,4,11,9,0,0,0,1
+datamade_openness-project-nmid,Python,New Mexico In Depth Campaign Finance Explorer,3,20,167,0,49,small,0,0,37,1,0,1,2,9,5,1,0,1,1
+ArcSigov_otus-homework4,C++,0,0,0,59,0,0,small,0,0,33,1,0,1,43,5,12,0,0,1,0
+OCA_account-invoicing,Python,Odoo Invoicing Extension Addons,104,464,2374,22,544,popular,5,1,50,3,0,2,2,11,6,0,1,0,1
+paddydoyle_ipam-lite,Python,Simple IPAM reporting tool,0,0,41,0,0,small,0,0,8,3,0,1,2,4,1,0,0,0,0
+segiddins_segiddins.me,Ruby,0,0,1,90,2,3,small,1,0,17,1,0,1,2,7,5,1,0,0,0
+sleuthkit_autopsy,Java,"Autopsy¬Æ is a digital forensics platform and graphical interface to The Sleuth Kit¬Æ and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it ",783,4285,12834,7,4692,big,1,0,72,2,0,1,12,11,7,0,0,0,1
+quantcast_qfs,C++,Quantcast File System,433,131,3898,11,226,medium,5,23,101,12,0,1,43,11,3,0,0,1,1
+gkatzioura_CloudStorageMaven,Java,0,33,24,109,0,54,small,0,0,10,1,0,1,2,5,2,0,0,0,0
+Mastercard-Gateway_simplify-android-sdk,Java,Sample app for the Simplify Commerce Android SDK,11,0,112,0,0,small,0,2,32,1,0,1,12,7,4,0,1,1,0
+pockethub_PocketHub,JavaScript,PocketHub Android App,5810,312,1941,38,776,popular,0,2,26,1,0,1,12,7,3,0,0,0,0
+x42en_IOServer,JavaScript,Damn simple way to setup a Socket.io server,0,1,22,0,1,small,0,0,12,3,0,1,10,6,0,0,0,0,0
+ECAM-Brussels_PythonAdvanced2BA,Python,Content related to the advanced course on Python for 2nd year bachelor students,6,14,227,0,15,small,0,0,4,1,0,1,2,4,1,0,0,0,0
+moai_moai-dev,C++,"This is the development repo of Moai SDK. Current, but not necessarily tested or stable.",899,514,4283,43,1225,popular,0,0,8,1,0,1,2,5,5,0,0,0,0
+seikichi_pry-inline,Ruby,Inline variables view like RubyMine in Pry,39,3,47,0,8,small,0,0,12,4,0,1,3,5,1,0,0,0,0
+rpherbig_dr-scripts,Ruby,A series of Lich (https://lichproject.org/) scripts for use in DragonRealms (http://www.play.net/dr/).,36,1945,6626,1,3560,big,0,0,6,1,0,1,2,4,1,0,0,0,0
+kamo-naoyuki_pytorch_complex,Python,0,1,0,40,0,1,small,1,0,28,14,0,1,12,8,8,0,0,0,0
+heremaps_here-aaa-java-sdk,Java,"HERE Authentication, Authorization, and Accounting Java Client library.",17,56,300,0,61,small,2,0,16,1,0,1,2,6,3,0,1,0,1
+usb-tools_USBProxy-legacy,C++,"A USB man in the middle device using USB On-The-Go, libUSB and gadgetFS",325,38,354,0,78,small,0,3,34,1,0,1,13,7,8,0,1,0,0
+dpkp_kafka-python,Python,Python client for Apache Kafka,2465,549,2546,10,1474,medium,1,0,47,40,0,1,1,11,5,0,1,0,1
+JaneliaSciComp_elk-utilities,Python,"Utilities for ELK stack configuration, maintenance, and use",0,0,41,0,0,small,0,1,17,1,0,1,1,10,8,0,0,0,1
+nimiq_core-js,JavaScript,Official JavaScript implementation of the Nimiq protocol,12,9,46,0,12,small,7,49,142,11,1,2,1,9,15,0,1,0,1
+EasonWang01_All2Json,JavaScript,Convert files to JSON,130,0,26,0,0,small,0,0,9,1,0,1,2,5,0,1,1,0,0
+neka-nat_dq3d,C++,dual quaternion for 3d geometric operations,2,2,32,0,2,small,2,2,31,3,0,1,13,6,2,0,0,0,0
+samleb_sexy_scopes,Ruby,Stop writing SQL in your ActiveRecord scopes: embrace Ruby!,31,5,153,0,7,small,1,1,53,30,0,1,13,9,5,1,0,0,1
+alirazaalvi_ReactBoilerplate,JavaScript,0,0,4,78,0,4,small,0,0,6,3,0,1,2,4,0,0,0,0,0
+CDAT_vcdat,JavaScript,vCDAT,3,52,237,0,107,small,0,1,30,1,0,1,12,4,19,0,0,0,1
+NethServer_nethserver-base,PHP,NethServer system basic behavior implementation,5,153,488,0,155,small,4,0,39,1,0,1,2,6,1,1,0,0,0
+rishiqing_rishiqing-electron,JavaScript,electron pc for rishiqing,1,51,155,0,51,small,2,2,34,1,0,1,10,12,2,1,1,0,1
+lumoslabs_changes_are_logged,Ruby,Tracks changes to your activerecord models,2,3,28,0,3,small,1,0,15,4,0,1,112,6,1,0,1,0,0
+gdbots_pbjx-bundle-php,PHP,Integration of gdbots/messaging-php as a Symfony2 bundle.,0,12,254,0,16,small,0,0,9,1,0,1,2,14,2,0,0,0,0
+bkg_django-spillway,Python,Geodata extensions for Django REST Framework,59,4,543,1,37,small,1,0,23,2,0,1,1,7,8,0,0,0,1
+l0rdn1kk0n_wicket-webjars,Java,webjars integration for Apache Wicket,28,23,251,0,59,small,0,0,4,1,0,1,2,3,0,0,0,0,0
+gouarfig_board-notices,PHP,Board Notices Manager for phpBB 3.1,0,0,287,1,0,small,6,6,74,8,0,1,0,23,12,1,0,0,1
+popovvladislav_job4j,Java,0,0,0,177,0,0,small,0,6,17,1,1,1,12,4,0,0,0,0,0
+OpenCPN_OpenCPN,C++,A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation,449,1131,6103,5,1401,big,2,1,88,7,0,1,13,6,5,0,0,1,1
+mariazevedo88_json-formatter-validator,Java,Java tool for json validation via string or file and correction of invalid json-like string,4,0,71,0,0,small,0,2,13,1,0,1,11,7,1,0,0,0,0
+ILIAS-eLearning_ILIAS,PHP,0,171,1838,52840,0,1881,big,1,0,21,3,0,1,3,13,5,0,0,0,1
+KSIUJ_ksicamp-the-game,C++,KSIcamp - the game,2,1,43,0,8,small,0,0,15,1,0,1,1,6,2,0,0,0,0
+spryker_product-label-discount-connector,PHP,[READ ONLY] Subtree split of the ProductLabelDiscountConnector module.,0,0,23,0,0,small,3,0,38,3,0,1,3,21,6,0,1,0,1
+IdentityPython_JWTConnect-Python-OidcMsg,Python,Implementation of OIDC protocol messages,0,1,29,0,1,small,0,0,34,4,0,1,13,12,7,0,0,1,0
+Wulf_nodehun,C++,"The Hunspell binding for nodejs that exposes as much of hunspell as possible and also adds new features. Hunspell is a first class spellcheck library used by Google, Apple, and Mozilla.",84,10,126,0,34,small,1,19,50,2,0,1,3,4,5,0,0,0,1
+nearform_udaru,JavaScript,0,2,69,440,0,174,small,2,0,31,3,0,1,11,12,3,0,0,0,1
+salesagility_SuiteCRM,PHP,SuiteCRM - Open source CRM for the world,1552,3500,7793,1,7327,big,9,19,121,4,0,1,2,57,40,1,1,0,1
+Umar-Eh_Getting-a-jump-on-crime,Python,ACM-ICPC 2018 finals problem E,0,0,22,0,0,small,0,0,7,1,0,1,2,3,1,0,0,0,0
+OCA_account-reconcile,Python,"Odoo Bank Statements Tasks (reconciliation, completion,...)",25,162,1055,22,193,medium,7,2,43,4,0,1,13,8,5,0,1,0,1
+jhermsmeier_node-disk,JavaScript,A node library for nice & easy disk emulation,31,1,132,0,8,small,0,0,8,3,0,1,2,5,1,0,0,0,0
+Marri_glowfic,Ruby,The Glowfic Constellation,8,578,9652,3,1058,big,1,0,31,1,0,1,2,12,8,1,1,0,1
+AlexandruGhergut_find-me-a-buddy,Java,0,2,24,81,3,24,small,0,0,4,1,0,1,2,3,0,0,0,0,0
+desihub_redrock,Python,Redshift fitting for spectroperfectionism,5,72,462,2,145,small,14,123,213,6,0,1,12,9,8,0,0,0,1
+KnpLabs_KnpGaufretteBundle,PHP,Easily use Gaufrette in your Symfony projects.,519,112,168,37,220,popular,0,0,21,4,0,1,13,11,2,0,1,0,0
+Granicus_jekyll-ramler,Ruby,Jekyll plugin that generates API documentation pages based on RAML,4,0,39,0,2,small,0,0,16,5,0,1,2,6,4,1,0,0,1
+msdk_msdk,Java,MSDK source code repository,26,246,583,0,272,small,0,0,8,1,0,1,2,4,1,0,0,0,0
+convio_watirmark,Ruby,0,23,48,841,10,52,medium,0,0,12,1,1,1,2,5,2,0,0,0,0
+Spicery_ginger,C++,"Ginger is our attempt to build an elegant but friendly and practical programming system. It includes a programming language, virtual machine and supporting tools.",2,0,981,0,1,small,0,8,44,1,0,1,4,5,17,1,0,0,1
+wagtail_Willow,Python,"A consolidation layer for Python image libraries (Pillow, Wand and OpenCV)",72,21,58,2,36,small,0,3,24,5,0,1,13,6,3,0,0,0,1
+salesforce_refocus,JavaScript,The Go-To Platform for Visualizing Service Health,102,1151,8810,0,1195,big,2,12,57,1,0,1,13,13,5,1,1,0,1
+cparse_cparse,C++,A expression parser in C++ that uses Dijkstra's Shunting-yard algorithm.,102,8,86,0,36,small,0,1,20,1,0,1,2,4,5,0,0,0,1
+lmsgit_lms,PHP,Lan Management System (LMS) public GIT repo,86,1172,15197,8,1468,big,4,7,77,4,1,1,3,10,12,0,0,0,1
+expressjs_express,JavaScript,"Fast, unopinionated, minimalist web framework for node.",10112,443,4570,11,2312,medium,1,18,75,15,0,1,3,20,7,0,1,0,1
+openmrs_openmrs-core,Java,OpenMRS API and web application code,847,2936,8181,13,3018,big,0,0,31,7,1,1,12,13,1,1,0,0,1
+nanbando_core,PHP,Simple backup-application for automated website backups.,11,48,473,0,100,small,3,0,37,2,1,1,3,14,6,0,1,0,1
+ManageIQ_manageiq-messaging,Ruby,0,3,39,50,1,46,small,0,0,9,3,0,1,2,6,1,0,1,0,0
+rlucioni_blog,Python,"Source for my blog, a static site generated with Pelican.",0,59,329,0,61,small,0,2,21,1,0,1,11,5,2,0,1,1,0
+groovenauts_capistrano-systemd-multiservice,Ruby,Capistrano Plugin to control services with systemd,24,9,57,2,13,small,0,0,10,5,0,1,12,3,1,0,0,0,0
+jfirebaugh_konacha,Ruby,Test your Rails application's JavaScript with the mocha test framework and chai assertion library,1013,100,270,23,240,popular,0,0,13,4,0,1,12,4,2,0,0,0,0
+X-dea_MultiLocker,C++,A lock framework based on Arduino,1,1,29,0,2,small,0,45,67,1,0,1,12,5,3,0,1,0,1
+thoughtbot_paperclip,Ruby,Easy file attachment management for ActiveRecord,10383,815,1624,110,2647,popular,0,0,26,7,0,1,13,6,1,0,0,0,0
+jhoblitt_puppet-ipmi,Ruby,manages the OpenIPMI package,11,25,106,0,35,small,1,0,19,7,0,1,13,6,0,0,0,0,0
+lbox87_smite-randomizer-client,JavaScript,React client for Smite Randomizer,0,0,139,0,0,small,0,0,13,1,0,1,3,4,0,0,1,1,0
+animekita_selvbetjening,Python,Selvbetjening Core,2,0,650,0,10,small,0,0,7,1,0,1,2,4,2,0,0,0,0
+request_request,JavaScript,Simplified HTTP request client.,23910,667,929,13,2127,medium,0,3,22,4,0,1,22,7,0,0,0,0,0
+moveability_moveability,C++,"Forget walkability, i wanna skate",1,0,28,0,3,small,0,0,38,5,1,1,4,5,0,0,1,0,1
+neomutt_homebrew-neomutt,Ruby,Automated builds for OSX,31,21,99,0,45,small,1,0,21,2,0,1,3,6,9,0,0,0,1
+Shopify_cli-ui,Ruby,Terminal user interface library,246,30,141,0,52,small,0,0,8,3,0,1,12,3,1,0,0,0,0
+bluemarblepayroll_differential,Ruby,"Differential is a numeric-based library will compare two datasets and give you three levels of comparison: report, group, and item level.",0,1,35,0,1,small,1,1,21,4,0,1,2,8,5,0,1,0,1
+OLC-Bioinformatics_StrainChoosr,Python,0,0,0,41,0,2,small,1,2,27,2,0,1,2,10,6,1,1,0,1
+juliangruber_isarray,JavaScript,Array#isArray for older browsers.,98,14,27,0,23,small,0,0,21,16,1,1,210,11,1,0,1,0,0
+arqex_react-datetime,JavaScript,A lightweight but complete datetime picker react component.,116,24,74,0,62,small,0,0,15,2,0,1,11,7,3,0,0,0,0
+varwishteam_varwish-fe,JavaScript,"Front end side of our application for subject BI-SP1 on CTU FIT,",0,5,91,0,22,small,0,1,21,1,0,1,26,6,2,0,0,1,0
+KnpLabs_Gaufrette,PHP,PHP5 library that provides a filesystem abstraction layer ‚àí will be a feast for your files!,1484,409,990,11,597,medium,12,0,47,4,0,1,13,26,8,0,1,0,1
+CitrineInformatics_api-documentation,JavaScript,Citrine Informatics API documentation,0,9,171,1,11,small,1,0,12,1,0,1,12,4,0,0,0,1,0
+kojimain_club-groupware-app,PHP,0,0,20,95,0,37,small,0,0,28,1,0,1,3,19,6,0,1,1,1
+zecure_shadowd_php,PHP,A Shadow Daemon connector for PHP applications,29,3,98,0,13,small,0,0,11,4,0,1,2,12,1,0,0,0,0
+eggcaker_jekyll-org,Ruby,org-mode  converter for Jekyll.,64,12,55,0,42,small,1,2,31,1,2,1,14,9,2,1,1,0,1
+logstash-plugins_logstash-filter-collate,Ruby,0,2,6,54,3,10,small,0,0,2,1,0,1,3,3,0,0,0,0,0
+quaddy-services_escape-from-intranet,Java,Escape out of intranet without dealing with authentication of corporate proxy,2,5,66,2,13,small,0,10,32,1,0,1,2,4,5,0,0,0,1
+qcubed_qcubed,PHP,The official QCubed framework git repo,42,643,1270,10,1103,medium,2,10,77,26,0,1,224,27,5,0,0,0,1
+ezsystems_ezpublish-kernel,PHP,eZ Platform (aka eZ Publish 6.x) kernel,170,2621,18397,28,2668,big,18,22,112,12,1,1,13,21,16,1,1,0,1
+witte_Metronome,C++,A simple metronome made with Qt and Juce,0,1,41,0,1,small,1,0,50,2,0,1,23,4,14,0,0,0,1
+PapenfussLab_gridss,Java,GRIDSS: a genomic rearrangement identification software suite,67,1,627,0,212,small,0,0,8,1,0,1,1,5,0,0,0,0,0
+Project-OSRM_osrm-backend,C++,Project OSRM: C++ backend,3152,1780,22318,0,4592,big,26,27,577,28,0,2,122,12,62,1,1,0,1
+opencredit_badgeos,PHP,BadgeOS is a plugin to WordPress that allows you to easily create badges and set up the steps and achievements users take to earn them. Badges are Mozilla OBI compatible and sharable via Credly.,83,150,1139,13,649,medium,2,0,32,12,0,1,12,25,2,1,0,0,1
+honix_Pyno,Python,Python-based visual programming,86,18,150,0,45,small,0,0,9,1,0,1,2,5,3,0,0,0,0
+zhm_minipg,C++,High performance libpq bindings for Nodejs using single-row mode,1,1,63,0,1,small,1,0,16,3,0,1,2,7,1,0,0,0,0
+nortikin_sverchok,Python,Sverchok,638,979,8268,15,2416,big,1,4,88,1,0,1,34,8,3,1,1,1,1
+platformio_platform-intel_mcs51,Python,"Intel MCS-51 (8031, 8032, 8051, 8052, etc): development platform for PlatformIO",3,7,36,0,15,small,1,0,26,6,1,1,2,6,3,0,0,0,1
+zed-0xff_pedump,Ruby,dump windows PE files using ruby,180,4,78,0,9,small,0,0,29,5,0,1,0,5,0,0,0,0,0
+swagger-api_swagger-codegen,Java,swagger-codegen contains a template-driven engine to generate client code in different languages by parsing your Swagger Resource Declaration.,3911,2485,6925,3,4953,big,2,37,116,1,0,1,11,11,33,0,1,0,1
+gradle_playframework,Java,Unreleased Gradle Play Support,8,6,62,0,40,small,2,0,33,6,0,1,2,7,4,0,1,0,1
+livecode_livecode,C++,LiveCode cross-platform development environment (engine),159,4092,12507,0,4219,big,2,21,130,2,0,1,12,13,5,1,0,0,1
+rubysec_ruby-advisory-db,Ruby,A database of vulnerable Ruby Gems,642,288,528,0,392,small,1,1,13,1,1,1,12,4,0,0,1,0,0
+eclipse_dartboard,Java,Flutter SDK integration into Eclipse,4,3,55,0,26,small,1,1,26,1,0,1,2,8,12,0,1,0,1
+MattKetmo_EmailChecker,PHP,Disposable email detection library for PHP,176,43,89,0,62,small,0,0,20,7,0,1,2,14,3,0,0,0,1
+neos_flow-development-collection,PHP,"The unified repository containing the Flow core packages, used for Flow development.",111,1228,7525,0,1593,big,3,6,114,9,1,1,0,45,35,1,1,0,1
+walley_guidepost,Java,0,1,0,72,0,0,small,0,7,35,1,0,1,2,4,7,0,0,0,1
+asherbar_InspectorDB,JavaScript,"A database inspector application, focused on applications in the cloud, specifically Cloud Foundry",1,19,76,0,20,small,1,0,14,2,0,1,1,7,3,0,0,0,0
+earwig_mwparserfromhell,Python,A Python parser for MediaWiki wikicode,339,31,712,2,213,small,1,0,23,20,0,1,2,11,3,0,0,0,1
+omeka_Omeka,PHP,"A flexible web publishing platform for the display of library, museum and scholarly collections, archives and exhibitions.",277,203,1801,10,878,medium,0,0,39,8,0,1,13,17,9,0,0,0,1
+zxz054321_laravel4china,PHP,Êõ¥Á¨¶ÂêàÂõΩÊÉÖ„ÄÅÊõ¥ÈÄÇÂêà‰Ωú‰∏∫Êñ∞È°πÁõÆÂü∫Áü≥ÁöÑ Laravel 5.2 ‰∏≠ÂõΩÁâà,16,2,78,0,2,small,0,0,15,2,0,1,2,14,5,0,0,0,0
+audionamix_rtff,C++,A real time frequential filtering library,0,0,88,0,0,small,0,3,28,1,0,1,11,2,8,0,0,0,0
+roundcube_roundcubemail,PHP,The Roundcube Webmail suite,3300,637,7209,4,2129,big,2,9,40,4,0,1,12,13,2,0,1,0,1
+NoChanceSD_AncientGates,Java,"Ancient Gates Reloaded, Updated for 1.8+",7,2,42,1,24,small,0,0,16,1,0,1,12,6,2,0,1,0,0
+liip_LiipImagineBundle,PHP,Symfony Bundle to assist in imagine manipulation using the imagine library,1132,541,743,60,1200,popular,8,5,96,10,0,1,13,18,9,0,1,0,1
+henroca_react-material-keyboard,JavaScript,Virtual keyboard to react.js with material design,1,7,63,0,7,small,1,0,23,1,0,1,2,9,8,0,1,0,1
+dunwu_spring-tutorial,Java,:book: SpringÂ≠¶‰π†Á¨îËÆ∞„ÄÇ,218,1,45,0,1,small,0,2,18,1,1,1,2,5,1,1,0,0,0
+wttech_AEM-Rules-for-SonarQube,Java,0,48,84,532,1,154,small,1,1,22,2,0,1,1,6,1,0,0,0,0
+Echsecutor_bitcoin_trading.echse,Python,This is a collection of simple python scripts utilizing the bitcoin.de trading API,0,3,33,0,12,small,1,0,9,2,0,1,2,5,1,0,0,0,0
+travis-ci_travis-cookbooks,Ruby,Chef cookbook monolithic repo :book: :bomb:,664,792,3996,27,993,popular,2,0,20,2,0,1,2,3,1,0,0,0,0
+adamnoto_bali,Ruby,"Bali (Bulwark Authorization Library) is a universal authorization library, in the sense that it does not assume you to use specific Ruby library/gem/framework.",4,76,224,0,76,small,1,0,47,8,0,1,3,9,6,0,1,0,1
+HubSpot_Singularity,Java,"Scheduler (HTTP API and webapp) for running Mesos tasks‚Äîlong running processes, one-off tasks, and scheduled jobs. #hubspot-open-source",775,1511,17330,0,1908,big,0,0,9,1,0,1,2,4,1,0,1,0,0
+bublejs_buble,JavaScript,0,519,76,730,3,186,small,1,0,21,2,0,1,2,5,3,0,0,0,1
+animachine_animachine,JavaScript,An animation editor tool for any kind of web content.,391,4,819,2,9,small,0,0,12,3,0,1,12,6,2,0,0,0,0
+oivoodoo_devise_masquerade,Ruby,"Extension for devise, enable login as functionality. Add link to the masquerade_path(resource) and use it.",292,31,114,0,55,small,0,0,13,2,0,1,12,5,1,0,0,0,0
+google_cdep,Java,"CDep is a decentralized native package dependency manager with a focus on Android. Runs on Windows, Linux, and MacOS.",79,30,81,0,65,small,0,3,62,1,0,1,14,5,17,0,0,1,1
+pezmaster31_bamtools,C++,C++ API & command-line toolkit for working with BAM data,205,56,114,1,145,small,1,2,57,4,0,1,12,5,6,0,0,0,1
+esbanarango_ember-model-validator,JavaScript,"ember-cli addon, which adds validation support to your Ember-Data models.",133,24,397,0,65,small,2,5,49,8,0,1,13,11,6,0,1,0,1
+hrbrmstr_iptools,C++,":fork_and_knife: A toolkit for manipulating, validating and testing IP addresses and ranges, along with datasets relating to IP addresses. While it primarily has support for the IPv4 address space, more extensive IPv6 support is intended.",38,2,191,4,38,small,1,0,16,1,2,1,12,4,0,0,0,0,0
+OpenBuildings_jam,PHP,A small but feature rich ORM,25,62,326,0,87,small,1,0,53,9,1,1,13,29,8,1,1,0,1
+mikera_tyrant,Java,Tyrant Roguelike game in Java,38,3,120,1,5,small,0,0,4,2,0,1,2,3,0,0,0,0,0
+serverless-heaven_serverless-webpack,JavaScript,Serverless plugin to bundle your lambdas with Webpack,721,99,308,2,323,small,1,1,29,2,0,1,0,7,4,0,0,0,0
+dolatapatryk1_text-transformer,Java,0,1,30,100,2,30,small,0,0,2,1,0,1,3,2,0,0,0,0,0
+asaschachar_optimizely-manager-js,JavaScript,0,0,0,53,0,0,small,0,0,20,3,0,3,2,5,3,0,0,0,1
+novus_nvd3,JavaScript,A reusable charting library written in d3.js,7670,783,1728,34,2235,popular,0,1,20,1,0,1,2,6,11,0,0,0,1
+puppetlabs_puppetlabs-ntp,Ruby,Puppet module to manage the NTP service,166,487,704,171,519,popular,4,0,116,9,1,3,0,12,16,1,1,0,1
+BuildCraft_BuildCraft,Java,BuildCraft,1336,995,5157,3,4374,big,1,0,20,3,0,3,2,4,6,0,0,0,1
+freyo_laravel-queue-cmq,PHP,???? Tencent Qcloud CMQ driver for Laravel Queue,14,9,140,0,17,small,0,0,13,4,0,1,12,14,2,0,0,0,0
+adomant_blog_finally,Ruby,0,2,7,137,1,7,small,0,0,14,1,0,1,112,6,1,0,0,0,0
+samarthbsb_SpringWebsocket,JavaScript,0,0,1,48,0,1,small,0,0,4,1,0,1,2,2,0,0,0,0,0
+wso2_carbon-identity-framework,Java,0,29,1822,5124,1,1909,big,0,0,9,1,0,1,2,4,1,0,1,0,0
+20c_munge,Python,data manipulation client / library,0,2,111,0,6,small,0,0,22,4,0,1,3,11,4,1,0,0,1
+JCMais_node-libcurl,C++,libcurl bindings for node,255,22,607,0,178,small,6,8,91,20,0,1,2,16,9,1,1,0,1
+tfussell_xlnt,C++,:bar_chart: Cross-platform user-friendly xlsx library for C++14,491,89,1121,10,388,medium,9,14,232,8,0,1,34,10,19,0,0,1,1
+astorm_pestle,PHP,"A collection of command line scripts for Magento 2 code generation, and a PHP module system for organizing command line scripts.",435,64,364,0,351,small,10,52,128,1,0,1,11,60,42,0,0,0,1
+beloop_components,PHP,Beloop components for LMS,1,6,180,0,7,small,1,0,28,2,0,1,13,14,5,0,1,0,0
+Adonai_Man-Man,Java,www.mankier.com Android client,22,2,124,0,18,small,3,2,69,1,0,1,22,9,10,0,1,1,1
+victorhaggqvist_libtodotxt,C++,A C++ lib for managing todo.txt files,0,1,57,1,1,small,0,0,9,1,0,1,2,3,2,0,0,0,0
+the-events-calendar_the-events-calendar,PHP,The Events Calendar WordPress plugin by Modern Tribe,185,2476,14509,7,2514,big,0,47,149,1,0,1,12,34,49,0,1,0,1
+bloomreach-forge_iframe-perspective,Java,0,0,0,69,0,0,small,0,0,7,1,0,1,2,3,0,0,1,0,0
+travis-ci_travis-build,Ruby,.travis.yml => build.sh converter,590,1574,7301,48,1648,big,3,0,76,4,0,3,12,15,11,0,1,1,1
+shaggy8871_frame,PHP,Frame is a lightweight MVC routing framework for PHP,6,0,114,1,0,small,0,0,10,2,0,1,2,14,3,0,0,0,0
+nushio3_cmaes,Python,CMA-ES wrapper in Haskell,6,2,44,1,3,small,0,0,4,1,0,1,2,0,1,0,0,0,0
+dankogai_js-hexfloat,JavaScript,Rudimentary C99 Hexadecimal Floating Point Support in JS,5,0,38,0,0,small,0,0,4,1,0,1,2,2,0,0,0,0,0
+fougue_fougtools,C++,"Usefuls tools for C++, Qt and Open Cascade",2,0,359,0,0,small,0,0,25,1,0,1,1,3,13,0,0,0,1
+mmckinst_puppet-hash2stuff,Ruby,0,1,19,69,0,22,small,3,8,43,7,0,1,104,8,2,0,0,1,1
+jruby_jruby,Ruby,"JRuby, an implementation of Ruby on the JVM",3582,2021,37934,22,5832,big,5,6,336,36,1,2,112,14,39,0,1,0,1
+thoughtbot_clearance,Ruby,Rails authentication with email & password.,3335,433,2195,81,857,popular,0,0,29,15,0,1,13,8,1,1,1,0,0
+cartalyst_sentry,PHP,[DEPRECATED] A framework agnostic authentication & authorization system.,1931,178,608,482,548,popular,0,0,19,5,0,1,3,16,3,0,0,0,1
+maslick_bruncher,Java,git branching project,0,24,89,0,24,small,0,0,63,5,0,5,12,10,9,0,1,0,1
+netresearch_t3x-contexts_geolocation,PHP,Geolocation for TYPO3,0,3,112,2,3,small,1,3,45,1,0,1,12,21,9,0,1,0,1
+zli117_EInk-Calendar,Python,Smart calendar with EInk display and Raspberry Pi,0,0,27,0,0,small,0,0,16,1,0,1,2,11,10,0,0,0,1
+SixArm_sixarm_ruby_uspto,Ruby,SixArm.com ¬ª Ruby ¬ª USPTO: United States Patent and Trademark Office,2,0,71,2,0,small,0,0,14,4,0,1,12,4,1,0,1,0,0
+erikkjellgren_SlowQuant,Python,0,17,1,109,0,1,small,0,0,40,2,0,1,1,8,14,0,0,0,1
+research-technologies_hull_synchronizer,Ruby,Repository to synchronize and monitor the processing tasks,1,41,272,0,47,small,1,0,13,1,0,1,13,6,2,0,1,0,0
+pinussilvestrus_bncl,Java,Natural like language for creating BPMN 2.0 Diagrams,13,25,175,0,67,small,0,0,6,1,0,1,2,2,0,0,0,0,0
+trinodb_tempto,Java,A testing framework for Presto,3,10,202,0,10,small,0,0,21,3,0,1,2,5,7,0,0,0,1
+RubyMoney_money,Ruby,A Ruby Library for dealing with money and currency conversion.,2073,491,1118,65,869,popular,0,0,35,15,3,1,12,5,2,0,0,0,0
+Teevity_ice,Java,AWS Usage Tool,1591,87,138,0,250,small,0,0,15,1,0,1,12,4,5,0,0,0,0
+Donaldcwl_browser-image-compression,JavaScript,0,40,5,63,0,14,small,0,0,4,1,0,1,2,3,0,0,0,0,0
+demokratikollen_demokratikollen,Python,Collect and visualize data from the Swedish parliament,1,18,897,4,102,small,4,2,54,3,0,3,22,11,13,0,1,0,1
+facebook_facebook-android-sdk,Java,Used to integrate Android apps with Facebook Platform.,4748,277,974,46,488,popular,1,5,50,1,1,1,112,7,4,0,0,1,1
+pjc0247_rookie.lang,C++,0,3,1,622,0,10,small,0,0,13,1,0,1,13,6,2,0,0,1,0
+adopted-ember-addons_ember-impagination,JavaScript,"An Ember Addon that puts the fun back in asynchronous, paginated datasets",7,8,145,0,15,small,2,6,58,7,0,2,11,11,7,0,1,0,1
+jaridmargolin_wss-manager,JavaScript,A controllable Websocket Server interface used for testing,0,0,137,0,1,small,0,0,18,2,0,1,14,6,2,0,0,1,0
+mwibrow_sphinx-sass,Python,Sphinx extension for generating css from sass,0,4,141,0,4,small,0,0,21,1,0,1,12,7,2,1,0,0,0
+kylesferrazza_jerrymercogliano,JavaScript,0,0,0,50,0,0,small,1,0,14,1,0,1,2,6,1,1,0,0,0
+foxtacles_rj_schema,C++,Fast JSON schema validation with RapidJSON,4,0,44,0,0,small,1,0,26,1,0,1,3,7,2,0,0,1,0
+AO-StreetArt_Adrestia,Java,Aesel Gateway Service,0,44,312,0,91,small,0,0,37,1,1,1,2,9,16,0,0,0,1
+bmcfee_pumpp,Python,practically universal music pre-processor,32,47,285,0,101,small,0,1,33,3,0,1,11,9,6,0,1,0,1
+buguroo_pyknow,Python,Pure Python knowledge-based inference engine (inspired by CLIPS),197,7,433,0,48,small,0,0,15,3,0,1,2,8,5,0,0,0,0
+OCA_partner-contact,Python,Odoo Partner and Contact related addons,99,618,3767,22,759,medium,5,1,50,3,0,2,2,11,6,0,1,0,1
+DIYer22_boxx,Python,Box-X is a Tool-kit for Fast Build and Debug on IPython. Especially for Computer Vision.,3,0,31,0,0,small,0,9,32,4,0,1,100,8,3,0,0,0,0
+JonnyPtn_SFML-DOOM,C++,0,42,4,283,0,9,small,1,1,108,12,0,1,3,4,10,0,0,0,1
+PX4_PX4-Autopilot,C++,PX4 Pro Autopilot Software,2824,7273,63827,8,12193,big,0,2,36,1,0,1,3,6,5,0,0,0,1
+optimizely_nuclear-js,JavaScript,Reactive Flux built with ImmutableJS data structures. Framework agnostic.,2187,120,512,84,231,popular,1,0,17,1,0,1,2,7,1,1,0,0,0
+GetSky_php-airac,PHP,AIRAC generator,0,0,47,0,2,small,0,0,21,2,0,1,12,18,5,0,0,0,1
+sarahtattersall_PIPE,Java,PIPE - Platform Independent Petri Net Editor,143,29,656,0,119,small,0,4,17,1,0,1,12,5,2,1,0,0,0
+PabloCastellano_libcnml,Python,libcnml is a CNML parser library for Python,4,7,91,0,23,small,0,2,20,2,0,1,2,7,2,1,1,0,0
+DDMAL_diva.js,JavaScript,:books: Large Document Image Viewer,218,45,2176,17,468,medium,0,0,20,1,1,1,12,7,3,0,1,0,1
+instedd_resourcemap,Ruby,0,10,5,3342,16,892,medium,0,0,33,1,1,1,2,6,10,0,1,1,1
+rodjek_rspec-puppet,Ruby,RSpec tests for your Puppet manifests,290,381,987,13,751,medium,4,5,46,12,1,1,13,7,1,0,1,0,1
+abotalov_waiting_rspec_matchers,Ruby,become_* RSpec matchers that do the same as * matchers but also wait,11,1,31,1,3,small,0,0,20,9,0,1,12,5,2,0,0,0,0
+svl-studios_google-fonts,PHP,Google fonts updated daily via Travis CI.,0,0,41,0,0,small,1,5,15,1,0,1,2,13,1,0,0,0,0
+plone_plone.testing,Python,"Provides tools for writing unit and integration tests in a Zope and Plone environment. It is not tied to Plone, and it does not depend on Zope 2 (although it has some optional Zope 2-only features)",4,51,508,149,62,medium,1,0,46,10,0,1,113,7,3,0,1,0,1
+imatesiu_TestHWCorrispettivi,Java,TestHWCorrispettivi,0,0,257,0,0,small,0,0,6,1,0,1,2,3,1,0,0,0,0
+rapid7_metasploit_data_models,Ruby,"MSF database code, gemified",35,177,1444,32,183,medium,0,2,23,1,0,1,11,6,5,0,1,0,1
+KState-HEP-HTT_SMHTT_Analyzers,C++,0,0,13,22,0,13,small,3,14,36,1,0,1,3,3,2,0,0,0,0
+kadrlica_dsphsim,Python,Simulate spectroscopic observations of dwarf galaxies,2,1,109,0,5,small,0,6,32,1,0,1,12,4,12,0,0,0,1
+getgrav_grav,PHP,"Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS",11612,505,5142,2,2509,big,11,8,97,4,2,1,2,21,11,1,0,0,1
+lesscpy_lesscpy,Python,Python LESS compiler,97,35,37,0,79,small,0,3,17,5,0,1,2,8,2,0,0,0,0
+blueberryapps_translation-server,Ruby,Stores translations with location and screenshot. Enable users to easily edit translations and then any rails application can use them.,25,93,508,16,105,medium,1,0,29,1,0,1,12,10,5,0,1,0,1
+relative-ci_agent,JavaScript,0,0,3,55,0,3,small,0,0,11,1,0,1,2,4,4,0,1,0,1
+fex-team_node-ral,JavaScript,a backend service manager for nodejs,134,125,551,38,144,medium,0,0,17,4,0,1,12,9,2,0,1,0,0
+stacktracejs_stack-generator,JavaScript,Generate artificial backtrace by walking arguments.callee.caller chain,24,3,85,2,6,small,0,0,16,1,0,1,11,8,4,0,0,0,0
+gushphp_ToInlineStyleEmailBundle,PHP,A Symfony2 bundle to use the CssToInlineStyles converter by Tijs Verkoyen,44,22,37,2,39,small,0,0,10,1,0,1,2,13,2,0,0,0,0
+anthill-platform_anthill-common,Python,Common utils for Anthill platform,0,0,123,0,0,small,0,0,22,1,0,1,12,9,3,0,0,0,1
+imglib_imglib2,Java,A generic next-generation Java library for image processing,198,116,1924,22,195,medium,1,0,18,1,0,1,2,7,2,1,1,0,0
+VioletGiraffe_cpp-template-utils,C++,A header-only C++ library that augments the standard library with useful code snippets,2,0,62,0,0,small,0,4,34,1,0,1,0,6,15,0,0,0,1
+carsevbarus_decide-test,Python,0,0,0,23,0,0,small,2,0,28,1,0,1,113,12,7,0,0,1,0
+SpineEventEngine_jdbc-storage,Java,Support of storage in JDBC-compliant databases,0,114,1259,10,124,medium,0,4,23,1,0,1,2,3,5,0,0,0,1
+informatics-isi-edu_chaise,JavaScript,An adaptive user interface to the ERMrest service.,6,578,5793,2,1772,big,7,0,150,1,1,1,11,16,64,1,1,0,1
+SUSE_salt-netapi-client,Java,Java bindings for the Salt API,17,112,675,21,146,medium,1,0,35,2,0,1,23,8,8,0,0,1,1
+mrajo_cupelix,JavaScript,A search engine web service powered by elasticlunr.js,0,0,53,0,0,small,0,0,11,8,0,1,2,9,0,0,0,0,0
+pulp_pulp,Python,"Repository for Pulp platform code, including the server and base admin and consumer clients",527,3887,19626,9,4033,big,0,0,39,1,1,1,2,9,10,0,0,0,1
+hmcts_hwf-staffapp,Ruby,Help with Court Fees Staff Interface,1,828,6379,2,858,big,0,1,33,1,0,1,12,7,14,0,1,0,1
+scrapy_cssselect,Python,CSS Selectors for Python,80,22,32,1,42,small,0,0,25,5,0,1,13,8,2,0,0,1,0
+Pylons_substanced,Python,An application server based on the Pyramid web framework (http://substanced.net),152,132,1783,14,297,medium,0,0,13,4,0,1,12,5,2,0,0,0,0
+kquiet_auto-browser,Java,0,1,0,132,0,4,small,1,1,37,2,0,1,1,7,5,1,1,0,1
+chubbyphp_chubbyphp-deserialization,PHP,A simple deserializer.,5,22,316,0,29,small,1,0,42,7,0,1,2,18,7,0,0,0,1
+rspec_rspec-activemodel-mocks,Ruby,Add stub_model and mock_model to rspec-mocks,92,25,96,0,39,small,1,11,189,75,0,1,3,6,3,1,0,0,1
+jonathangingras_ckick,Ruby,0,2,0,29,0,0,small,0,0,6,1,0,1,12,3,1,0,0,0,0
+resilience4j_resilience4j,Java,"A lightweight, easy-to-use fault tolerance library designed for Java8 and functional programming based on javaslang.",35,1,131,0,1,small,2,3,35,1,0,1,0,10,3,0,1,0,1
+SC5_sc5-styleguide,JavaScript,Styleguide generator is a handy little tool that helps you generate good looking styleguides from stylesheets using KSS notation,1309,808,1213,20,1121,medium,0,0,14,2,1,1,12,7,1,0,0,0,0
+Layto888_laylib,Python,A 2D engine to fast prototype your multimedia applications like games on pygame. Write clean and pragmatic design.  (See the README for more details).,0,0,77,0,0,small,0,2,14,3,0,1,2,6,2,0,0,0,0
+Comcast_zucchini,Java,Run your cucumber-jvm tests in parallel across all your devices,30,41,241,4,46,small,0,0,3,1,0,1,12,3,0,0,0,0,0
+crdoconnor_xeger,Python,Library to generate random strings from regular expressions.,40,8,28,0,12,small,0,2,16,5,0,1,2,8,2,0,0,0,0
+conda-forge_binutils-feedstock,Python,A conda-smithy repository for binutils.,0,10,21,0,12,small,4,2,28,3,0,1,3,2,4,0,0,0,0
+kontena_kontena,Ruby,"Container platform built to maximize developer happiness. Works on any cloud, easy to setup, simple to use.",1476,1935,10727,0,3359,big,5,5,92,10,0,5,192,9,8,0,1,0,1
+ccnmtl_dmt,Python,django port of our PMT,4,2036,5112,1,2039,big,0,0,15,1,1,1,101,9,4,0,0,0,0
+yui_yui3,JavaScript,A library for building richly interactive web applications.,3975,1148,6774,16,2050,big,0,0,12,2,0,1,2,6,1,1,0,0,0
+jackmoody11_stockscore,Python,A python script to fetch stock financials and statistics to aid in the stock selection process,5,4,254,0,14,small,2,2,49,3,0,1,23,9,8,0,0,0,1
+capacity4dev_capacity4more,Ruby,A Drupal 7 powered distribution providing a community platform to share knowledge.,10,1624,13391,1,1886,big,4,16,109,6,1,1,122,37,17,0,0,0,1
+cerner_terra-core,JavaScript,0,136,1176,13229,1,2318,big,0,10,168,20,0,5,24,8,29,1,1,0,1
+miracle2k_django-assets,Python,Django webassets integration.,79,49,75,0,95,small,0,0,26,12,0,1,11,13,2,1,1,0,1
+tech256_r2d8,Ruby,A bot for the people,2,19,77,0,25,small,0,1,18,1,0,1,2,4,5,0,1,0,1
+pdobb_pronto-bundler_audit,Ruby,"Pronto runner for bundler-audit, patch-level verification for bundler.",1,0,48,0,0,small,1,0,21,4,0,1,12,8,4,0,1,0,1
+redcross_arcdata,Ruby,Scheduling/analytics tool for Disaster Services,21,40,889,0,183,small,1,0,22,1,0,1,12,9,5,0,1,0,1
+fwilliams_numpyeigen,C++,0,10,2,242,1,42,small,3,1,24,6,0,1,11,10,5,0,0,0,1
+ebru_sending-messages,PHP,A REST API application uses MessageBird API.,1,0,22,0,3,small,0,0,7,1,0,1,2,14,3,0,0,0,0
+esac-ic_esac.nl,PHP,Website voor de Eindhovense Studenten Alpen Club,2,63,310,0,147,small,0,0,43,1,0,1,12,25,18,0,0,0,1
+dschadow_JavaSecurity,Java,Java web and command line application demo projects for different security topics,68,0,889,0,1,small,0,0,3,1,0,1,12,4,0,0,0,0,0
+Hosiang1026_Hosiang1026.github.io,JavaScript,This is Octopress Blog.,0,0,180,0,0,small,0,25,85,1,1,1,32,10,8,1,1,0,1
+kakserpom_phpdaemon,PHP,Asynchronous server-side framework for network applications implemented in PHP using libevent,948,146,1151,13,252,medium,0,0,23,3,0,1,12,16,5,0,1,0,1
+skalenetwork_libBLS,C++,libBLS: a C++ library for BLS Threshold Signatures,15,3,27,0,3,small,8,1,144,2,1,1,135,5,26,0,0,0,1
+CAAPIM_webpack-config,JavaScript,Extensible configuration for Webpack projects at CA,1,24,108,0,26,small,0,0,32,1,0,1,12,10,5,1,1,0,1
+ONSdigital_rm-common-test-framework,Java,Common test framework code for Response Management.,2,10,70,0,10,small,0,2,38,1,1,1,2,8,6,1,1,0,1
+woocommerce_woocommerce,PHP,An open source eCommerce plugin for WordPress.,2777,4832,16867,0,12171,big,5,10,102,11,0,1,0,29,13,1,1,0,1
+NeilJustice_ZenUnitAndMetalMock,C++,Single-header C++ unit testing framework ZenUnit,2,0,384,0,1,small,3,12,76,4,1,1,11,10,1,0,1,0,1
+coffeestats_coffeestats-django,Python,Django port of https://coffeestats.org/ code,7,2,283,0,45,small,0,0,17,1,0,1,12,9,6,0,0,0,1
+lccgov_generator-lcc-sharepoint,JavaScript,LCC Yeoman generator for SharePoint assets,0,0,35,4,0,small,1,0,20,1,0,1,2,7,10,0,0,0,1
+karriereat_php-code-quality,PHP,Code Quality scripts that can be run via Composer.,17,5,83,1,7,small,0,0,15,3,0,1,2,14,3,0,0,0,0
+bencbartlett_Overmind,JavaScript,Artificial intelligence for the programming strategy game Screeps,154,66,504,0,135,small,0,0,5,1,0,1,2,3,0,0,0,0,0
+JeroenDeDauw_QueryrAPI,PHP,REST API for Wikibase data,7,0,111,0,35,small,0,0,15,1,0,1,12,15,2,0,1,0,0
+UnionOfRAD_lithium,PHP,"li‚ÇÉ is the fast, flexible and most RAD development framework for PHP",1104,801,1692,11,1429,medium,4,23,98,27,0,1,13,42,13,0,0,0,1
+dev-sec_linux-baseline,Ruby,DevSec Linux Security Baseline - InSpec Profile,308,51,68,0,72,small,0,0,10,1,0,1,12,5,1,0,1,0,0
+enova_landable,Ruby,an API for your CMS,13,88,544,14,94,medium,1,1,50,15,2,1,113,12,4,0,1,0,1
+ssistoza_pokemon-viewer,JavaScript,A Pok√©dex app using redux,0,0,21,0,0,small,0,0,18,1,0,1,16,6,2,0,1,1,0
+dcendents_android-maven-gradle-plugin,Java,Maven plugin for gradle compatible with android library projects,931,6,102,0,65,small,1,0,26,1,0,1,12,8,1,0,1,0,0
+airbnb_epoxy,Java,0,5511,316,1013,10,742,medium,0,0,31,1,0,1,2,7,1,1,1,0,0
+Nepherte_bing-proxy,Java,Proxy servlet for BingMaps imagery metadata.,0,0,47,0,0,small,0,6,29,3,0,2,2,7,3,0,1,0,1
+netguru-college_vol4-dugong,Ruby,0,0,38,188,0,38,small,0,0,18,1,0,1,3,7,4,0,0,1,0
+jczaja_test-openmp,C++,Little testing program for various openmp concepts,0,4,39,0,4,small,0,0,10,1,0,1,10,3,3,0,0,0,0
+afs_text-table,Java,0,0,0,57,0,0,small,0,1,12,1,1,1,2,4,0,0,0,0,0
+ysc_word,Java,JavaÂàÜÂ∏ÉÂºè‰∏≠ÊñáÂàÜËØçÁªÑ‰ª∂ - wordÂàÜËØç,1315,3,930,0,76,small,0,0,7,1,0,1,2,4,1,0,0,0,0
+woocommerce_storefront,PHP,0,283,97,961,36,459,popular,0,0,19,1,0,1,2,4,5,0,0,0,1
+netiam_contrib-rest,JavaScript,The netiam REST plugin,0,99,401,0,100,small,0,0,14,1,0,1,2,7,0,1,1,0,0
+mikahama_syntaxmaker,Python,An NLG tool for Finnish,8,0,23,0,0,small,0,2,14,1,0,1,2,6,3,0,0,0,1
+ctlabvn_Recaptcha,PHP,CakePHP 3. Easy to integrate google recaptcha v2 to your project.,9,7,41,1,13,small,4,0,42,5,0,1,3,23,7,0,0,0,1
+audioscience_avdecc-lib,C++,"Simple C++ library for implementing IEEE1722.1 (AVB Device Enumeration, Discovery and Control)",45,315,319,0,371,small,1,2,26,1,0,1,11,8,11,0,0,0,0
+abuccts_wikt2pron,Python,Toolkit converting pronunciation in enwiktionary xml dump to cmudict format,8,0,28,0,5,small,0,0,17,8,0,1,1,11,3,0,0,0,0
+noironetworks_apic-ml2-driver,Python,0,7,156,926,14,162,medium,1,0,10,2,0,1,2,5,2,0,0,0,0
+culturagovbr_salic-minc,PHP,0,25,1321,13215,0,2106,big,0,0,12,1,0,1,2,6,1,1,1,0,0
+all3dp_meshprop,C++,Get 3D mesh properties,4,1,21,1,3,small,1,0,22,4,0,1,2,8,3,0,0,0,1
+tyabe_kpt-it,Ruby,KPT„Å´„Çà„Çã„Åµ„Çä„Åã„Åà„Çä„Çí„É™„Ç¢„É´„Çø„Ç§„É†„ÅßÂÖ±Êúâ„Åô„Çã„Ç¢„Éó„É™„Ç±„Éº„Ç∑„Éß„É≥,19,189,124,0,191,small,0,0,11,1,0,1,13,7,3,1,0,0,0
+virtuald_pyhcl,Python,HCL is a configuration language. pyhcl is a python parser for it.,180,32,79,2,55,small,0,3,44,7,0,3,22,7,7,0,0,0,1
+gini_dropwizard-gelf,Java,Addon bundle for Dropwizard to support logging to a GELF-enabled server like Graylog2 or logstash,43,18,283,0,30,small,0,0,8,2,0,1,12,2,0,0,0,0,0
+celery_billiard,Python,Multiprocessing Pool Extensions,260,96,605,4,249,small,0,0,22,12,0,1,2,11,2,0,1,0,0
+ethereumjs_ethrpc,JavaScript,RPC/IPC communication with the Ethereum network,42,10,412,0,16,small,1,0,29,1,0,1,12,9,3,1,0,0,1
+codecentric_spring-boot-admin,Java,Admin UI for administration of spring boot applications,7302,184,1565,112,1181,popular,1,0,28,1,0,1,1,10,4,0,1,0,1
+kinglozzer_silverstripe-multiselectfield,PHP,A sortable multiple select field for managing many-to-many relations,9,9,37,1,13,small,1,2,27,3,0,1,1,19,7,0,0,0,1
+neuromorphic-paris_chameleon,C++,0,2,46,149,0,46,small,0,0,47,3,0,1,13,3,6,0,0,0,1
+spatie_ssl-certificate-chain-resolver,PHP,SSL certificate chain resolver,20,2,40,0,4,small,1,0,20,8,0,1,3,17,3,0,0,0,1
+q-flux_SOEN341,PHP,0,0,16,95,0,82,small,0,0,14,1,0,1,2,15,5,0,0,0,1
+Soapbox_GoodTalk-Webhooks,PHP,0,0,4,23,0,4,small,0,0,17,3,0,1,2,15,2,0,1,0,0
+nostra13_Android-Universal-Image-Loader,Java,"Powerful and flexible library for loading, caching and displaying images on Android.",18153,141,743,1,1347,small,0,0,10,1,0,1,12,3,0,0,0,0,0
+private-datagram_pdg-core,C++,0,3,2,258,0,9,small,20,9,75,6,1,1,12,10,25,0,1,0,1
+cheeriojs_cheerio,JavaScript,"Fast, flexible, and lean implementation of core jQuery designed specifically for the server.",20234,405,418,0,1302,small,1,0,10,1,0,1,3,5,1,0,0,0,0
+python_mypy,Python,Optional static typing for Python,5465,2460,7298,8,6052,big,5,23,120,11,0,1,101,9,9,0,1,0,1
+xero-gateway_xero_gateway,Ruby,Enables ruby / rails applications to communicate with the Xero API,52,74,130,3,112,small,0,0,9,3,0,1,2,4,2,0,0,0,0
+xp-forge_web,PHP,0,0,22,307,0,52,small,0,0,24,6,0,1,2,18,5,0,0,0,1
+cotag_http-parser,Ruby,A super fast http parser for ruby,11,0,32,0,1,small,0,0,9,5,0,1,12,2,0,0,0,0,0
+bcr_Motobuddy,C++,"Motobuddy is a companion environmental information device well suited for motorcycles, snowmobiles and ATVs. You know, a handlebar-mounted computer.",0,0,37,0,0,small,0,45,66,1,0,1,12,4,2,0,1,0,0
+ulfurinn_wongi-engine,Ruby,A rule engine written in Ruby.,334,18,271,2,73,small,0,0,23,8,2,1,13,3,0,0,0,0,0
+jlib-framework_jlib-iterable,Java,jlib framework providing operations on iterables and iterators as well as means to implement own iterables,0,0,30,0,0,small,0,0,2,1,0,1,2,2,0,0,0,0,0
+learning-unlimited_ESP-Website,Python,A website to help manage the logistics of large short-term educational programs,85,1169,13213,36,2735,big,2,0,22,2,0,1,2,10,4,0,1,0,1
+apache_cloudstack,Java,Mirror of Apache Cloudstack,758,3007,17808,0,3436,big,2,30,220,18,0,1,12,17,4,0,1,0,1
+mozilla_jx-sqlite,Python,JSON query expressions using SQLite,18,60,308,1,78,small,1,0,14,2,0,1,2,5,2,0,0,0,0
+rapid7_metasploit-framework,Ruby,Metasploit Framework,17172,8695,30947,65,11971,big,1,10,77,12,1,1,112,14,14,1,1,0,1
+JeffValenti_SME,Python,Spectroscopy Made Easy,0,32,172,1,35,small,0,6,50,2,0,1,11,5,14,0,0,0,1
+FriendsOfSymfony1_symfony1,PHP,"Fork of symfony 1.4 with DIC, form enhancements, latest Swiftmailer, better performance, composer compatible and PHP 7.0 support",288,127,363,1,199,small,0,2,47,10,0,1,0,21,6,0,1,0,1
+m-jch_Date,PHP,Fix all needs to date in php,32,0,48,0,3,small,0,0,8,5,0,1,2,12,0,0,0,0,0
+iiif-prezi_iiif-prezi,Python,IIIF Presentation API implementation,14,28,67,1,48,small,0,2,21,5,0,1,12,10,6,0,0,0,1
+servicecatalog_development,Java,0,42,286,4895,24,902,medium,3,1,33,1,0,1,22,11,11,0,1,0,1
+unifiedjs_unified-engine,JavaScript,Engine to process multiple files with unified,18,4,76,1,18,small,0,0,9,4,0,1,1,6,0,0,0,0,0
+Axway_ats-distrib,Java,0,4,1,50,0,1,small,1,2,25,1,1,1,2,7,4,0,1,0,1
+Magomogo_barberry-interfaces,PHP,Common barberry interfaces,1,8,80,1,11,small,0,0,21,4,0,1,12,16,3,1,0,0,1
+rickfast_consul-client,Java,Java Client for Consul HTTP API,146,51,76,4,105,small,0,0,9,1,0,1,2,5,2,0,0,0,0
+rubygarage_detectify,Ruby,0,56,6,25,0,6,small,0,0,6,1,0,1,12,3,1,0,0,0,0
+gomexvato_mm,JavaScript,0,0,2,68,0,2,small,4,8,112,5,0,3,13,14,21,0,0,0,1
+itdxer_neupy,Python,NeuPy is a Python library for Artificial Neural Networks.,2,0,51,0,8,small,0,3,46,2,0,1,2,9,17,0,1,0,1
+1846689910_type-18-hek,JavaScript,0,1,5,35,0,8,small,0,8,33,2,1,1,2,6,6,0,1,0,1
+vojtasvoboda_oc-twigextensions-plugin,PHP,Twig extensions plugin for OctoberCMS,12,28,124,0,53,small,0,0,24,3,0,1,12,22,11,0,0,0,1
+vufind-org_vufind,PHP,A library resource discovery portal designed and developed for libraries by libraries,181,1358,10599,7,1383,big,2,0,28,3,0,1,12,23,8,0,1,0,1
+caelum_vraptor4,Java,A Java web MVC action-based framework,371,789,3563,28,1186,popular,0,0,5,1,0,1,12,4,0,0,0,0,0
+stevenjackson_pinch_hitter,Ruby,A simple web service that returns primed responses in FIFO order,4,2,49,0,8,small,0,0,9,4,0,1,2,4,1,0,0,0,0
+narrowspark_framework,PHP,:space_invader: Narrowspark Framework.,9,566,6244,0,757,big,4,0,27,1,0,1,11,11,3,0,0,0,1
+pippo-java_pippo,Java,Micro Java Web Framework,85,47,108,0,113,small,0,0,7,2,0,1,2,1,0,0,0,0,0
+netresearch_t3x-contexts_wurfl,PHP,Detect mobile devices and adjust your TYPO3 output,0,1,37,2,1,small,1,3,45,1,0,1,12,21,9,0,1,0,1
+PatrikValkovic_StandardTemplates,C++,0,3,0,115,0,0,small,1,0,38,2,0,1,3,7,8,0,0,0,1
+shunwen_fluent-plugin-rename-key,Ruby,Fluentd plugin to rename keys,11,13,97,1,19,small,0,1,11,3,0,1,2,4,1,0,0,0,0
+yodaos-project_node-flora,C++,flora nodejs module,0,5,37,0,5,small,0,0,39,3,0,2,20,8,4,0,0,0,1
+sburgess287_blog-app-mongoose-challenge-solution,JavaScript,0,0,0,23,0,0,small,0,0,13,1,0,1,3,4,0,0,0,1,0
+electrode-io_isomorphic-loader,JavaScript,Webpack isomorphic loader tools to make Node require handle files like images for Server Side Rendering (SSR),59,8,32,1,14,small,0,0,11,2,1,1,2,7,3,0,0,0,0
+opengm_opengm,C++,A C++ Library for Discrete Graphical Models,349,373,790,4,514,small,0,44,124,2,0,1,3,4,7,0,1,0,1
+Leaflet_Leaflet,JavaScript,:leaves: JavaScript library for mobile-friendly interactive maps,18715,2608,5346,0,6087,big,3,0,33,1,0,1,12,7,1,0,0,0,0
+TerriaJS_terriajs,JavaScript,"A library for building rich, web-based geospatial data explorers.",443,1267,10958,0,2545,big,2,0,38,2,0,1,43,2,7,0,0,0,1
+miso-lims_miso-lims,Java,MISO: An open-source LIMS for NGS sequencing centres,103,1745,7448,1,1865,big,3,0,57,6,1,1,12,12,9,0,1,0,1
+etalab_rna_as_api,Ruby,Une API pour le fichier RNA,1,9,50,0,21,small,0,0,16,1,0,1,2,7,6,0,1,0,1
+jansenfelipe_cpf-gratis,PHP,Com esse pacote voc√™ poder√° realizar consultas de CPF no site da Receita Federal do Brasil gratuitamente.,98,7,61,1,23,small,0,0,15,4,0,1,2,15,4,0,0,0,1
+BookingSync_bookingsync_portal,Ruby,Base engine for BookingSync portal applications,0,60,321,0,85,small,0,0,17,6,0,1,13,6,3,0,0,0,0
+mindplay-dk_unbox,PHP,"Fast, simple, easy-to-use DI container",46,11,147,0,21,small,0,0,24,7,0,1,0,11,2,0,0,0,0
+statsmodels_statsmodels,Python,Statsmodels: statistical modeling and econometrics in Python,4129,2334,10546,5,5827,big,24,28,164,7,1,1,0,17,23,0,1,0,1
+lucajackal85_ImageMerge,PHP,0,0,0,46,1,2,small,0,0,26,7,0,2,2,16,3,1,0,0,1
+roundpartner_configuration,PHP,Configuration for webservices,0,2,43,0,7,small,0,0,22,5,0,1,12,16,4,0,0,0,1
+tacoss_logro,JavaScript,Handy logger impl.,0,0,26,0,0,small,0,0,16,5,0,1,2,10,2,0,0,0,0
+sideway_joi,JavaScript,Object schema validation,12195,318,1001,22,1477,popular,0,0,23,7,0,1,12,7,2,0,0,0,0
+enthought_chaco,Python,Chaco is a Python package for building interactive and custom 2-D plots.,237,266,1952,83,453,popular,5,0,68,1,0,1,2,10,5,1,1,0,1
+bbc_waveform-data.js,JavaScript,"Audio Waveform Data Manipulation API ‚Äì resample, offset and segment waveform data in JavaScript.",249,14,101,1,32,small,1,0,39,3,0,1,12,7,5,0,1,1,1
+OXID-eSales_oxideshop_ce,PHP,OXID eShop CE,195,673,15888,1,718,big,2,18,75,2,0,1,2,41,25,0,1,0,1
+sherman5_wiimake,C++,0,0,0,36,0,2,small,0,0,62,7,0,2,74,4,2,0,0,0,0
+NCEC20182019_Scheduler,Java,0,0,0,40,0,0,small,3,0,27,1,1,1,2,10,3,1,0,0,1
+vonpupp_dotfiles-ansible,Python,0,0,0,81,0,0,small,3,24,78,33,0,1,113,7,3,0,0,0,1
+Morrolan_surrealism,Python,surreal sentence and error message generator for Python.,7,1,297,0,14,small,0,0,16,5,0,1,2,9,3,0,0,0,0
+tranchis_xsd2thrift,Java,This tool allows for converting XML Schema files (.xsd) to Thrift (.thrift) and Protocol Buffers (.proto).,62,13,41,0,19,small,0,0,2,1,0,1,2,2,0,0,0,0,0
+microsoft_fastlane-plugin-appcenter,Ruby,App Center fastlane integration.,182,34,52,0,80,small,0,1,5,1,0,1,2,3,0,0,0,0,0
+ratchetphp_Pawl,PHP,Asynchronous WebSocket client,342,30,65,0,93,small,0,0,22,8,0,1,2,18,2,0,0,0,0
+Frederikam_Lavalink,Java,0,142,134,585,4,194,small,1,1,33,1,0,1,2,7,2,0,1,0,0
+nfe_client-php,PHP,Official NFe.io API Client for PHP,23,3,59,0,16,small,0,0,12,5,0,1,2,14,2,0,0,0,0
+iobroker-community-adapters_ioBroker.proxmox,JavaScript,Control and use data from your ProxmoxVM,2,5,26,0,13,small,1,0,26,9,0,1,1,10,6,0,0,0,1
+svenfuchs_rails-i18n,Ruby,"Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff",3726,649,618,11,849,medium,0,0,9,2,0,1,2,4,0,1,0,0,0
+philr_bzip2-ffi,Ruby,Ruby library to read and write bzip2 compressed data using FFI bindings for libbz2.,1,0,64,0,0,small,1,0,35,15,0,1,2,7,5,0,1,0,1
+project-sunbird_sunbird-content-editor,JavaScript,Repostiory hosting work done for Content Editor (V2 Authoring Tool as of 03-Nov-2016),4,91,330,0,91,small,0,0,20,1,0,1,12,7,11,0,0,0,1
+digital-antiquity_DataARC,JavaScript,0,0,0,59,0,0,small,0,1,43,1,0,1,11,11,14,0,1,0,1
+acc-cosc-1337-spring-2019_acc-cosc-1337-spring-2019-k1788723,C++,acc-cosc-1337-spring-2019-k1788723 created by GitHub Classroom,0,3,47,0,3,small,0,3,28,1,0,1,21,6,8,0,0,0,1
+puppetlabs_packaging,Ruby,0,39,933,1425,172,1002,medium,1,0,21,4,0,1,13,6,1,0,0,0,0
+telemark_tfk-dsf-unwrap-contact,JavaScript,Unwraps contact from dsf,0,1,104,1,1,small,0,0,7,3,0,1,2,5,0,0,0,0,0
+stts-se_wikispeech-server,Python,Initial tests of wikispeech api. Uses python-flask,5,5,757,0,7,small,2,13,145,2,1,1,0,70,65,0,1,0,1
+TGLS_4806project,Java,0,0,13,120,2,33,small,0,0,9,1,0,1,14,4,0,0,0,1,0
+pagekit_pagekit,PHP,Pagekit CMS,5590,164,4601,14,890,medium,0,0,22,2,0,1,13,17,3,0,0,0,0
+CityOfPhiladelphia_phila.gov,PHP,Where the pieces are pulled together for phila.gov deployment.,15,762,6284,6,769,big,0,0,15,1,0,1,3,1,0,0,0,1,0
+node-3d_image-raub,C++,Native Image loader for Node.js,1,0,99,0,1,small,2,0,59,4,0,1,35,6,3,0,0,1,1
+puppetlabs_puppetlabs_spec_helper,Ruby,A set of shared spec helpers specific to Puppetlabs projects,128,284,306,74,297,popular,2,1,34,11,0,1,1,7,2,0,1,0,0
+leanote_leanote,JavaScript,Not Just A Notepad! (golang + mongodb) http://leanote.org,9019,71,687,10,890,medium,0,9,36,1,0,1,2,4,16,0,0,0,1
+PrestaShop_PrestaShop,PHP,"PrestaShop offers a free, fully scalable, Open Source e-commerce solution.",3994,10670,39159,11,14114,big,3,5,151,13,0,2,0,33,19,0,1,0,1
+Calvin-L_backup,Java,Encrypts your files and backs them up to the cloud,0,0,240,0,0,small,1,6,29,4,0,1,2,7,9,0,0,0,1
+mercadolibre_chico,JavaScript,A collection of easy-to-use UI components.,395,416,1579,473,1386,popular,0,0,12,2,1,1,12,7,2,0,0,0,0
+sammyfung_hk0weather,Python,Open source Hong Kong weather data project,45,3,61,0,3,small,0,0,11,1,0,1,0,7,4,0,0,0,0
+emre_kaptan,Python,configuration manager in your pocket.,213,143,329,2,169,small,0,1,20,5,0,1,12,8,6,0,0,0,0
+ivantsepp_codeclimate-scss-lint,Ruby,Code Climate Engine for SCSS-Lint,9,10,24,3,19,small,0,0,4,1,0,1,2,3,0,0,0,0,0
+Terabee_teraranger_array,C++,ROS package for TeraRanger sensor arrays,1,11,107,0,11,small,2,6,32,2,1,1,13,6,2,0,0,0,0
+EXIficient_exificient,Java,Java Implementation of EXI,28,8,181,0,23,small,2,5,18,2,0,1,2,3,0,0,0,0,0
+lbriais_easy_app_helper,Ruby,Ruby helper suite for command line applications,3,11,222,0,13,small,0,0,5,1,0,1,2,4,1,0,0,0,0
+ndarray_ndarray,C++,NumPy-compatible multidimensional arrays in C++,104,18,474,0,56,small,0,5,55,3,0,1,13,16,21,0,0,1,1
+yodaos-project_edge-monitor,C++,0,0,2,31,1,3,small,0,1,68,4,0,2,31,9,16,1,1,0,1
+filestack_filestack-ruby,Ruby,Official Ruby SDK for Filestack - API and content management system that makes it easy to add powerful file uploading and transformation capabilities to any web or mobile application.,22,31,180,0,47,small,0,0,15,4,0,1,2,5,2,0,0,0,0
+symphonycms_symphonycms,PHP,This is the official Symphony CMS repository.,682,941,4259,14,2555,medium,0,19,78,7,0,1,23,29,15,0,1,0,1
+SonarSource_sonarqube,Java,Put your technical debt under control,3452,3166,56356,0,3197,big,1,0,40,2,2,1,22,13,6,1,1,0,1
+konnectors_cozy-konnector-orange,JavaScript,Download all your Orange Bills.,0,3,124,0,4,small,2,2,42,1,0,1,24,10,6,1,1,1,1
+zzak_mruby-uri,Ruby,A spike to port uri to mruby,10,18,52,1,19,small,0,0,11,2,0,1,2,4,3,0,0,0,0
+clupprich_pronto-yard,Ruby,Pronto runner that lints for YARD compliance,0,0,26,0,0,small,0,0,6,1,0,1,12,3,1,0,0,0,0
+networknt_light-rest-4j,Java,A REST API or service framework built on top of Light-Java,84,22,338,0,90,small,0,0,10,1,0,1,2,5,0,1,1,0,0
+sizuhiko_cakephp-fabricate-adaptor,PHP,Fabricate Adaptor for CakePHP3,15,13,35,0,13,small,5,0,52,10,0,1,14,30,12,0,0,0,1
+datacite_orcid_client,Ruby,Ruby client for ORCID API,2,1,56,0,4,small,0,0,18,1,1,1,2,7,2,0,0,1,0
+PythonicNinja_pydrill,Python,Python Driver for Apache Drill.,38,16,77,0,39,small,1,0,33,8,0,1,12,9,5,0,0,0,1
+Sanji-IO_sanji,Python,Sanji Framework SDK,4,107,291,0,131,small,1,1,22,3,1,1,113,6,4,0,0,0,1
+hhatto_pgmagick,C++,pgmagick is a yet another boost.python based wrapper for GraphicsMagick/ImageMagick.,61,21,197,1,54,small,1,1,55,4,0,1,3,6,12,0,0,0,1
+Phyrone_LibLoader,Java,0,0,0,29,0,0,small,0,0,3,1,0,1,11,3,0,0,0,0,0
+Azure_azure-storage-ruby,Ruby,Microsoft Azure Storage Library for Ruby,48,59,77,0,134,small,0,0,24,4,0,1,12,4,4,0,0,0,0
+ncastilho_penfold-api,Java,0,0,0,25,0,1,small,0,0,5,1,0,1,2,3,0,0,1,0,0
+Jvanrhijn_CXXfoil,C++,C++ interface for using Xfoil.,1,2,58,0,4,small,0,4,48,1,0,1,31,6,5,0,0,0,1
+malexer_pytest-spark,Python,pytest plugin to run the tests with support of pyspark,24,6,51,0,13,small,2,0,26,2,0,1,2,8,8,0,0,0,1
+opengrav_gmeterpy,Python,Processing gravity measurements with Python,1,0,29,0,12,small,0,0,24,3,0,1,2,9,3,0,0,1,1
+opf_openproject,Ruby,OpenProject is a web-based project management system built on Ruby on Rails,3011,7149,47745,18,7633,big,2,38,158,14,0,2,11,10,22,1,1,0,1
+LuomingXu_OAuth,Java,0,0,0,23,0,0,small,0,1,10,1,0,1,2,6,2,0,1,0,0
+ZeitOnline_pyramid_dogpile_cache2,Python,Integrates dogpile.cache for Pyramid,5,3,33,1,5,small,0,0,9,1,0,1,2,5,3,0,0,0,0
+roadmanfong_react-skycons,JavaScript,Skycons as React components,21,6,27,0,13,small,0,0,8,1,0,1,2,5,2,0,0,0,0
+LEMS_jLEMS,Java,Java Interpreter for the Low Entropy Model Specification language,3,18,290,0,83,small,0,0,31,4,0,1,11,9,15,0,0,0,1
+gucong3000_postcss-unprefix,JavaScript,Clean CSS vendor prefixes from your source.,24,48,199,0,54,small,0,0,10,2,0,1,11,6,0,0,0,0,0
+edx_edx-ora2,Python,Open Response Assessment Suite,41,1148,6366,90,1206,big,1,0,45,6,0,1,13,10,4,0,1,1,1
+sferik_twitter,Ruby,A Ruby interface to the Twitter API.,4792,326,2742,12,961,medium,1,0,26,6,0,1,13,6,0,0,1,0,0
+shekyan_slowhttptest,C++,Automatically exported from code.google.com/p/slowhttptest,677,12,165,1,30,small,1,0,41,3,0,1,3,5,6,1,0,0,1
+ericrochow_continuous-integration-travis,Ruby,0,0,3,25,0,3,small,1,3,19,2,0,2,2,8,2,0,1,0,0
+spryker_quote,PHP,[READ ONLY] Subtree split of the Quote bundle.,0,0,226,2,0,small,3,0,38,3,0,1,3,21,6,0,1,0,1
+art-of-dom_hash-it,Python,"All file hashing, all the time.",0,0,30,0,0,small,0,1,19,5,1,1,2,10,4,0,0,0,1
+cdapio_coopr,Java,A template-based cluster provisioning system,58,388,1910,30,400,medium,3,17,53,1,0,1,11,10,5,1,1,0,1
+microsoft_pai,Java,Resource scheduling and cluster management for AI,1103,1749,10596,0,2768,big,1,0,119,13,0,1,23,3,34,0,0,0,1
+arvindr21_diskDB,JavaScript,A Lightweight Disk based JSON Database with a MongoDB like API for Node,556,20,90,2,47,small,0,0,6,1,0,1,2,4,1,0,0,0,0
+vmangos_core,C++,0,96,26,389,0,195,small,3,5,66,3,0,1,23,6,21,0,0,0,1
+jeremypoulter_MicroTasks,C++,Simple co-operative task scheduler and messaging library,0,4,68,0,4,small,1,20,41,3,0,1,12,5,4,0,1,0,1
+andrewbonney_mdns-debugger,Python,"A utility to analyse network traffic for malformed mDNS packets, and unusually high packet rates",0,0,22,0,0,small,0,0,8,1,0,1,2,5,2,0,0,0,0
+blangel_ply,Java,a sensible (so far java) build tool,16,3,301,0,9,small,2,0,19,3,0,1,2,7,8,0,0,0,1
+walkingice_MomoDict,Java,0,4,35,303,0,49,small,2,2,20,1,0,1,2,5,5,0,0,0,1
+collabook_interface,JavaScript,Interface for Collabook,0,0,40,0,0,small,3,5,42,1,0,1,12,9,8,1,1,0,1
+ekylibre_ekylibre,Ruby,Connecting farms to the world,194,627,14146,13,2385,big,2,1,29,4,1,1,13,11,3,0,1,0,1
+forrest79_DeployPhp,PHP,Simple assets builder and deploy application helper.,0,0,34,0,0,small,0,2,17,2,0,1,2,15,4,0,0,0,1
+recurly_recurly-client-python,Python,Recurly Python Client,86,194,670,17,286,medium,0,0,14,4,0,1,13,5,2,0,0,0,0
+DarthGandalf_test,C++,testing,1,6,121,1,10,small,0,0,18,1,0,1,11,3,12,0,0,0,0
+treydock_puppet-infiniband,Ruby,0,1,20,127,0,27,small,8,0,90,8,1,4,144,12,6,1,1,1,1
+DDMAL_libmei,C++,C++ library and Python bindings for the Music Encoding Initiative format,41,17,673,19,112,medium,3,9,40,2,1,1,3,6,10,0,0,0,1
+TeknooSoftware_sellsy-client,PHP,PHP library to use Sellsy API and enable your applications and websites to communicate with your Sellsy account.,7,6,78,0,16,small,1,0,27,4,0,1,13,19,4,0,0,0,1
+oskariorg_oskari-server,Java,Backend implementation for Oskari Map Application Framework,9,22,3169,10,38,medium,0,2,35,3,2,1,112,10,3,0,1,0,1
+chuqianyiding_blankmath,JavaScript,0,0,4,53,0,4,small,1,1,17,1,0,1,2,8,2,1,1,0,0
+rmbreak_pam_ldapdb,C++,Linux PAM module for directly binding a user DN to an LDAP server,7,7,36,0,9,small,0,0,16,1,0,1,11,4,1,0,0,0,0
+ruby-ldap_ruby-net-ldap,Ruby,Pure Ruby LDAP library,273,195,616,0,325,small,1,2,59,12,0,1,3,11,4,0,0,0,1
+WikiEducationFoundation_WikiEduDashboard,Ruby,Wiki Education Foundation's Wikipedia course dashboard system,195,989,14662,0,2402,big,2,3,52,2,0,1,12,12,22,0,1,0,1
+MC-U-Team_Useful-Backpacks,Java,0,3,1,103,0,7,small,0,0,22,1,0,1,2,7,8,0,1,0,1
+emiellohr_paynl-rb,Ruby,Implementation of the Pay.nl payment provider API in Ruby.,0,0,76,0,0,small,0,0,4,1,0,1,2,4,1,0,0,0,0
+Commit451_NativeStackBlur,Java,Android StackBlur with gradle support (only for the native method) https://github.com/kikoso/android-stackblur,261,0,26,0,5,small,0,0,15,1,0,1,2,4,1,0,0,0,0
+tdunning_t-digest,Java,A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means,984,52,330,0,133,small,0,0,12,2,0,1,12,4,1,0,1,0,0
+spryker_company-unit-address,PHP,[READ ONLY] Subtree split of the CompanyUnitAddress module.,0,0,129,0,0,small,3,0,38,3,0,1,3,21,6,0,1,0,1
+saltstack_salt-contrib,Python,Salt Module Contributions,170,173,212,24,209,popular,0,0,25,1,0,1,12,6,11,0,0,0,1
+enigma-dev_enigma-dev,C++,The Extensible Non-Interpreted Game Maker Augmentation.,171,1070,6222,7,1751,big,13,6,73,7,1,1,0,12,10,1,0,0,1
+pouchdb_pouchdb,JavaScript,:koala: - PouchDB is a pocket-sized database.,10098,2793,7558,0,5793,big,15,15,105,32,0,1,13,11,2,1,1,0,1
+rjrodger_use-plugin,JavaScript,Use plugin,8,0,64,0,8,small,0,0,15,4,0,1,12,7,0,0,0,0,0
+bakercp_ofxTaskQueue,C++,A multi-threaded task management system.,23,1,94,1,1,small,2,10,50,2,0,1,24,6,4,0,0,0,1
+Yoast_YoastSEO.js,JavaScript,Analyze content on a page and give SEO feedback as well as render a snippet preview.,312,877,6556,0,2072,big,0,2,43,2,1,1,24,13,8,0,1,1,1
+fatfreecrm_fat_free_crm,Ruby,Ruby on Rails CRM platform,3590,424,4335,13,832,medium,3,5,80,19,1,1,114,11,7,0,1,0,1
+the-events-calendar_tribe-common,PHP,Common classes and functions used in our plugins,28,983,5101,1,1002,big,9,20,134,1,0,1,11,63,46,0,1,0,1
+mmateja_dirclean,Ruby,Ruby script for cleaning files that were not accessed for some time,0,0,33,0,0,small,0,0,7,4,0,1,2,3,0,0,0,0,0
+zz85_space-radar,JavaScript,Disk Space Visualization App built with Electron & d3.js,887,8,100,1,33,small,0,0,43,1,0,1,13,10,4,0,0,1,1
+ChargePoint_pydnp3,Python,Python bindings for opendnp3 libary,2,0,60,0,2,small,2,0,39,2,0,1,23,5,7,0,0,0,1
+Japle_python-pagseguro,Python,Integra√ß√£o com a API v2 de pagamentos e notifica√ß√µes do Pagseguro utilizando requests.,155,35,149,4,70,small,0,0,16,4,0,1,2,7,4,0,0,0,0
+sebastiangoetz_slr-toolkit,Java,A Toolkit for Systematic Literature Reviews,12,11,666,17,111,medium,0,0,24,1,0,1,12,6,1,0,1,1,0
+apache_hive,Java,Mirror of Apache Hive,2389,619,17511,0,621,big,2,24,41,1,0,1,1,6,2,0,0,0,1
+FromDoppler_relay-webapp,JavaScript,Relay Web Application,2,49,116,0,49,small,0,6,29,1,0,1,11,8,10,0,1,0,1
+sharmalab_Datascope,JavaScript,Interactive linked visual query system for doing exploratory analysis on large biomedical datasets,10,32,330,0,88,small,0,0,7,1,0,1,2,5,2,0,0,0,0
+Opetushallitus_omatsivut,JavaScript,Oppijan henkil√∂kohtainen palvelu,1,112,4088,25,112,medium,2,5,58,1,0,1,12,0,16,0,1,1,1
+eggjs_egg-logger,JavaScript,Egg logger,83,54,199,2,55,small,0,0,15,3,0,1,12,9,3,0,0,0,0
+hrydgard_ppsspp,C++,"A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us in #ppsspp on freenode (IRC) or just send pull requests / issues. For discussion use the forums on ppsspp.org.",4806,5936,17011,11,12171,big,5,11,119,12,1,1,0,8,3,0,1,0,1
+substancelab_rconomic,Ruby,"Ruby wrapper for the e-conomic API - thankfully, integrating with e-conomic doesn't have to suck",3,26,229,1,31,small,1,2,30,6,1,1,103,8,3,0,0,0,0
+linaGirl_ee-types,JavaScript,Reliabale type detection,2,1,21,0,1,small,0,0,6,1,0,1,12,4,0,0,0,0,0
+EMBL-EBI-SUBS_file-processing-listener,Java,An application listening on a RabbitMQ queue and execute task for file processing. It will calculate md5 checksum of the given file and will validate the content of the file.,0,20,36,0,20,small,0,0,15,1,0,1,2,5,3,0,1,0,1
+MonicBuilder_monic-loader,JavaScript,Using Monic with WebPack.,0,0,61,0,0,small,0,0,6,3,0,1,2,4,0,0,0,0,0
+thyrlian_JunitReportGenerator,Ruby,Easy and flexible solution to generating JUnit test result report from any format of data.,2,1,131,1,1,small,1,0,7,2,0,1,2,4,0,0,0,0,0
+pro-mushen_uploader-images,Java,0,0,0,35,0,0,small,0,0,39,1,0,1,20,11,8,1,1,0,1
+socketio_socket.io-redis,JavaScript,Adapter to enable broadcasting of events to multiple separate socket.io server nodes.,335,25,54,0,68,small,0,0,11,3,1,1,12,7,0,0,0,0,0
+kimmobrunfeldt_nap,Python,Convenient way to request HTTP APIs,45,7,205,0,14,small,0,13,33,5,0,1,2,10,5,0,0,1,1
+tobie_specref,JavaScript,"An open-source, community-maintained database of Web standards & related references.",94,432,3812,36,527,medium,0,0,5,1,0,1,12,4,0,0,0,0,0
+soef_ioBroker.find-my-iphone,JavaScript,ioBroker Adapter to locate Apple devices,6,7,36,0,22,small,1,0,20,6,0,1,1,8,2,0,0,0,0
+icatproject_authn.simple,Java,Simple (password file) authenticator,0,3,48,0,3,small,0,0,13,2,0,1,1,3,1,0,1,0,0
+sufleR_sql_query,Ruby,Ruby gem to load SQL queries from `.sql.erb` templates using ERB.,125,0,63,0,4,small,1,0,29,5,0,1,2,10,6,0,1,0,1
+webdriverio_cucumber-boilerplate,JavaScript,Boilerplate project to run WebdriverIO tests with Cucumber,338,67,253,0,166,small,1,0,38,1,0,1,11,11,1,1,1,0,1
+CakeDC_users,PHP,Users Plugin for CakePHP,430,378,1444,19,793,medium,6,0,60,12,0,1,13,29,8,0,1,0,1
+PickNikRobotics_rosparam_shortcuts,C++,Quickly load variables from rosparam with good command line error checking.,2,3,59,0,4,small,5,8,34,2,1,1,12,8,10,0,0,0,1
+juliuste_zhv-de,JavaScript,"Lets you fetch the most up-to-date release of the german central public transport stop registry (Zentrales Haltestellenverzeichnis, ZHV).",0,0,21,0,0,small,1,0,8,1,0,1,13,5,0,0,0,0,0
+f-list_fserv,C++,Repository for the F-Chat server implementation.,12,33,231,0,75,small,0,3,30,1,0,1,12,6,13,0,0,0,1
+AJEETX_LongTask,JavaScript,An http-service-based continuous long-running task with cancellation,1,2,40,0,2,small,0,0,3,1,0,1,2,0,0,0,0,0,0
+gopaycommunity_gopay-php-api,PHP,GoPay's PHP SDK for Payments REST API,51,13,58,0,34,small,0,1,16,2,0,1,11,16,2,0,1,0,0
+draios_sysdig,C++,Linux system exploration and troubleshooting tool with first class support for containers,4401,832,8236,0,1389,big,2,17,77,9,0,1,13,7,4,0,0,0,1
+phoboxhq_phobox,Java,"Import, organize and provide your pictures",2,1,116,0,51,small,0,0,10,1,0,1,2,6,2,0,1,0,0
+thoughtbot_factory_bot_rails,Ruby,Factory Girl ‚ô• Rails,1730,104,297,75,242,popular,1,0,34,22,0,1,3,10,2,1,1,0,0
+OCA_stock-logistics-warehouse,Python,Odoo Warehouse Management Addons,105,495,2982,22,622,popular,5,1,50,3,0,2,2,11,6,0,1,0,1
+danvk_dygraphs,JavaScript,Interactive visualizations of time series using JavaScript and the HTML canvas tag,2806,456,1394,11,1072,medium,0,1,13,1,0,1,12,5,1,0,0,0,0
+ogerardin_project-guarana,Java,Automatic model-based GUI for Java,0,0,166,0,0,small,0,0,7,1,0,1,1,4,0,0,0,0,0
+open-amdocs_zusammen,Java,0,11,3,249,0,8,small,0,2,35,1,1,1,12,8,4,1,0,0,1
+Cosylab_nds3,C++,Nominal Device Support v.3,0,0,132,0,0,small,2,0,24,1,0,1,1,6,2,0,0,0,0
+jruby_activerecord-jdbc-adapter,Ruby,"ActiveRecord adapter using JDBC for JRuby. Please, support the project at BountySource's",472,494,3681,28,1019,popular,7,11,129,28,0,1,12,10,17,0,0,0,1
+liip_LiipFunctionalTestBundle,PHP,Some helper classes for writing functional tests in Symfony2,504,320,445,40,503,popular,3,1,46,7,0,1,12,24,5,0,1,0,1
+logstash-plugins_logstash-output-lumberjack,Ruby,0,4,12,88,2,28,small,0,0,2,1,0,1,3,3,0,0,0,0,0
+pda_flexihash,PHP,Flexihash is a small PHP library which implements consistent hashing.,263,12,28,1,20,small,2,0,35,5,0,1,3,15,3,0,0,0,1
+Anrop_AAR-Rails,Ruby,0,0,0,34,0,0,small,1,0,24,1,0,1,12,8,2,0,1,0,0
+sabbir-rupom_akaash-rest-api,PHP,RESTful API template in PHP driven by flight micro-framework,0,0,25,0,0,small,0,0,26,1,0,1,3,16,8,0,0,0,1
+pmviva_follow_system,Ruby,An active record follow system developed using ruby on rails 4.1+ applying domain driven design and test driven development principles.,1,0,31,1,1,small,0,0,29,20,0,1,12,8,3,1,0,0,0
+Seagate_openSeaChest_LogParser,C++,Open source version of the Log Parser that parses ATA/SCSI/NVMe & Seagate vendor unique logs,0,2,68,0,3,small,1,1,42,4,0,1,23,2,5,1,0,0,1
+am2222_pydggrid,C++,0,1,0,76,0,0,small,3,13,62,1,0,1,112,7,19,0,0,0,1
+alpha-miner_Finance-Python,Python,python tools for Finance,34,2,287,0,6,small,0,6,46,5,0,1,11,12,19,0,0,0,1
+tim-group_java-statsd-client,Java,a java statsd client library,258,20,45,0,47,small,0,0,6,3,0,1,2,4,0,0,0,0,0
+mulesoft-labs_raml-for-jax-rs,Java,This project is all about two way transformation of JAX-RS-annotated Java code to  RAML API description and back.,222,49,476,178,212,popular,1,0,34,1,0,1,31,8,4,0,0,1,0
+ushahidi_platform-client,JavaScript,Ushahidi Platform Client,63,1083,6134,12,1237,big,1,19,57,3,2,1,13,10,4,0,1,0,1
+learnweb_moodle-mod_collabora,PHP,:memo: :globe_with_meridians: Activity for editing Collabora documents directly from Moodle,0,0,37,0,1,small,4,4,90,30,0,3,1,36,18,0,1,0,1
+fisharebest_webtrees,PHP,Online genealogy,337,703,10067,3,2453,big,0,3,28,4,0,1,12,18,3,0,1,0,1
+mumble-voip_mumble,C++,Mumble VoIP Client/Server,2750,1335,6929,6,2898,big,1,0,38,4,0,1,0,5,2,0,0,0,0
+michaeljennings_carpenter,PHP,Carpenter is a PHP package to make creating HTML tables from a collection of data a breeze.,18,12,303,1,19,small,0,0,20,6,0,1,2,16,4,0,0,0,1
+adrien-matta_nptool,C++,"NPTool, a ROOT/Geant4 based framework for Nuclear Physics",25,2,2262,23,56,medium,0,9,56,1,0,1,10,10,15,1,0,0,1
+django-haystack_django-haystack,Python,Modular search for Django,1656,368,528,13,1165,medium,3,0,95,21,1,1,0,19,9,0,1,0,1
+asciidoctor_kramdown-asciidoc,Ruby,A Kramdown converter for converting Markdown content to AsciiDoc.,31,35,344,0,70,small,1,1,26,6,0,1,2,7,2,0,0,1,0
+hikaruna_rolling,Java,java7„ÅßmapReduce„Åô„Çã„Åü„ÇÅ„ÅÆ„É©„Ç§„Éñ„É©„É™,0,21,87,0,21,small,0,0,9,1,0,1,12,4,1,0,0,0,0
+OCA_vertical-medical,Python,Open Source Health care system,194,167,795,22,234,popular,7,2,45,4,0,1,13,8,4,0,1,0,1
+facebook_folly,C++,An open-source C++ library developed and used at Facebook.,12977,552,6701,14,1151,big,4,13,41,1,0,1,4,8,2,0,1,0,1
+Segfault-Inc_Multicorn,Python,Data Access Library,466,61,664,15,223,medium,1,1,83,29,0,1,12,27,38,0,0,0,1
+colons_instant-coverage,Python,Better-than-nothing testing for Django.,10,1,174,0,15,small,1,25,95,39,0,1,2,11,6,0,0,0,1
+nengo_nengo,Python,A Python library for creating and simulating large-scale brain models,150,194,2375,25,568,popular,5,7,143,11,2,2,3,17,10,0,1,0,1
+IonicaBizau_tithe,JavaScript,:credit_card: Organize and track the tithe payments.,1,16,42,0,17,small,0,0,4,1,0,1,2,3,0,0,0,0,0
+michaelherold_codeclimate-haml-lint,Ruby,Lint your Haml files in the Code Climate Platform,3,7,71,0,9,small,0,0,19,1,0,1,12,8,3,1,1,0,1
+logstash-plugins_logstash-input-heartbeat,Ruby,0,8,9,63,0,17,small,0,0,2,1,0,1,3,3,0,0,0,0,0
+rackspace_php-opencloud,PHP,The PHP SDK for OpenStack clouds,493,359,1577,15,746,medium,1,0,36,4,3,1,13,22,3,1,0,0,1
+dockstore_dockstore,JavaScript,Our VM/Docker sharing infrastructure and management component,57,767,6125,0,2377,big,1,14,86,1,1,1,0,15,27,1,1,0,1
+Idrinth_lwv,JavaScript,"a curated list of talks, blogs and other resources regarding (web-)software development",0,17,66,3,22,small,0,0,35,3,0,1,3,5,7,0,1,0,1
+Winfidonarleyan_kargatum-system,C++,Custom scipts and modules for Azerothcore,4,6,103,0,14,small,1,9,85,4,1,2,41,8,9,0,1,0,1
+Vinelab_NeoEloquent,PHP,A Neo4j OGM,484,92,429,0,325,small,2,4,44,5,1,1,104,32,10,0,0,0,1
+sergicastro_manage-credentials,Ruby,0,0,0,33,0,1,small,1,0,18,1,0,1,2,8,5,0,0,0,1
+MoombaDS_quest,JavaScript,0,0,10,60,0,10,small,0,0,21,1,0,1,2,7,4,1,0,0,1
+Brig13Team_Operation_Kerberos,C++,Operation Kerberos,0,0,56,0,13,small,0,0,28,1,1,1,2,12,9,1,0,0,1
+Dolibarr_dolibarr,PHP,"Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, ...).It's opensource software (wrote with PHP language) designed for small and medium companies, foundatio",1546,8134,61573,9,11091,big,2,69,454,3,2,1,0,46,31,0,0,0,1
+ipa320_cob_robots,Python,0,60,691,1070,46,751,medium,15,1,31,3,1,1,3,5,2,0,0,0,0
+Nehon_bootmonkey,Java,0,13,2,36,0,5,small,0,2,41,1,0,1,22,9,4,0,1,1,1
+instantbox_instantbox,Python,"Get a clean, out of the box, temporary Linux system in under 30s.(Ubuntu, Centos, Alpine are temporarily available for testing, and more will be provided later.)",1540,8,62,0,32,small,1,0,30,1,0,1,13,5,4,0,0,0,0
+Giorgiosaud_wedcontest2018,PHP,0,0,30,360,0,30,small,0,0,21,1,0,1,3,18,6,0,1,0,1
+grahamhar_aws-rotate,Python,Rotate AWS Access Keys and update credentials file,9,2,21,0,3,small,0,0,12,4,0,1,12,7,2,0,0,0,0
+tiborv_memory-cache-ttl,JavaScript,A simple in-memory cache with Time To Live functionality,6,33,201,0,33,small,0,0,15,1,0,1,113,6,0,0,0,1,0
+Netflix_Priam,Java,"Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.",932,585,1069,103,798,popular,1,0,20,1,0,1,12,6,3,0,1,0,1
+keboola_geocoding-augmentation,PHP,Geocoding service for Storage API,1,2,92,2,10,small,0,0,23,1,0,1,13,6,4,0,0,1,1
+atria-soft_ege,C++,(APACHE v2.0) Ewol Game Engine : game abstraction to simplify developpement of a game,0,0,88,0,0,small,6,7,96,6,1,1,12,10,25,1,0,0,1
+spatie_typed,PHP,"Improvements to PHP's type system in userland: generics, typed lists, tuples and structs",299,25,105,0,33,small,1,0,22,6,0,1,3,18,3,0,0,0,1
+prodis_correios-cep,Ruby,"Get Brazilian address by zipcode, directly from Correios database. No HTML parsers.",149,12,136,0,23,small,0,0,37,15,0,1,13,5,1,0,1,0,0
+jcarreira_cirrus,C++,Serverless ML Framework,15,86,564,1,120,small,1,2,73,1,1,1,111,9,26,0,0,0,1
+headius_invokebinder,Java,"A Java DSL for binding method handles forward, rather than backward",82,5,108,0,8,small,0,0,10,2,0,1,3,3,0,0,0,0,0
+ventoviro_windwalker-test,PHP,[READ ONLY] Subtree split of Windwalker Framework,0,0,72,0,0,small,0,0,19,3,0,1,11,17,3,0,0,0,1
+thomasmoelhave_tpie,C++,Templated Portable I/O Environment,79,22,3192,14,207,medium,4,2,295,36,0,1,363,6,8,0,0,0,1
+fmd_lazyconf,Python,An insultingly simple tool for configuring python applications.,17,3,165,0,3,small,0,0,11,1,0,1,2,5,3,0,0,0,1
+KonstantinKuklin_HandlerSocketLibrary,PHP,Native PHP library implementing HandlerSocket protocol,38,6,79,2,22,small,1,0,22,5,0,1,2,15,4,0,0,0,1
+allenwq_devise-multi_email,Ruby,"‚úâÔ∏è Let devise support multiple emails (authenticatable, confirmable and validatable).",43,20,122,1,33,small,0,0,17,8,0,1,2,5,0,0,0,0,0
+tymondesigns_lkr,JavaScript,A Fluent Storage API for any JS project,1,2,49,0,3,small,0,0,11,4,0,1,12,7,2,0,0,0,0
+tronprotocol_java-tron,Java,Java implementation of the Tron whitepaper,2473,1846,12419,1,2282,big,0,0,46,2,0,1,122,8,4,0,1,0,1
+alan-turing-institute_CleverCSV,Python,0,20,0,115,0,0,small,9,14,82,3,0,1,23,7,6,0,0,1,1
+Tanaguru_Contrast-Finder,Java,"Find valid background / foreground color contrast for accessibility (a11y, WCAG)",158,7,204,1,20,small,0,0,4,1,0,1,2,3,0,0,0,0,0
+teralytics_ansible-hdfs,Python,An Ansible role for configuring HDFS,17,13,74,0,13,small,0,0,18,1,0,1,22,8,6,0,0,0,0
+bbangert_retools,Python,Redis Tools,111,27,33,1,36,small,0,0,10,2,0,1,2,5,4,0,0,0,0
+uw-loci_visbio-imagej,Java,ImageJ plugins for 3D visualization using the VisAD toolkit,0,0,35,0,0,small,1,0,18,1,0,1,2,7,2,1,1,0,0
+ts-3156_twitter-with-auto-pagination,Ruby,A Ruby wrapper to the Twitter gem.,0,3,76,0,11,small,0,0,6,2,0,1,2,4,0,0,0,0,0
+code4lib_ruby-oai,Ruby,a Ruby library for building OAI-PMH clients and servers,58,36,66,1,60,small,0,0,19,5,0,1,3,4,1,0,0,0,0
+puppetlabs_puppetlabs-firewall,Ruby,Puppet Firewall Module,305,726,846,61,854,popular,4,0,140,11,1,3,0,11,17,1,1,0,1
+Syncplay_syncplay,Python,Client/server to synchronize media playback on MPC-HC/VLC/mpv/mplayer2 on many computers,412,67,689,0,187,small,1,1,56,4,0,1,14,6,7,0,0,1,1
+KWZwickau_SPHERE-Framework,PHP,API Docs:,0,1,32,0,1,small,0,8,35,3,0,1,1,19,5,0,0,0,1
+avz_node-posix-clock,C++,"POSIX clock_gettime(2), clock_getres(2) and clock_nanosleep(2) for NodeJS",10,1,31,0,3,small,1,0,18,4,0,1,2,8,0,0,0,0,0
+reikdas_Small-Scripts,Python,Collection of beginner level scripts,1,10,39,0,13,small,0,0,17,3,0,1,2,6,2,0,0,0,0
+general03_flask-autoindex,Python,Generates index page like mod_autoindex.,86,20,36,0,44,small,6,3,73,3,0,1,1,9,14,0,0,0,1
+krobertson_deb-s3,Ruby,Easily create and manage an APT repository on S3,466,86,145,0,165,small,0,0,9,4,0,1,2,4,1,0,0,0,0
+AzureAD_azure-activedirectory-library-for-js,JavaScript,0,552,244,745,26,848,popular,0,0,8,5,0,1,2,6,0,0,0,0,0
+arangodb_arangodb-java-driver,Java,ArangoDB Java driver,150,59,1405,14,266,medium,0,0,16,1,0,1,12,7,3,0,0,0,0
+HSR-SE2Proj_JBomberman,Java,Bomberman Clone,1,0,47,0,2,small,0,0,8,1,0,1,2,4,0,0,0,0,0
+JolitaGrazyte_discogs-api,PHP,A simple Discogs Api Wrapper that uses Guzzle6.,0,0,53,0,0,small,1,0,21,2,0,1,3,18,4,0,0,0,1
+zikula_core,PHP,Zikula Core Framework,223,1931,16289,16,4078,big,4,45,161,5,0,1,12,22,35,0,0,0,1
+facebook_mcrouter,C++,Mcrouter is a memcached protocol router for scaling memcached deployments.,2540,76,1865,10,301,medium,0,0,28,2,1,2,11,6,2,0,1,0,0
+travis-ci_travis-web,JavaScript,The Ember web client for Travis CI,524,1611,15859,7,1814,big,4,1,64,4,0,2,10,10,13,0,1,0,1
+rawler_bithorde,C++,BitHorde F2F Content Distribution System,17,4,505,2,20,small,1,0,59,2,0,1,11,9,5,0,0,1,1
+nzw0301_tokenizer,Python,0,0,1,21,0,2,small,0,0,17,1,0,1,1,7,4,0,0,0,0
+dreipol_vue-fetch-route,JavaScript,A vue plugin to hook django-cms to vue-router and vuex,5,1,79,0,3,small,0,0,17,1,0,1,12,7,1,1,0,0,0
+compbiocore_qckitfastq,C++,0,0,1,143,0,9,small,0,2,52,2,0,2,16,3,25,0,0,0,1
+lian_bitcoin-ruby,Ruby,bitcoin utils and protocol in ruby.,556,151,610,1,293,small,0,0,10,3,0,1,2,4,3,0,0,0,0
+SUSE_machinery,Ruby,A systems management toolkit for Linux,137,1733,9243,15,2253,big,0,0,9,1,0,1,1,5,2,1,0,0,0
+jeremyevans_rodauth,Ruby,"Authentication framework using Roda, Sequel, and PostgreSQL",515,38,653,0,59,small,1,0,26,6,0,1,3,10,4,0,0,0,1
+gammasoft71_tunit,C++,Modern c++17 unit testing library.,1,0,591,0,0,small,1,0,24,3,0,1,2,2,3,0,0,0,1
+hasgeek_events,Ruby,0,18,1341,5136,0,1374,big,0,0,72,1,2,1,193,9,8,0,1,1,1
+lstrojny_phpunit-function-mocker,PHP,Allow mocking otherwise unmockable functions with PHPUnit,41,3,35,0,7,small,0,0,19,5,0,1,13,17,2,0,0,0,0
+spryker_api-query-builder,PHP,[READ ONLY] Subtree split of the ApiQueryBuilder module.,0,0,23,0,0,small,3,0,38,3,0,1,3,21,6,0,1,0,1
+ResourcefulHumans_svg-template-builder,JavaScript,Aggregates and optimizes SVGs to render them into templates,0,4,26,0,4,small,0,0,19,1,0,1,2,9,3,1,1,0,1
+brycedrennan_eulerian-magnification,Python,A tool to discover hidden variation in video.,354,8,37,0,28,small,0,0,11,2,0,1,13,5,3,0,0,0,0
+snebes_php-daisydiff,PHP,PHP XML Diff Engine - DaisyDiff Port,1,13,149,0,13,small,4,4,48,7,0,1,13,17,6,0,1,0,1
+egotter_egotter,Ruby,egotter,0,8,140,0,8,small,0,0,20,1,0,1,0,8,5,0,1,0,1
+Netflix_security_monkey,Python,Security Monkey,3624,645,1628,157,1180,popular,6,12,101,3,0,1,27,4,38,0,1,0,1
+Crizz0_phpbb3-about-us,PHP,A modification/extensions whichs adds to phpBB 3 a about us/imprint page.,5,14,100,0,23,small,6,3,62,10,0,1,2,20,11,1,0,0,1
+spryker_cms-block-product-storage,PHP,[READ ONLY] Subtree split of the CmsBlockProductStorage module.,0,0,81,0,0,small,3,0,38,3,0,1,3,21,6,0,1,0,1
+jegelstaff_formulize,PHP,"Data management and reporting on the web, in your CMS, and on your mobile device.",21,210,2508,39,300,medium,2,26,95,1,0,1,11,23,34,0,1,0,1
+imagej_imagej-mesh,Java,Data structures and I/O for meshes,1,15,172,0,21,small,1,0,13,1,0,1,2,6,2,1,0,0,0
+cdapio_cdap_cookbook,Ruby,Cookbook to install Cask Data Application Platform (CDAP) using Chef,7,253,1004,30,255,medium,3,16,55,5,0,1,14,8,8,0,0,0,1
+trjahnke_djangoPolls,Python,Django Project polls web application,0,0,22,0,0,small,0,0,14,1,0,1,2,6,3,0,0,0,1
+Anrop_Anrop-API,Ruby,0,1,61,70,0,61,small,5,0,25,1,0,1,11,7,2,0,1,0,0
+broadinstitute_picard,Java,A set of tools (in Java) for working with next generation sequencing data in the BAM (http://samtools.github.io/hts-specs) format.,471,797,6451,23,1313,big,1,0,35,6,0,1,2,11,5,0,1,0,1
+blackwinter_bismas,Ruby,A Ruby client for BISMAS databases.,1,0,37,0,0,small,0,0,28,7,0,1,3,6,3,0,0,0,1
+airbnb_native-navigation,Java,Native navigation library for React Native applications,3276,61,51,3,133,small,0,0,7,1,0,1,2,4,1,0,0,0,0
+redpony_cdec,C++,"Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms",183,43,951,12,97,medium,0,0,24,1,0,1,2,8,14,0,0,0,1
+percy_react-percy,JavaScript,0,32,73,430,0,106,small,5,0,39,6,0,1,13,7,6,0,1,0,1
+willnet_gimei,Ruby,random Japanese name and address generator,271,18,63,0,29,small,0,0,14,8,0,1,2,4,1,0,0,0,0
+feldoh_JZookeeperEdit,Java,A simple tool for browsing and modifying zookeeper trees.,7,33,127,2,73,small,1,0,30,2,0,1,1,9,4,0,0,0,1
+DGtal-team_DGtal,C++,Digital Geometry Tools and Algorithm Library,149,935,3731,15,1423,medium,0,8,99,5,0,3,11,8,5,0,1,0,1
+numenta_htm.java,Java,Hierarchical Temporal Memory implementation in Java - an official Community-Driven Java port of the Numenta Platform for Intelligent Computing (NuPIC).,308,244,776,111,529,popular,0,0,8,1,0,1,2,4,0,0,0,0,0
+broccoli-html-editor_broccoli-html-editor,JavaScript,GUI HTML Editor Library.,0,24,300,0,27,small,0,0,32,8,1,1,1,18,3,0,0,0,1
+suitmedia_frontend-lighthouse-audit,PHP,A PHP package to automate the Lighthouse Auditing for frontend development,0,3,21,0,4,small,1,0,31,2,0,1,12,18,7,0,0,0,1
+DDMAL_Rodan,Python,:dragon_face: A web-based workflow engine.,23,22,3556,12,195,medium,0,2,63,1,1,1,14,14,34,0,1,0,1
+lsst_obs_sdss,Python,SDSS-specific configuration and tasks for the LSST Data Management Stack,3,60,780,17,60,medium,0,0,9,1,0,1,13,3,2,0,0,0,0
+Cutehacks_duperagent,C++,A QML clone of VisionMedia's SuperAgent module.,42,10,104,1,23,small,1,0,18,1,0,1,2,3,9,0,0,0,1
+jaywcjlove_hotkeys,JavaScript,:rocket:A robust Javascript library for capturing keyboard input. It has no dependencies.,3670,21,319,0,85,small,0,0,13,1,0,1,2,7,2,0,1,0,0
+dwenzel_t3events,PHP,"Manage events,show them in teasers, list and single views in TYPO3 (extension)",13,17,1025,12,78,medium,5,0,61,2,0,1,23,18,5,0,1,0,1
+pods-framework_pods,PHP,"The Pods Framework is a Content Development Framework for WordPress - It lets you create and extend content types that can be used for any project. Add fields of various types we've built in, or add your own with custom inputs, you have total control.",847,1205,7666,21,5366,big,3,3,57,6,0,1,13,32,6,0,1,0,1
+j-schumann_translation-module,PHP,"Storing and editing translations in the database, generating php-arrays to use with the ZF2 Translator",0,0,71,1,0,small,3,0,36,2,0,1,13,15,7,0,1,0,1
+djavan-bertrand_JCVD,Java,JCVD is a library that helps you using the Awareness API from the Google Play Services.,23,1,64,0,1,small,2,1,44,1,0,1,3,8,10,0,0,0,1
+amanzanero_shpe-tutor-scheduler,JavaScript,0,0,2,36,2,12,small,0,0,12,1,0,1,2,5,0,0,1,0,0
+symfony-cmf_cmf-sandbox,PHP,Base project for trying CMF components integration,431,237,1499,39,414,popular,6,0,51,4,2,1,14,28,13,0,1,0,1
+szechyjs_mbelib,C++,P25 Phase 1 and ProVoice vocoder,125,12,28,0,23,small,0,0,14,1,0,1,2,3,5,0,0,0,1
+Netflix-Skunkworks_Scumblr,Ruby,0,2498,92,505,168,242,popular,0,0,16,1,0,1,3,7,6,0,0,0,0
+south37_yard2steep,Ruby,Generate steep type definition file from yard annotation,25,8,39,0,9,small,0,0,9,1,0,1,12,4,2,0,0,0,0
+Vizzuality_trase,Ruby,Source code for Trase API and Frontend applications,10,556,5505,1,783,big,4,2,61,2,0,1,48,4,9,0,0,0,1
+AspenWeb_pando.py,Python,Filesystem dispatch + Simplates + Python = a nice web framework.,18,26,256,0,68,small,0,0,26,5,1,1,11,7,2,1,0,0,0
+OCA_sale-workflow,Python,"Odoo Sales, Workflow and Organization",114,749,4125,22,885,popular,5,1,50,3,0,2,2,11,6,0,1,0,1
+Freeseer_freeseer,Python,"Designed for capturing presentations at conferences. Pre-fill a list of talks to record, record them, and upload them to YouTube with our YouTube Uploader.",218,234,3134,24,720,popular,0,4,42,1,1,1,2,8,16,0,0,0,1
+mincong-h_jaxrs-2.x-demo,Java,JAX-RS 2.x demo using Jersey (JSR 370),1,0,23,0,1,small,0,0,21,1,0,1,1,6,13,0,0,0,1
+remarkjs_remark-html,JavaScript,Compile Markdown to HTML with remark,16,3,36,0,6,small,0,0,16,2,0,1,13,5,0,0,0,1,0
+egulias_EmailValidator,PHP,PHP Email validator library inspired in @dominicsayers isemail function https://github.com/dominicsayers/isemail,6943,94,265,0,197,small,2,1,68,13,0,1,3,13,5,0,0,0,1
+mantisbt_mantisbt,PHP,Mantis Bug Tracker (MantisBT),1187,1506,12022,10,1540,big,2,15,80,13,2,1,0,24,4,0,0,0,1
+saalfeldlab_render,Java,Render transformed image tiles,19,46,1231,12,100,medium,0,0,6,1,0,1,12,4,0,0,1,0,0
+jcryptool_crypto,Java,JCrypTool Crypto Plug-ins,49,108,1487,12,236,medium,0,0,13,1,0,1,2,7,4,1,0,0,0
+woboq_woboq_codebrowser,C++,Woboq CodeBrowser,727,31,411,2,79,small,0,0,9,1,0,1,11,3,2,0,0,0,0
+stellar_stellar-client,JavaScript,"INACTIVE. Browser based client for stellard. This repository is inactive. It points to the stellard network, which is being replaced by stellar-core. Please refer to the replacement repository, interstellar-client, which points to the stellar-core netwo",345,381,2554,23,745,popular,0,0,18,1,1,1,2,7,8,0,0,0,1
+mcallegari_qlcplus,C++,Q Light Controller Plus,328,842,5086,4,1187,big,2,6,100,3,0,1,113,7,10,0,1,0,1
+ctreatma_beer_bot,Ruby,A Sinatra-based Slack integration for fetching tap lists from PhillyTapFinder,2,11,50,0,17,small,0,0,2,1,0,1,2,2,0,0,0,0,0
+sproutcore_sproutcore,JavaScript,JavaScript Application Framework - JS library only,2701,726,6651,16,1517,big,0,5,21,1,1,1,13,7,3,0,0,0,1
+jasmine_jasmine_junitxml_formatter,Ruby,"Format jasmine results as junit compatible XML so CI servers, like Hudson/Jenkins can parse it",9,4,36,0,8,small,0,0,8,1,0,1,12,3,1,0,0,0,0
+jcabi_jcabi-maven-plugin,Java,Supplementary Maven Plugin,24,28,202,0,64,small,2,0,24,1,0,1,12,9,9,0,1,0,1
+marek629_SIR,C++,Simple Image Resizer using Qt4/5 and exiv2,6,1,799,2,5,small,0,4,36,1,0,1,11,5,10,0,0,0,1
+dyonir_vue2-persian-datepicker,JavaScript,A vue component helps persian developer for picking date,99,3,98,0,32,small,0,0,9,4,0,1,2,7,0,0,0,0,0
+morphoorg_morpho,Python,0,3,37,1153,26,115,medium,0,26,38,1,1,1,2,5,3,0,0,0,1
+CachetHQ_Cachet,PHP,"An open source status page system, for everyone.",10171,1464,8859,1,3477,big,0,6,39,3,0,1,11,13,4,1,0,0,1
+parse-community_parse-php-sdk,PHP,The Parse PHP SDK.,797,108,141,37,296,popular,0,0,37,3,0,1,13,22,8,0,1,1,1
+pixelnest_presskit.html,JavaScript,A static re-implementation of presskit(),154,5,428,0,14,small,0,0,9,1,1,1,2,4,0,0,0,0,0
+jvcleave_ofxOMXCamera,C++,0,3,4,87,0,7,small,0,143,200,0,0,0,24,6,0,0,0,0,0
+psf_black,Python,The uncompromising Python code formatter,1544,40,50,0,152,small,1,0,32,5,0,1,3,8,3,0,1,0,0
+StackStorm_st2,Python,"StackStorm (aka \""IFTTT for Ops\"") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow,1800+ integrations (see /st2contrib), native",1683,1005,8811,2,1876,big,8,59,148,5,1,1,0,14,26,1,1,0,1
+knex_knex,JavaScript,"A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.",9612,945,2302,21,3254,popular,2,1,39,2,0,1,13,9,11,0,1,0,1
+IgniteUI_igniteui-angular,JavaScript,Ignite UI directives for AngularJS,258,2552,22822,7,4562,big,0,22,53,1,0,1,11,9,15,0,0,0,1
+influunt_influunt,Java,0,1,700,5514,0,1859,big,0,6,44,1,1,1,111,14,14,0,1,0,1
+MarcoBuster_OrarioTreniBot,Python,Bot di Telegram per le ferrovie in Italia,16,12,200,0,15,small,0,3,18,2,0,1,2,6,3,0,0,0,1
+joni2back_angular-filemanager,JavaScript,JavaScript HTML5 File Management Material Design Folder Explorer Navigator Browser Manager in AngularJS (with FTP in PHP / Java),1659,99,398,33,346,popular,0,0,18,1,0,1,12,6,4,0,1,0,1
+wxWidgets_wxWidgets,C++,Cross-Platform GUI Library - Report issues here: http://trac.wxwidgets.org/,2599,1320,12358,5,1339,big,16,7,128,20,1,1,0,5,2,1,0,0,1
+OCA_server-tools,Python,Tools for Odoo Administrators to improve some technical features on Odoo.,323,1271,6217,22,1621,big,6,1,51,3,0,2,2,11,6,0,1,0,1
+andrascii_cpprobotparser,C++,"This module represents the robots.txt parser written in C++, which answers questions about whether or not a particular user agent can fetch a URL on the Web site that published the robots.txt file. For more details on the structure of robots.txt files, s",4,0,46,0,0,small,0,0,8,1,0,1,1,3,0,0,0,0,0
+seandepagnier_plots_pi,C++,plugin for improving sail trim and maintaining course,0,0,36,0,3,small,0,6,48,1,0,1,13,7,9,0,0,1,1
+pablo-sg-pacheco_file-renaming-on-upload,PHP,0,1,0,45,0,1,small,0,5,22,1,0,1,2,14,1,1,0,1,0
+ktuukkan_marine-api,Java,Java Marine API - NMEA 0183 library for Java,127,36,500,0,103,small,0,0,11,3,0,1,11,6,2,0,0,0,0
+apache_commons-csv,Java,Mirror of Apache Commons CSV,165,39,699,0,40,small,0,14,30,4,0,1,3,4,1,0,0,0,0
+DigitalWPI_digitalwpi,Ruby,This is digital wpi,3,75,241,0,229,small,7,0,35,1,0,1,12,9,5,0,1,0,1
+Nepherte_commons-cli,Java,A Java library for parsing command line options,0,0,326,0,0,small,0,5,25,3,0,2,2,5,2,0,1,0,0
+montagejs_montage,JavaScript,"MontageJS is an elegant, open source HTML5 framework maintained by Montage Studio that rivals native SDKs, yet is easier to learn. It offers modular components, two-way data binding, and much more. Join us on irc.freenode.net#montage. Sign up for our bet",1630,1195,4656,25,2147,popular,3,0,42,5,1,3,4,10,3,0,0,0,1
+beloop_CoreBundle,PHP,[READ-ONLY] Subtree split of beloop Core bundle,0,0,22,0,1,small,0,0,23,2,0,1,13,13,4,0,1,0,0
+indibeast_currency-format,PHP,0,22,1,22,1,1,small,0,0,17,3,0,1,2,16,4,0,0,0,1
+socketry_async-dns,Ruby,An asynchronous DNS resolver and server.,32,3,70,0,10,small,1,0,29,8,0,1,2,6,1,0,1,0,0
+OCHA-DAP_hdx-ckan,Python,A repo for HDX's configurations and extensions to CKAN,47,2675,8129,0,4881,big,1,0,40,1,0,1,13,6,27,0,0,0,1
+TUM-Dev_Campus-Android,Java,Development of the TUM Campus App for Android devices - for and from students at Technical University of Munich.,126,446,3875,26,1107,popular,2,0,41,1,0,1,12,11,7,0,1,0,1
+PowerDNS_pdns,C++,PowerDNS,1814,4547,12657,4,7860,big,1,1,40,8,1,1,11,8,10,0,1,0,1
+rapid7_metasploit-credential,Ruby,"Code for modeling and managing credentials in Metasploit, implemented as a Rails Engine",16,71,899,17,83,medium,0,1,21,1,0,1,12,7,5,0,1,0,1
+remi_her,Ruby,Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. It is designed to build applications that are powered by a RESTful API instead of a database.,1491,243,646,10,531,medium,0,0,46,19,0,1,13,6,3,0,0,0,1
+django-oscar_django-oscar-docdata,Python,Docdata Payments Gateway integration for django-oscar,7,29,313,0,55,small,2,0,28,8,0,1,2,7,5,0,0,0,1
+myhdl_myhdl,Python,The MyHDL development repository,0,0,29,0,0,small,1,0,38,15,0,1,2,12,3,0,0,0,1
+seqan_seqan,C++,SeqAn's official repository.,335,1565,5097,7,2334,big,0,25,87,5,0,1,13,6,15,0,1,0,1
+dimagi_commcare-cloud,Python,0,5,1597,7568,3,1643,big,3,3,32,2,0,1,2,8,5,0,0,0,1
+jruby_warbler,Ruby,Warbler chirpily constructs .war files of your Ruby applications.,915,125,474,29,453,popular,3,0,44,8,1,1,4,10,7,1,0,0,1
+gin0606_tukune,Ruby,0,1,25,180,0,25,small,0,0,20,1,0,1,12,7,4,0,1,0,1
+morishitter_picostyle,JavaScript,Ultra small CSS in JS library in 0.3 KB,90,15,43,2,27,small,0,0,11,2,0,1,12,5,4,0,0,0,0
+hasgeek_baseframe,JavaScript,Baseframe for HasGeek projects,11,116,1131,12,219,medium,0,2,23,3,2,1,102,10,4,0,0,0,1
+beautifuldonkey_SurvivorsGuide,Java,0,0,39,378,0,42,small,6,16,58,1,0,1,12,10,9,0,1,0,1
+gkjohnson_urdf-loaders,JavaScript,URDF Loaders for Unity and THREE.js with example ATHLETE URDF Files,21,47,448,0,137,small,0,0,10,1,0,1,2,4,4,0,0,0,0
+openprocurement_openprocurement.tender.openuadefense,Python,0,0,57,396,0,57,small,2,0,31,2,0,1,13,11,7,0,1,0,1
+SidRoberts_phalcon-events,PHP,Miscellaneous events for use with the Phalcon framework.,5,3,54,0,4,small,2,0,31,4,1,1,0,21,6,0,0,0,1
+ecaepp_ansible_role_nginx,Python,0,0,3,40,0,3,small,3,0,30,1,0,1,103,7,2,0,0,0,0
+TUM-I5_ASAGI,C++,a pArallel Server for Adaptive GeoInformation.,4,0,342,2,6,small,1,0,55,2,0,1,11,7,17,1,0,0,1
+inpsyde_MetaboxOrchestra,PHP,A Composer package that provides metabox orchestration for WordPress.,10,0,29,0,0,small,0,0,21,3,0,1,13,17,3,0,0,0,1
+MilesChou_slim-test,PHP,Slim testing helper,0,14,143,1,15,small,0,0,33,5,0,1,1,19,2,1,1,0,1
+darryldecode_laravel-starter-kit,PHP,Laravel 5.5~ Starter Kit Powered by VueJS + Material Design,186,4,126,0,20,small,0,0,13,1,0,1,2,15,5,0,0,0,1
+tarmstrong_git2json,Python,Convert git logs to JSON for easy analysis,56,12,75,0,20,small,0,3,21,3,0,1,2,7,6,0,0,0,1
+sirixdb_brackit,Java,0,1,0,28,0,0,small,0,0,12,1,0,1,12,4,0,0,0,0,0
+sigoden_htte,JavaScript,Declarative http test framework,57,4,163,0,12,small,0,0,30,2,0,1,13,11,8,0,1,0,0
+nexylan_slack-bundle,PHP,Symfony bundle integration of maknz/slack library,8,8,44,0,12,small,3,0,57,7,1,1,13,26,6,1,1,0,1
+phalcon_cphalcon,PHP,Web framework delivered as a C-extension for PHP,10731,3350,8228,6,8371,big,7,5,115,4,0,2,0,37,15,1,1,0,1
+gaul_s3proxy,Java,Access other storage backends via the S3 API,557,86,832,2,244,small,3,3,30,1,0,1,0,8,4,0,0,0,1
+logstash-plugins_logstash-filter-useragent,Ruby,0,10,33,105,3,59,small,0,0,2,1,0,1,3,3,0,0,0,0,0
+kato_kato-ui,JavaScript,kato apiË∞ÉËØïÂ∑•ÂÖ∑,0,1,27,0,2,small,0,0,19,1,0,1,13,4,2,0,1,1,0
+sonofeft_PyHatch,Python,PyHatch initializes files and directory structure for new python projects.,1,0,70,0,0,small,0,0,12,3,0,1,2,5,2,0,0,0,0
+michaelmior_NoSE,Ruby,Automated schema design for NoSQL applications,21,1,608,1,1,small,0,2,38,2,0,1,112,8,13,0,1,0,1
+molgenis_molgenis,Java,"MOLGENIS - for scientific data: management, exploration, integration and analysis.",95,5414,11125,32,8450,big,2,5,34,2,1,1,0,13,5,0,1,0,1
+jeremyevans_ruby-american_date,Ruby,American style month/day/year parsing for ruby 1.9,92,11,28,0,15,small,0,0,13,2,0,1,3,6,1,0,0,0,0
+pomm-project_Cli,PHP,Command line interface for Pomm project.,14,27,128,0,46,small,1,0,28,7,0,1,3,18,5,0,0,0,1
+Mozu_generator-mozu-theme,JavaScript,Yeoman generator for Mozu themes.,0,1,46,0,3,small,1,1,32,6,1,1,12,10,8,1,1,0,1
+mozilla_elmo,JavaScript,Elmo,34,48,801,16,49,medium,2,1,27,8,0,1,11,8,7,0,0,0,1
+xp-forge_functions,PHP,Functional interfaces,0,2,35,0,2,small,0,1,24,6,0,1,3,16,4,0,0,0,1
+hivesolutions_cameo_android,Java,The android version of the cameo framework,0,2,306,0,2,small,2,0,17,1,0,1,2,5,4,0,0,0,1
+WGBH-MLA_pbcore,Ruby,PBCore model in Ruby,0,20,72,0,22,small,0,0,6,1,0,1,12,3,1,0,0,0,0
+alphagov_paas-cf,Ruby,Government PaaS - Cloud Foundry,49,1888,29396,0,1922,big,6,0,104,9,0,1,12,6,22,0,0,0,1
+anthony-quiros_openChat,JavaScript,lightweight web/mobile chat application based on nodeJS,3,2,106,2,25,small,0,0,8,1,0,1,2,5,2,0,0,0,0
+MariaDB_server,C++,"MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",2972,1310,33450,1,1334,big,4,41,241,17,1,1,0,13,13,0,1,0,1
+bung87_moto-moe,JavaScript,"Site source for moto.moe,a pinterest like site.",7,0,135,0,4,small,2,0,27,3,0,1,3,12,12,0,0,0,1
+clarete_forbiddenfruit,Python,Patch built-in python objects,339,9,76,0,32,small,0,0,13,5,0,1,1,6,3,0,0,0,1
+Soldy_interactiveConsole,JavaScript,simple fast utf-8 console/shell,2,0,49,0,10,small,0,0,4,1,0,1,2,3,0,0,0,0,0
+linagora_hublin,JavaScript,An easy and free video conference service #webrtc,1605,40,869,11,131,medium,2,1,24,1,0,1,3,7,1,0,0,0,0
+mapbox_node-fontnik,C++,Fonts ‚á¢ protobuf-encoded SDF glyphs,93,52,861,63,117,medium,7,62,179,16,0,1,23,8,21,0,0,0,1
+oscar-stack_vagrant-hosts,Ruby,Manage static DNS on vagrant guests,129,25,107,2,49,small,3,5,35,6,0,1,13,7,4,0,0,0,1
+gjtorikian_html-pipeline,Ruby,HTML processing filters and utilities,2213,207,736,11,316,medium,0,0,44,10,0,1,3,9,1,0,1,0,1
+thoward27_algorithms,C++,Class repository for CSC 212 Data Structures and Algorithms,0,8,38,0,8,small,0,0,13,1,0,1,1,3,1,0,0,0,0
+icewing1996_biaffine-parser,Python,0,1,0,771,0,0,small,0,2,20,1,0,1,2,5,11,0,0,0,1
+pypa_warehouse,Python,Next Generation Python Package Repository,2238,3618,9643,1,5237,big,2,0,67,8,0,1,2,13,17,0,1,0,1
+arhaikal_veriffymycar,Ruby,0,0,0,30,0,0,small,1,0,16,1,0,1,1,7,4,0,0,0,0
+muddydixon_fluent-plugin-anomalydetect,Ruby,0,31,25,57,1,28,small,0,0,10,6,0,1,3,5,1,0,0,0,0
+devnexen_rbcLib,C++,Unix compliant C++ library for Robobuilder,0,0,23,0,0,small,0,1,11,1,0,1,3,5,3,0,0,0,0
+cylon-v_dandy,Ruby,Silicon is a cutting-edge ruby framework for developing web-applications,1,1,46,0,1,small,0,0,6,1,0,1,12,3,1,0,0,0,0
+ThomasWeinert_carica-io,PHP,Non Blocking Io and Firmata for PHP,23,2,116,0,3,small,0,0,30,4,1,1,3,17,5,0,0,0,1
+square_dagger,Java,A fast dependency injector for Android and Java.,7506,284,647,17,605,medium,1,1,38,1,0,1,12,11,2,1,1,0,1
+Pylons_paginate,Python,Python pagination module,50,5,40,3,11,small,2,0,26,6,0,1,13,4,2,0,0,0,0
+jkraemer_redmine_pushover,Ruby,Get push notifications from Redmine,4,1,28,0,6,small,1,0,32,6,0,1,2,9,10,1,0,0,1
+Yubico_php-yubico,PHP,PHP class for Yubico authentication,121,10,135,1,23,small,1,0,15,4,0,1,11,17,0,0,0,0,0
+gocodebox_lifterlms,PHP,LIFTER LMS,70,204,3551,10,751,medium,0,0,4,1,0,1,3,3,0,0,0,0,0
+vektor-inc_biz-vektor,PHP,0,14,92,1050,10,261,medium,0,0,34,2,0,1,2,21,8,1,1,0,1
+otavanopisto_muikku,Java,Muikku Learning Environment,10,1464,15381,8,4621,big,13,32,114,20,1,1,13,14,8,1,1,0,1
+yinian1992_flask-docs-cn,Python,Flask ÊñáÊ°£ÁøªËØë,71,10,136,1,13,small,0,5,13,1,0,1,2,5,2,0,0,0,0
+uolcz_pina,Ruby,Ruby toolkit for the Bonobo Ucetnictvi API,3,29,37,0,36,small,1,0,8,1,0,1,12,6,1,0,0,0,0
+everypolitician_everypolitician-data,Ruby,0,150,153516,229282,0,159423,big,1,0,20,1,1,1,2,9,3,0,1,0,1
+lml_quadbase,Ruby,Quadbase.org - Question Banking Made Easy,22,99,572,11,246,medium,1,8,20,1,0,1,2,6,3,0,0,0,1
+jimmoores_quandl4j,Java,Java wrapper for Quandl REST API,66,18,262,2,51,small,0,0,10,1,0,1,3,3,2,0,0,0,0
+airbnb_javascript,JavaScript,JavaScript Style Guide,88126,1094,1435,115,2018,popular,6,0,109,79,0,1,14,10,6,0,0,0,1
+yeutech-lab_wallpapers-yeutech,JavaScript,0,4,6,52,0,8,small,0,5,52,2,0,2,53,7,8,1,1,0,1
+cozy_cozy-drive,JavaScript,Cozy Drive app for Cozy Cloud,61,1178,7402,0,1261,big,3,16,121,5,0,2,44,7,28,1,0,0,1
+fkhadra_react-on-screen,JavaScript,Check if a react component in  the viewport,231,14,59,0,40,small,0,0,6,1,0,1,2,4,1,0,0,0,0
+kmels_SigPyParser,Python,0,0,0,23,0,0,small,1,0,22,3,0,1,22,9,4,0,0,0,1
+Switajski_FlexibleOrders,Java,"Web App for managing orders, order confirmations, delivery notes and invoices.",3,0,714,1,113,small,0,0,7,1,0,1,2,5,1,0,0,0,0
+TeamWizardry_TMT-Refraction,Java,A light manipulation based mod for The Modding Trials,6,5,766,1,74,small,0,0,9,1,0,1,2,5,1,0,1,0,0
+ModeShape_modeshape,Java,"ModeShape is a distributed, hierarchical, transactional, and consistent data store with support for queries, full-text search, events, versioning, references, and flexible and dynamic schemas. It is very fast, highly available, extremely scalable, and it",223,1673,4128,13,1701,medium,1,17,43,1,0,1,2,10,3,0,1,0,1
+CruGlobal_kirby,JavaScript,"A Lambda tool for \""sucking\"" db rows from one MPDX database to another",0,3,45,0,3,small,0,0,11,1,0,1,2,5,1,0,0,1,0
+hecom-rn_IncUpdate,JavaScript,Â¢ûÈáèÊõ¥Êñ∞ÁÆ°ÁêÜÊ®°Âùó„ÄÇ,0,0,34,0,0,small,0,0,22,2,0,2,2,5,0,0,0,0,0
+briefmnews_django-esidoc,Python,Handle login and ticket validation for esidoc,0,0,126,0,0,small,0,0,15,1,0,1,2,6,3,0,0,0,1
+kmpm_nodemcu-uploader,Python,Upload files to your esp8266 running nodeMcu,266,32,138,0,87,small,0,2,12,2,0,1,2,5,2,0,0,0,0
+enobufs_dtimer,JavaScript,"Distributed timer, backed by Redis.",65,11,50,1,20,small,0,0,11,2,0,1,3,6,1,0,0,0,0
+plone_plone.versioncheck,Python,Checks pinned versions with overrides in a cascaded buildout,4,20,241,0,50,small,1,0,42,6,0,1,13,7,4,0,1,0,1
+ColdTrick_elasticsearch,PHP,An Elasticsearch implementation for Elgg,2,0,336,0,9,small,1,16,51,1,0,1,13,19,3,0,0,1,1
+adgproject_adg,Python,A Python package to generate and evaluate many-body diagrams,4,2,127,0,2,small,3,6,115,20,0,1,3,7,8,0,1,0,1
+hawkular_hawkular-alerts,Java,Alerting subsystem for Hawkular,73,484,977,0,506,small,1,12,79,1,1,1,11,20,10,0,1,0,1
+chemfiles_cfiles,C++,Analysis of simulation trajectories using chemfiles,6,16,314,0,39,small,1,0,73,4,0,1,2,4,11,0,0,0,1
+cryptocoinjs_eckey,JavaScript,A JavaScript component for Eliptical curve cryptography for crypto currencies such as Litecoin and Bitcoin,17,7,120,0,16,small,4,0,33,5,0,1,0,9,1,0,0,0,0
+vinsol-spree-contrib_spree_bank_transfer,Ruby,Allows admin to provide bank transfer payment method to its users in Spree,12,12,73,0,30,small,0,0,7,1,0,1,2,4,2,0,0,0,0
+intermine_intermine,Java,A powerful open source data warehouse system,143,578,6290,1,2046,big,6,0,28,4,0,1,0,9,3,0,0,0,1
+cocos2d_cocos2d-js,C++,cocos2d-x for JS,1779,1207,1884,13,1879,medium,3,0,19,2,0,1,3,4,3,1,0,0,1
+puppetlabs_pdksync,Ruby,https://tickets.puppetlabs.com/browse/MODULES-6819,6,65,120,0,65,small,2,0,29,4,0,1,0,8,2,1,1,0,0
+joshka_junit-json-params,Java,JUnit 5 JSON files source library,0,0,28,0,0,small,1,0,30,1,0,1,13,8,3,0,1,1,0
+ihaohong_algs,Java,„ÄäÁÆóÊ≥ï„Äã‰π¶‰∏äÁöÑ‰∏Ä‰∫õÂÆûË∑µ,1,0,51,0,0,small,0,0,13,1,0,1,2,5,1,0,1,0,0
+mozilla_mozillians-tests,Python,Mozillians Tests,48,437,699,47,506,medium,0,0,8,1,0,1,2,5,3,0,0,0,0
+vend_mysql-uuid,PHP,A PHP library for manipulating MySQL UUIDs into better performing primary keys,30,1,22,0,1,small,0,0,15,2,0,1,2,14,2,0,0,0,0
+hashicorp_nomad-java-sdk,Java,A Java SDK for interfacing with HashiCorp's Nomad,21,11,153,1,28,small,0,1,27,1,0,1,11,6,1,0,1,0,0
+OpenNebula_one,C++,OpenNebula cloud management platform,486,1570,14675,7,3710,big,0,15,29,1,0,1,1,2,8,0,0,0,1
+criesbeck_thinking-with-hooks,JavaScript,"The Thinking in React example, using stateless functional components and hooks",2,0,32,0,0,small,0,0,7,1,0,1,2,3,0,0,0,0,0
+privrja_bbdgnc,PHP,Building Blocks Database Generator of Natural Compounds,0,30,633,0,39,small,0,2,18,1,0,1,2,15,4,0,0,0,1
+AcademySoftwareFoundation_OpenShadingLanguage,C++,Advanced shading language for production GI renderers,779,893,887,12,1038,medium,9,13,184,8,1,1,102,9,22,1,1,0,1
+ofbeaton_command-running,PHP,Detects if a command or process is currently running.,2,0,35,2,0,small,0,0,31,5,0,1,13,18,5,0,0,0,1
+vcalderon2009_Red_Sequence_Evolution,Python,Demonstration of Red Sequence Evolution for Galaxy Clusters in Color-Magnitude diagrams,0,0,67,1,0,small,0,0,1,1,0,1,3,2,0,0,0,0,0
+hzxie_voj,Java,Cross-Platform Online Judge System based on Spring MVC Framework.,0,0,25,2,0,small,1,6,52,4,0,1,2,9,15,0,0,0,1
+NullHypothesis_bridgedb,Python,The Tor Project's bridge distribution system,0,0,37,0,0,small,1,8,55,1,2,1,2,11,8,0,0,0,1
+nadirhamid_oneline,Python,Data streaming for web apps,5,0,229,1,1,small,0,0,5,1,0,1,3,3,3,0,0,0,0
+randombit_botan,C++,Crypto and TLS for C++11,1184,1201,7332,1,2005,big,1,1,55,4,0,1,0,9,2,1,1,0,1
+proseline_paid.proseline.com,JavaScript,0,0,0,259,0,6,small,0,0,10,1,0,1,12,4,4,0,0,0,0
+AteneoMolinaDeSegura_jekyll,Ruby,Ateneo Molina de Segura web page,3,11,487,0,11,small,2,3,28,1,0,1,18,9,7,0,1,1,1
+leapmotion_autowiring,C++,A C++ Inversion of Control Framework,137,986,7243,31,1043,big,4,5,62,2,0,1,13,7,17,0,0,0,1
+kriskowal_q,JavaScript,A promise library for JavaScript,15842,294,607,30,868,popular,0,0,6,1,0,1,2,4,1,0,0,0,0
+marvin255_serviform,PHP,0,4,0,279,2,0,small,0,0,18,6,0,1,12,18,6,0,0,0,1
+forgemo_bittrex-java-client,Java,Java client for the bittrex.com v1.1 API,33,4,33,0,8,small,0,0,3,1,0,1,2,3,0,0,0,0,0
+publiclab_plots2,Ruby,The PublicLab.org website - a collaborative research sharing platform and wiki.,483,2821,6582,0,5555,big,4,1,82,4,0,1,13,13,24,1,1,0,1
+js-cli_js-liftoff,JavaScript,Launch your command line tool with ease.,245,20,170,3,42,small,0,0,20,14,0,1,2,11,1,0,0,0,0
+wojdyr_xylib,C++,"library for reading files with x-y data from powder diffraction, spectroscopy, or other experimental methods",29,4,221,0,17,small,0,0,15,2,0,1,2,4,2,1,0,0,0
+jsalonen_yle-api,JavaScript,Unofficial Node.js SDK for Yle API,9,7,130,0,11,small,0,0,11,2,0,1,2,5,4,0,0,0,0
+commercetools_commercetools-sunrise-java,Java,The next generation shop template by commercetools,7,64,1026,12,262,medium,0,4,30,1,1,1,11,0,3,0,1,0,1
+Codeception_Codeception,PHP,Full-stack testing PHP framework,3982,2352,5749,2,5518,big,3,4,48,7,0,1,3,23,9,1,1,0,1
+edx_ecommerce-worker,Python,0,3,53,313,1,54,small,1,0,45,2,0,1,24,9,3,1,0,1,1
+openstreetmap_openstreetmap-website,Ruby,Mirror of the Rails application powering http://www.openstreetmap.org (hosted at git://git.openstreetmap.org/rails.git),1009,979,5551,2,2278,big,0,0,39,1,0,1,1,8,19,0,1,0,1
+Idrinth_php-yaml-facade,PHP,0,1,1,50,0,3,small,0,11,45,7,0,1,2,21,11,0,0,0,1
+Justin-ad-Park_spring-webservice,Java,0,0,0,26,0,0,small,0,30,74,1,1,1,23,8,1,1,1,1,1
+tip-grupo-2_biblo,Ruby,0,1,71,343,0,80,small,0,0,25,1,0,1,3,8,4,0,0,1,0
+pat_combustion,Ruby,"Simple, elegant testing for Rails Engines",216,44,114,2,97,small,1,0,24,15,0,1,2,9,4,0,0,0,1
+flubshi_pvr.waipu,C++,Waipu.tv PVR Plugin for Kodi,2,5,71,1,7,small,2,7,55,5,0,1,43,5,13,0,0,0,1
+Theano_Theano,Python,"Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.",9637,4025,21835,11,6725,big,5,21,140,23,0,2,12,26,29,0,1,0,1
+ruby_ruby,Ruby,The Ruby Programming Language,17336,2183,55565,21,2199,big,16,41,292,4,3,1,1,9,41,1,1,0,1
+rom-rb_rom-csv,Ruby,CSV support for Ruby Object Mapper,20,16,120,0,18,small,1,0,24,7,1,1,4,8,1,0,0,0,0
+PrincetonUniversity_IMDb,C++,ILA Model Database,1,11,95,0,11,small,0,0,24,1,0,1,10,6,2,1,0,0,0
+jenkinsci_github-plugin,Java,Jenkins GitHub plugin,259,204,609,313,206,popular,0,0,11,1,0,1,2,6,2,0,1,0,0
+cs3243-project-group-18_poker-ai,Python,"Developing AI poker playing agent for NUS School of Computing Module, CS3243",3,10,27,0,14,small,0,5,29,1,0,1,3,6,11,0,0,0,1
+tastypackets_x12-parser,JavaScript,JavaScript EDI Parser that uses datastreams,3,2,25,0,5,small,0,0,3,1,0,1,2,3,0,0,1,0,0
+fluent_fluent-logger-python,Python,A structured logger for Fluentd (Python),288,94,116,0,145,small,0,1,36,9,0,1,14,12,3,0,0,1,1
+Kosmas_leaguer,Ruby,Sports league application,0,2,408,0,2,small,1,1,18,1,1,1,3,7,1,1,0,0,0
+basho_riak-python-client,Python,The Riak client for Python.,367,327,1640,18,560,medium,13,0,40,12,1,1,12,10,5,0,0,0,1
+JMRI_JMRI,Java,JMRI model railroad digital command & control software,108,5158,37599,0,6797,big,7,10,82,3,0,1,0,14,11,0,1,0,1
+bostko_doc2text,Ruby,Convert odt document files to markdown format,11,6,60,1,8,small,0,0,7,1,1,1,2,4,0,0,0,0,0
+serge-sans-paille_pythran,C++,a claimless python to c++ converter,1155,849,5202,3,1310,big,7,0,59,25,0,1,13,7,7,0,0,0,1
+Martin-Dames_Tingeltangel,Java,Das Ting-Stift Tool,12,11,333,1,15,small,0,0,6,2,0,1,1,4,0,0,0,0,0
+arescentral_antares,C++,A tactical space combat game,39,79,939,0,155,small,5,4,52,1,0,1,15,3,10,0,0,0,1
+gizatt_pydrake_kuka,Python,0,1,2,51,0,8,small,3,0,25,1,0,1,12,5,2,0,0,0,0
+odota_web,JavaScript,Web UI for Dota data (BETA),319,717,7294,0,1173,big,0,1,29,1,3,1,11,11,9,1,0,0,1
+andersondanilo_CnabPHP,PHP,"Projeto para criar arquivos de remessas e processar arquivos de retorno no formato CNAB, utilizado nos bancos geralmente para boleto banc√°rio.",307,38,112,2,158,small,0,3,32,4,1,1,202,17,2,0,0,0,1
+Zarad1993_dyc,Python,Document Your Code,9,9,43,0,26,small,0,1,12,2,0,1,2,5,4,0,0,0,0
+Warzone2100_warzone2100,C++,"Warzone 2100 - a free and open source real time strategy game.  Please note, we prefer trac tickets over pull requests!  Read http://forums.wz2100.net/viewtopic.php?f=6&t=11570 for full information!",908,324,2891,13,359,medium,1,35,85,2,1,1,4,5,11,1,0,0,1
+novius-os_core,PHP,0,15,292,3531,12,314,medium,1,0,21,1,0,1,12,18,3,0,1,0,1
+pine_illya,JavaScript,illya.js is simple MVVM framework for TypeScript based on Vue.js. „Ç§„É™„É§„Åü„Çìprpr.,1,0,23,0,0,small,0,0,6,1,0,1,2,5,2,0,0,0,0
+projectcypress_cypress,Ruby,An open source tool for testing Meaningful Use Clinical Quality measure calculation accuracy,75,1033,6389,4,1137,big,2,0,55,4,2,1,12,8,16,1,1,0,1
+pyprism_Hiren-Vault,Python,:secret: Password management application :secret:,1,0,237,1,0,small,1,0,29,1,0,1,3,13,6,0,1,0,1
+massiveart_MassiveSearchBundle,PHP,0,20,88,779,12,126,medium,6,1,57,3,0,1,12,19,15,0,1,0,1
+whitesmith_rubycritic,JavaScript,A Ruby code quality reporter,2379,193,938,24,313,popular,1,1,31,7,0,1,1,7,8,0,1,0,1
+analogwp_analogwp-templates,PHP,AnalogTemplates plugin for AnalogWP.com,0,3,81,0,20,small,2,0,38,17,0,1,12,24,2,1,0,0,1
+albertodemichelis_squirrel,C++,0,448,88,109,0,177,small,0,3,18,2,0,1,12,4,1,0,0,0,0
+Netflix_servo,Java,Netflix Application Monitoring Library,1347,338,486,104,462,popular,2,0,21,3,0,1,3,7,2,0,1,0,0
+martinfehrs_whirl,C++,a header only library for implementing LL(1) parsers,0,0,22,0,0,small,0,0,47,3,0,1,4,4,6,0,0,0,1
+collective_icalendar,Python,icalendar parser library for Python,489,130,442,320,293,popular,0,0,16,8,0,1,2,10,2,0,1,0,0
+notmarkmiranda_memento_mori,Ruby,0,0,4,25,0,4,small,1,0,29,1,0,1,3,10,11,0,1,0,1
+codez_dry_crud,Ruby,"Generates DRY and specifically extendable CRUD controller, views and helpers for Rails applications",134,11,362,1,19,small,2,2,16,2,0,1,2,6,0,0,1,0,0
+hazimehh_L0Learn,C++,Efficient Algorithms for L0 Regularized Learning,39,29,358,0,40,small,0,0,13,1,0,1,11,8,0,0,1,0,0
+ambimax_magento-module-ambimax-lazycatalogimages,PHP,Image urls are replaced by CDN url.,1,9,37,0,9,small,4,1,43,4,1,1,114,24,2,0,0,0,1
+healeycodes_EmojiStreamer,JavaScript,Real-time streaming of every emoji posted as a comment to Reddit.com ????,3,3,32,0,4,small,0,0,11,1,0,1,2,6,3,0,0,0,1
+imglib_imglib2-introductory-workshop,Java,ImgLib2 Introductory Workshop,3,0,34,0,1,small,1,0,18,1,0,1,2,7,2,1,1,0,0
+conda-forge_nodejs-feedstock,Python,A conda-smithy repository for nodejs.,2,69,45,0,93,small,4,2,20,1,0,1,3,2,4,0,0,0,1
+naver_android-imagecropview,Java,android image crop library,177,5,106,0,42,small,0,0,25,1,1,1,12,7,1,0,0,0,0
+analogdevicesinc_libsmu,C++,Software abstractions for the analog signal exploration tools.,1,18,155,0,27,small,4,8,154,7,0,1,56,12,35,1,1,1,1
+ethereum_ethereumj,Java,Java implementation of the Ethereum yellowpaper,2120,611,5231,2,1266,big,3,7,53,1,3,1,11,10,2,0,1,0,1
+Anaconda-Platform_anaconda-client,Python,Anaconda Server Client,4,65,275,0,150,small,4,6,100,6,0,1,113,10,13,1,1,0,1
+silvershop_silvershop-shipping,PHP,Optional shipping methods for the silverstripe shop module.,0,15,45,0,21,small,5,0,44,3,1,1,3,22,12,0,0,0,1
+Javernaut_WhatTheCodec,Java,A sample app that uses FFmpeg's shared libraries,1,0,49,0,0,small,0,4,29,1,0,1,1,3,13,0,0,0,1
+OmegaK2_PyPoE,Python,Collection of Python Tools for Path of Exile,107,40,541,0,92,small,0,1,21,1,0,1,11,9,6,0,1,0,1
+projectdx_hancock,Ruby,Ruby gem for DocuSign integration,3,33,450,0,33,small,1,0,19,2,0,1,12,9,2,0,1,0,0
+akvo_akvo-flow-mobile,Java,Akvo FLOW app,16,543,4570,14,1395,medium,4,1,59,1,1,1,11,9,12,0,1,0,1
+wultra_powerauth-webflow,Java,PowerAuth 2.0 WebAuth - Federated Authentication and Authorization Server for Web,2,144,475,0,322,small,1,0,24,1,0,1,2,7,1,1,0,0,0
+czim_laravel-dataobject,PHP,Basic framework for making standardized but flexible data objects for Laravel.,7,0,72,0,0,small,0,0,20,3,1,1,2,16,3,0,0,0,1
+sportngin_hubstats,Ruby,Gamification of Github,36,116,1032,63,141,medium,0,0,25,5,0,1,0,7,6,1,1,0,1
+churchill-lab_emase,Python,Welcome to EMASE github repository!,0,0,179,3,0,small,0,0,27,2,0,1,2,4,13,0,0,0,1
+saveriomiroddi_spreadbase,Ruby,Ruby library for accessing (R/W) OpenOffice spreadsheets (odt)... because Excel IS a database!!,9,4,123,1,8,small,0,0,9,5,0,1,1,3,0,0,0,0,0
+lpaulsen93_dokuwiki-plugin-odt,PHP,Exports a page to the Open Document format used by OpenOffice.org and other word processors,2,23,41,1,32,small,1,3,30,10,0,1,12,19,11,0,0,0,1
+ekinhbayar_BrillTagger,PHP,Brill Tagger & lexicon generated from Brown Corpus,9,5,54,0,7,small,0,0,12,1,0,1,2,14,3,0,0,0,1
+pyload_pyload,Python,"A free and open source personal cloud storage as well as download manager for all kind of operating systems and devices, designed to be extremely lightweight and runnable on personal pc or headless server.",1551,1002,6468,2,3397,big,7,12,186,12,0,3,20,14,22,1,1,0,1
+hspsh_whois,Python,0,7,13,116,0,25,small,0,0,18,1,0,1,2,8,7,0,0,0,0
+codenautas_multilang,JavaScript,Tools for multilanguage & Markdown multilang,2,3,189,1,29,small,0,0,11,4,0,1,3,8,1,0,0,0,0
+praxis_praxis,Ruby,Praxis is a framework that focuses on both the design and implementation aspects of creating APIs.,257,186,550,85,315,popular,0,16,29,4,0,1,12,5,1,1,1,0,0
+qiwi_di-container,JavaScript,Experiments around DI and IoC,0,0,28,0,2,small,0,0,35,1,0,1,22,9,12,0,0,1,1
+travis-ci_travis-hub,Ruby,"Processes Job state updates from Travis Worker, as well as enqueuing Jobs.",70,177,2064,45,187,medium,2,0,48,2,0,2,13,10,6,0,1,0,1
+ipfs_js-ipfs,JavaScript,IPFS implementation in JavaScript,3558,1208,7357,0,2039,big,1,27,364,58,0,5,1,14,59,1,0,0,1
+dmfs_ContentPal,Java,A friend to help with Android ContentProvider operations.,4,76,348,1,189,small,0,0,16,1,0,1,1,3,1,0,0,0,0
+iawia002_Diana,Python,Diana is my own blog built with love ???? https://l.jifangcheng.com,15,22,243,0,29,small,0,3,41,1,0,1,112,12,6,1,1,0,1
+luispedro_merge,Python,Merge two directories without losing files,11,0,47,1,1,small,0,0,10,4,0,1,2,5,2,0,0,0,0
+microfocus-idol_java-aci-types,Java,0,0,0,158,0,0,small,2,5,20,1,0,1,2,5,2,0,0,0,0
+Parsely_wp-parsely,PHP,The official WordPress plugin for Parse.ly - makes it a snap to add the required tracking code to enable Parse.ly on your WordPress site.,15,71,519,14,131,medium,2,0,31,6,1,1,3,23,2,1,0,0,1
+ning_maven-dependency-versions-check-plugin,Java,Maven plugin to find dependency version conflicts,57,9,31,0,13,small,0,0,15,2,0,1,12,7,3,0,0,0,0
+bmlt-enabled_bmlt_tabbed_map,PHP,BMLT wordpress plugin for a tabbed map display,0,10,59,0,10,small,9,0,66,2,1,2,34,17,6,0,0,0,1
+OCA_account-financial-tools,Python,Odoo Accountant Financial Tools and Utils,128,722,4593,22,862,popular,5,1,50,3,0,2,2,11,6,0,1,0,1
+AzureAD_azure-activedirectory-library-for-android,Java,"The ADAL SDK for Android gives you the ability to add support for Work Accounts to your application with just a few lines of additional code. This SDK gives your application the full functionality of Microsoft Azure AD, including industry standard protoc",146,650,2921,23,1237,popular,4,6,54,1,0,1,12,10,10,0,1,0,1
+j4velin_WiFi-Automatic,Java,Automatically turn off WiFi if you don't need it,46,9,201,0,38,small,0,0,15,1,0,1,2,3,0,0,0,0,0
+openmrs_openmrs-contrib-android-client,Java,Android client for OpenMRS,112,585,939,85,620,popular,0,0,29,1,0,1,22,6,6,0,0,1,0
+GeoNode_geonode,Python,"GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.",788,2143,8559,27,4437,big,29,0,381,13,1,5,1,18,7,1,1,0,1
+mozfr_transvision,PHP,QA tool for Mozilla product localizers,62,539,1235,16,965,medium,0,6,33,3,0,1,12,22,13,0,1,0,1
+open-keychain_open-keychain,Java,OpenKeychain is an OpenPGP implementation for Android.,1134,532,6570,0,2054,big,0,1,34,1,0,1,12,5,1,0,0,0,0
+edx_XBlock,Python,XBlock courseware component architecture,455,345,2353,71,393,popular,1,0,38,7,0,1,14,9,2,0,1,1,1
+stadia_activerecord-mysql2rgeo-adapter,Ruby,0,17,8,93,0,18,small,4,0,39,3,0,1,112,11,9,0,0,0,1
+byroot_frozen_record,Ruby,Read only ActiveRecord-like interface to query static YAML files,58,20,111,4,26,small,0,0,6,3,0,1,13,2,0,0,0,0,0
+yaocloud_kaname,Ruby,Identity configuration tool for OpenStack,4,12,51,3,12,small,0,0,5,2,0,1,2,3,0,0,0,0,0
+alexandrebignalet_es-get-removed-subscribers,PHP,0,1,0,43,0,0,small,2,0,32,2,0,2,12,18,8,0,1,0,1
+zcobell_ADCIRCModules,C++,Implementation of routines used to manipulate ADCIRC model files in Qt C++,3,15,252,0,15,small,0,6,34,1,0,1,11,6,5,0,0,0,1
+andrea-lascola_Pytoolz,Python,Module containing some python utilities/abstractions,2,1,30,0,1,small,0,0,18,1,0,1,12,7,4,0,0,1,0
+MichaelMure_Arbore,C++,0,179,3,319,2,16,small,0,0,65,4,1,1,12,11,5,0,1,1,1
+devsim_symdiff,C++,Symbolic differentation of algebraic expressions with Python and Tcl interfaces.,5,1,164,0,4,small,0,4,38,2,0,1,0,5,4,1,0,0,1
+edhille_func-midi-parser,JavaScript,A functional-based Javascript midi parsing library,5,0,81,1,2,small,0,0,7,2,0,1,2,4,0,0,0,0,0
+patrikx3_verdaccio-cli,JavaScript,A simple Verdaccio CLI cache clean program,2,0,21,0,0,small,1,0,11,1,0,1,2,5,1,0,1,0,0
+mapbender_mapbender-starter,PHP,Mapbender3 starter project,29,86,2488,11,91,medium,1,0,35,4,0,1,12,21,6,0,1,0,1
+mayah_tinytoml,C++,A header only C++11 library for parsing TOML,143,20,139,0,42,small,0,0,19,1,0,1,2,4,8,0,1,0,1
+ros-perception_image_transport_plugins,C++,A set of plugins for publishing and subscribing to sensor_msgs/Image topics in representations other than raw pixel data.,12,19,143,0,36,small,1,0,12,2,0,1,3,4,2,0,0,0,0
+saucelabs_monocle,Python,An async programming framework with a blocking look-alike syntax.,86,43,183,1,50,small,2,4,36,4,0,1,13,7,2,1,1,0,1
+ReactTraining_history,JavaScript,Manage browser history with JavaScript,3494,125,171,4,336,small,0,0,19,2,0,2,2,3,6,0,1,0,1
+keita-hino_todo,Ruby,0,0,7,26,0,7,small,1,0,17,1,1,1,2,9,4,0,1,0,1
+liveblog_liveblog,JavaScript,Sourcefabric's Live Blog is an open source web app that enables journalists to provide immediate and ongoing coverage on rapidly evolving news events.,61,858,5239,0,882,big,11,2,91,1,0,1,0,26,37,0,1,0,1
+marcusps_GraphSim,C++,"Simon Anders' quantum circuit simulator for Clifford group unitaries and stabilizer states, based on the manipulation of graph states.",9,3,22,0,4,small,0,0,15,2,0,1,3,5,4,0,0,0,0
+iVantage_angular-ivh-treeview,JavaScript,A treeview for AngularJS with filtering and checkbox support.,259,19,301,0,220,small,0,0,12,1,0,1,2,5,4,0,0,0,0
+rwz_natural_sort,Ruby,Natural sorting in Ruby,7,2,24,0,3,small,0,0,17,7,0,1,12,4,0,0,1,0,0
+crate_crate-jdbc,Java,Crate Data Java Client,14,263,1094,17,307,medium,1,1,27,5,0,1,11,10,2,0,1,0,0

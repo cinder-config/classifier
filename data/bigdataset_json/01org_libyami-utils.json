@@ -1,0 +1,42 @@
+{
+  "identifier": "intel_libyami-utils",
+  "features": {
+    "ch.uzh.ciclassifier.features.travisci.BuildTimeLatestAverage": "231.28",
+    "ch.uzh.ciclassifier.features.repository.NumberOfConfigurationFileChanges": "2",
+    "ch.uzh.ciclassifier.features.configuration.UseCache": "0",
+    "ch.uzh.ciclassifier.features.repository.NumberOfContributorsOnConfigurationFile": "2",
+    "ch.uzh.ciclassifier.features.travisci.BuildSuccessRatio": "0.7777777777777778",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfConfigurationLines": "97",
+    "ch.uzh.ciclassifier.features.configuration.TemplateSimilarity": "7",
+    "ch.uzh.ciclassifier.features.configuration.ParseScore": "11",
+    "ch.uzh.ciclassifier.features.repository.NumberOfContributors": "21",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfComments": "16",
+    "ch.uzh.ciclassifier.features.travisci.TimeToFixLatestAverage": "7697.0",
+    "ch.uzh.ciclassifier.features.github.OwnerType": "Organization",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfNotifications": "1",
+    "ch.uzh.ciclassifier.features.travisci.ManualInteractionRatio": "0.0",
+    "ch.uzh.ciclassifier.features.repository.ProjectName": "intel\/libyami-utils",
+    "ch.uzh.ciclassifier.features.repository.DaysUntilConfigAdded": "1315",
+    "ch.uzh.ciclassifier.features.configuration.LintScore": "1",
+    "ch.uzh.ciclassifier.features.configuration.EnvSize": "0",
+    "ch.uzh.ciclassifier.features.configuration.UseDeploy": "0",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfJobs": "1",
+    "ch.uzh.ciclassifier.features.travisci.BuildTimeAverage": "192.77450980392157",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfConfigurationChars": "3062",
+    "ch.uzh.ciclassifier.features.configuration.UniqueInstructions": "38",
+    "ch.uzh.ciclassifier.features.repository.CommitsUntilConfigAdded": "112",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfStages": "1",
+    "ch.uzh.ciclassifier.features.configuration.UseBranches": "0",
+    "ch.uzh.ciclassifier.features.travisci.PullRequestRatio": "0.7293233082706767",
+    "ch.uzh.ciclassifier.features.github.PrimaryLanguage": "C++",
+    "ch.uzh.ciclassifier.features.repository.ConfigChangeFrequency": "0.012269938650306749",
+    "ch.uzh.ciclassifier.features.travisci.TimeToFixAverage": "1191088.5714285714"
+  },
+  "types": [
+    "REPOSITORY",
+    "CONFIGURATION",
+    "GITHUB",
+    "TRAVISCI"
+  ],
+  "db-identifier": "38747589"
+}

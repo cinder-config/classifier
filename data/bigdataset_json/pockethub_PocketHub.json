@@ -1,0 +1,42 @@
+{
+  "identifier": "pockethub_PocketHub",
+  "features": {
+    "ch.uzh.ciclassifier.features.travisci.BuildTimeLatestAverage": "613.72",
+    "ch.uzh.ciclassifier.features.repository.NumberOfConfigurationFileChanges": "35",
+    "ch.uzh.ciclassifier.features.configuration.UseCache": "0",
+    "ch.uzh.ciclassifier.features.repository.NumberOfContributorsOnConfigurationFile": "6",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfConfigurationLines": "26",
+    "ch.uzh.ciclassifier.features.travisci.BuildSuccessRatio": "0.8765133171912833",
+    "ch.uzh.ciclassifier.features.configuration.TemplateSimilarity": "7",
+    "ch.uzh.ciclassifier.features.configuration.ParseScore": "12",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfComments": "2",
+    "ch.uzh.ciclassifier.features.repository.NumberOfContributors": "141",
+    "ch.uzh.ciclassifier.features.travisci.TimeToFixLatestAverage": "9485.0",
+    "ch.uzh.ciclassifier.features.github.OwnerType": "Organization",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfNotifications": "0",
+    "ch.uzh.ciclassifier.features.travisci.ManualInteractionRatio": "0.0",
+    "ch.uzh.ciclassifier.features.repository.ProjectName": "pockethub\/PocketHub",
+    "ch.uzh.ciclassifier.features.repository.DaysUntilConfigAdded": "400",
+    "ch.uzh.ciclassifier.features.configuration.LintScore": "1",
+    "ch.uzh.ciclassifier.features.configuration.EnvSize": "0",
+    "ch.uzh.ciclassifier.features.configuration.UseDeploy": "0",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfJobs": "1",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfConfigurationChars": "527",
+    "ch.uzh.ciclassifier.features.travisci.BuildTimeAverage": "446.4111111111111",
+    "ch.uzh.ciclassifier.features.configuration.UniqueInstructions": "3",
+    "ch.uzh.ciclassifier.features.repository.CommitsUntilConfigAdded": "2126",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfStages": "1",
+    "ch.uzh.ciclassifier.features.configuration.UseBranches": "0",
+    "ch.uzh.ciclassifier.features.travisci.PullRequestRatio": "0.5888077858880778",
+    "ch.uzh.ciclassifier.features.github.PrimaryLanguage": "Java",
+    "ch.uzh.ciclassifier.features.repository.ConfigChangeFrequency": "0.009965831435079727",
+    "ch.uzh.ciclassifier.features.travisci.TimeToFixAverage": "217463.61904761905"
+  },
+  "types": [
+    "REPOSITORY",
+    "CONFIGURATION",
+    "GITHUB",
+    "TRAVISCI"
+  ],
+  "db-identifier": "34"
+}

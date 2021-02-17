@@ -1,0 +1,42 @@
+{
+  "identifier": "microsoft_pai",
+  "features": {
+    "ch.uzh.ciclassifier.features.travisci.BuildTimeLatestAverage": "971.2",
+    "ch.uzh.ciclassifier.features.repository.NumberOfConfigurationFileChanges": "47",
+    "ch.uzh.ciclassifier.features.configuration.UseCache": "0",
+    "ch.uzh.ciclassifier.features.repository.NumberOfContributorsOnConfigurationFile": "7",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfConfigurationLines": "119",
+    "ch.uzh.ciclassifier.features.travisci.BuildSuccessRatio": "0.7696389864713357",
+    "ch.uzh.ciclassifier.features.configuration.TemplateSimilarity": "3",
+    "ch.uzh.ciclassifier.features.configuration.ParseScore": "23",
+    "ch.uzh.ciclassifier.features.repository.NumberOfContributors": "124",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfComments": "0",
+    "ch.uzh.ciclassifier.features.travisci.TimeToFixLatestAverage": "10095.092592592593",
+    "ch.uzh.ciclassifier.features.github.OwnerType": "Organization",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfNotifications": "0",
+    "ch.uzh.ciclassifier.features.travisci.ManualInteractionRatio": "0.0",
+    "ch.uzh.ciclassifier.features.repository.ProjectName": "microsoft\/pai",
+    "ch.uzh.ciclassifier.features.repository.DaysUntilConfigAdded": "141",
+    "ch.uzh.ciclassifier.features.configuration.LintScore": "2",
+    "ch.uzh.ciclassifier.features.configuration.EnvSize": "1",
+    "ch.uzh.ciclassifier.features.configuration.UseDeploy": "0",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfJobs": "13",
+    "ch.uzh.ciclassifier.features.travisci.BuildTimeAverage": "1070.2142857142858",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfConfigurationChars": "2922",
+    "ch.uzh.ciclassifier.features.configuration.UniqueInstructions": "34",
+    "ch.uzh.ciclassifier.features.repository.CommitsUntilConfigAdded": "898",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfStages": "1",
+    "ch.uzh.ciclassifier.features.configuration.UseBranches": "0",
+    "ch.uzh.ciclassifier.features.travisci.PullRequestRatio": "0.7888424295774648",
+    "ch.uzh.ciclassifier.features.github.PrimaryLanguage": "JavaScript",
+    "ch.uzh.ciclassifier.features.repository.ConfigChangeFrequency": "0.011069241639189827",
+    "ch.uzh.ciclassifier.features.travisci.TimeToFixAverage": "10146.87106918239"
+  },
+  "types": [
+    "REPOSITORY",
+    "CONFIGURATION",
+    "GITHUB",
+    "TRAVISCI"
+  ],
+  "db-identifier": "7903fe7e-0152-4816-a464-55edd92e4239"
+}

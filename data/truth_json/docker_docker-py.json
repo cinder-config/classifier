@@ -1,0 +1,42 @@
+{
+  "identifier": "docker_docker-py",
+  "features": {
+    "ch.uzh.ciclassifier.features.travisci.BuildTimeLatestAverage": "255.04",
+    "ch.uzh.ciclassifier.features.repository.NumberOfConfigurationFileChanges": "11",
+    "ch.uzh.ciclassifier.features.configuration.UseCache": "0",
+    "ch.uzh.ciclassifier.features.repository.NumberOfContributorsOnConfigurationFile": "6",
+    "ch.uzh.ciclassifier.features.travisci.BuildSuccessRatio": "0.7981866042702545",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfConfigurationLines": "21",
+    "ch.uzh.ciclassifier.features.configuration.TemplateSimilarity": "4",
+    "ch.uzh.ciclassifier.features.configuration.ParseScore": "23",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfComments": "0",
+    "ch.uzh.ciclassifier.features.repository.NumberOfContributors": "378",
+    "ch.uzh.ciclassifier.features.travisci.TimeToFixLatestAverage": "95198.75",
+    "ch.uzh.ciclassifier.features.github.OwnerType": "Organization",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfNotifications": "0",
+    "ch.uzh.ciclassifier.features.travisci.ManualInteractionRatio": "0.0",
+    "ch.uzh.ciclassifier.features.repository.ProjectName": "docker\/docker-py",
+    "ch.uzh.ciclassifier.features.repository.DaysUntilConfigAdded": "154",
+    "ch.uzh.ciclassifier.features.configuration.LintScore": "2",
+    "ch.uzh.ciclassifier.features.configuration.EnvSize": "1",
+    "ch.uzh.ciclassifier.features.configuration.UseDeploy": "0",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfJobs": "5",
+    "ch.uzh.ciclassifier.features.travisci.BuildTimeAverage": "317.7157287157287",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfConfigurationChars": "310",
+    "ch.uzh.ciclassifier.features.configuration.UniqueInstructions": "2",
+    "ch.uzh.ciclassifier.features.repository.CommitsUntilConfigAdded": "188",
+    "ch.uzh.ciclassifier.features.configuration.NumberOfStages": "1",
+    "ch.uzh.ciclassifier.features.configuration.UseBranches": "0",
+    "ch.uzh.ciclassifier.features.travisci.PullRequestRatio": "0.8012185833968012",
+    "ch.uzh.ciclassifier.features.github.PrimaryLanguage": "Python",
+    "ch.uzh.ciclassifier.features.repository.ConfigChangeFrequency": "0.0035347043701799484",
+    "ch.uzh.ciclassifier.features.travisci.TimeToFixAverage": "50191.454545454544"
+  },
+  "types": [
+    "REPOSITORY",
+    "CONFIGURATION",
+    "GITHUB",
+    "TRAVISCI"
+  ],
+  "db-identifier": "f0ca176b-8cc4-4095-9a14-a9095975005b"
+}
